@@ -1,0 +1,441 @@
+{
+    "Aaron Sidford": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sidford:Aaron",
+            "Google Scholar": "https://scholar.google.com/citations?user=SWqd2rgAAAAJ&hl=en&oi=ao",
+            "home": "http://www.aaronsidford.com"
+        }
+    },
+    "Alexander Aiken": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Aiken:Alexander",
+            "Google Scholar": "https://scholar.google.com/citations?user=3vKjkoQAAAAJ&hl=en&oi=ao",
+            "home": "https://theory.stanford.edu/~aiken"
+        }
+    },
+    "Anshul Kundaje": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kundaje:Anshul",
+            "Google Scholar": "https://scholar.google.com/citations?user=T2vp1pgAAAAJ&hl=en&oi=ao",
+            "home": "https://med.stanford.edu/profiles/anshul-kundaje"
+        }
+    },
+    "Ashish Goel": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goel:Ashish",
+            "Google Scholar": "https://scholar.google.com/citations?user=B_rKfusAAAAJ&hl=en&oi=ao",
+            "home": "https://web.stanford.edu/~ashishg/ashishg.html"
+        }
+    },
+    "Aviad Rubinstein": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rubinstein:Aviad",
+            "home": "https://cs.stanford.edu/~aviad"
+        }
+    },
+    "Balaji Prabhakar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Prabhakar:Balaji",
+            "home": "http://web.stanford.edu/~balaji"
+        }
+    },
+    "Chris Piech": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Piech:Chris",
+            "Google Scholar": "https://scholar.google.com/citations?user=fpT49d8AAAAJ&hl=en&oi=ao",
+            "home": "https://stanford.edu/~cpiech/bio/index.html"
+        }
+    },
+    "Christoforos E. Kozyrakis": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kozyrakis:Christoforos_E=",
+            "Google Scholar": "https://scholar.google.com/citations?user=G2EJz5kAAAAJ&hl=en&oi=ao",
+            "home": "http://csl.stanford.edu/~christos"
+        }
+    },
+    "Christopher D. Manning": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Manning:Christopher_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ&hl=en&oi=ao",
+            "home": "http://nlp.stanford.edu/manning"
+        }
+    },
+    "Christopher Ré": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/R=eacute=:Christopher",
+            "Google Scholar": "https://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en&oi=ao",
+            "home": "http://cs.stanford.edu/people/chrismre"
+        }
+    },
+    "Clark W. Barrett": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Barrett:Clark_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=BtwmZfQAAAAJ&hl=en&oi=ao",
+            "home": "https://cs.nyu.edu/~barrett"
+        }
+    },
+    "Dan Boneh": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Boneh:Dan",
+            "Google Scholar": "https://scholar.google.com/citations?user=MwLqCs4AAAAJ&hl=en&oi=ao",
+            "home": "http://crypto.stanford.edu/~dabo"
+        }
+    },
+    "Daniel Jurafsky": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jurafsky:Daniel",
+            "Google Scholar": "https://scholar.google.com/citations?user=uZg9l58AAAAJ&hl=en&oi=ao",
+            "home": "http://web.stanford.edu/~jurafsky"
+        }
+    },
+    "David Mazières": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mazi=egrave=res:David",
+            "home": "http://www.scs.stanford.edu/~dm"
+        }
+    },
+    "David R. Cheriton": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Cheriton:David_R=",
+            "home": "http://web.stanford.edu/~cheriton"
+        }
+    },
+    "Dawson R. Engler": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/e/Engler:Dawson_R=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Bz-b2a0AAAAJ&hl=en&oi=ao",
+            "home": "http://web.stanford.edu/~engler"
+        }
+    },
+    "Dorsa Sadigh": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sadigh:Dorsa",
+            "Google Scholar": "https://scholar.google.com/citations?user=MEeYxLMAAAAJ&hl=en&oi=ao",
+            "home": "https://dorsa.fyi"
+        }
+    },
+    "Doug L. James": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/James:Doug_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=r70ags0AAAAJ&hl=en&oi=ao",
+            "home": "https://profiles.stanford.edu/doug-james"
+        }
+    },
+    "Emma Brunskill": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Brunskill:Emma",
+            "Google Scholar": "https://scholar.google.com/citations?user=HaN8b2YAAAAJ&hl=en&oi=ao",
+            "home": "http://www.cs.cmu.edu/~ebrun"
+        }
+    },
+    "Fei-Fei Li": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Li:Fei=Fei",
+            "Google Scholar": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en&oi=ao",
+            "home": "http://vision.stanford.edu/feifeili"
+        }
+    },
+    "Gill Bejerano": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bejerano:Gill",
+            "home": "http://bejerano.stanford.edu/pi.html"
+        }
+    },
+    "Gregory Valiant": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/v/Valiant:Gregory",
+            "Google Scholar": "https://scholar.google.com/citations?user=CgItEbQAAAAJ&hl=en&oi=ao",
+            "home": "http://theory.stanford.edu/~valiant"
+        }
+    },
+    "Hector Garcia-Molina": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Garcia=Molina:Hector",
+            "Google Scholar": "https://scholar.google.com/citations?user=bAa___kAAAAJ&hl=en&oi=ao",
+            "home": "http://infolab.stanford.edu/people/hector.html"
+        }
+    },
+    "James A. Landay": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Landay:James_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=oQsObk0AAAAJ&hl=en&oi=ao",
+            "home": "https://profiles.stanford.edu/james-landay"
+        }
+    },
+    "Jeannette Bohg": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bohg:Jeannette",
+            "Google Scholar": "https://scholar.google.com/citations?user=rjnJnEkAAAAJ&hl=en&oi=ao",
+            "home": "https://am.is.tuebingen.mpg.de/person/jbohg"
+        }
+    },
+    "Jennifer Widom": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Widom:Jennifer",
+            "Google Scholar": "https://scholar.google.com/citations?user=zdKmnYwAAAAJ&hl=en&oi=ao",
+            "home": "http://infolab.stanford.edu/~widom"
+        }
+    },
+    "John C. Duchi": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Duchi:John_C=",
+            "Google Scholar": "https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en&oi=ao",
+            "home": "https://stanford.edu/~jduchi/cv.pdf"
+        }
+    },
+    "John C. Mitchell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mitchell:John_C=",
+            "Google Scholar": "https://scholar.google.com/citations?user=1_kJPIEAAAAJ&hl=en&oi=ao",
+            "home": "http://theory.stanford.edu/people/jcm"
+        }
+    },
+    "John K. Ousterhout": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Ousterhout:John_K=",
+            "Google Scholar": "https://scholar.google.com/citations?user=nDH-AqwAAAAJ&hl=en&oi=ao",
+            "home": "http://web.stanford.edu/~ouster"
+        }
+    },
+    "John Kenneth Salisbury Jr.": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jr=:John_Kenneth_Salisbury",
+            "Google Scholar": "https://scholar.google.com/citations?user=FmrDR68AAAAJ&hl=en&oi=ao",
+            "home": "https://med.stanford.edu/profiles/john-salisbury"
+        }
+    },
+    "Jure Leskovec": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Leskovec:Jure",
+            "Google Scholar": "https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en&oi=ao",
+            "home": "https://cs.stanford.edu/people/jure"
+        }
+    },
+    "Kayvon Fatahalian": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fatahalian:Kayvon",
+            "Google Scholar": "https://scholar.google.com/citations?user=ZeG4wDgAAAAJ&hl=en&oi=ao",
+            "home": "http://graphics.stanford.edu/~kayvonf"
+        }
+    },
+    "Keith Winstein": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Winstein:Keith",
+            "Google Scholar": "https://scholar.google.com/citations?user=S5sz8gIAAAAJ&hl=en&oi=ao",
+            "home": "https://cs.stanford.edu/~keithw"
+        }
+    },
+    "Kunle Olukotun": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Olukotun:Kunle",
+            "Google Scholar": "https://scholar.google.com/citations?user=IzXDyR8AAAAJ&hl=en&oi=ao",
+            "home": "http://arsenalfc.stanford.edu/kunle"
+        }
+    },
+    "Leonidas J. Guibas": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Guibas:Leonidas_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+            "home": "http://geometry.stanford.edu/member/guibas"
+        }
+    },
+    "Li-Yang Tan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tan:Li=Yang",
+            "home": "http://theory.stanford.edu/~liyang"
+        }
+    },
+    "Maneesh Agrawala": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Agrawala:Maneesh",
+            "Google Scholar": "https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en&oi=ao",
+            "home": "http://graphics.stanford.edu/~maneesh"
+        }
+    },
+    "Mark Horowitz": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Horowitz:Mark",
+            "Google Scholar": "https://scholar.google.com/citations?user=e7V7-gEAAAAJ&hl=en&oi=ao",
+            "home": "http://stanford.edu/~horowitz"
+        }
+    },
+    "Mary Wootters": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wootters:Mary",
+            "Google Scholar": "https://scholar.google.com/citations?user=LiH53A8AAAAJ&hl=en&oi=ao",
+            "home": "https://engineering.stanford.edu/people/mary-wootters"
+        }
+    },
+    "Matei Zaharia": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zaharia:Matei",
+            "Google Scholar": "https://scholar.google.com/citations?user=I1EvjZsAAAAJ&hl=en&oi=ao",
+            "home": "https://people.csail.mit.edu/matei"
+        }
+    },
+    "Mehran Sahami": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sahami:Mehran",
+            "Google Scholar": "https://scholar.google.com/citations?user=ZasL8IoAAAAJ&hl=en&oi=ao",
+            "home": "http://robotics.stanford.edu/users/sahami/bio.html"
+        }
+    },
+    "Mendel Rosenblum": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rosenblum:Mendel",
+            "home": "http://web.stanford.edu/~mendel"
+        }
+    },
+    "Michael S. Bernstein": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bernstein:Michael_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=zkhHirIAAAAJ&hl=en&oi=ao",
+            "home": "http://hci.stanford.edu/msb"
+        }
+    },
+    "Monica S. Lam": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lam:Monica_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=fVaS7a8AAAAJ&hl=en&oi=ao",
+            "home": "https://suif.stanford.edu/~lam"
+        }
+    },
+    "Moses Charikar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Charikar:Moses",
+            "Google Scholar": "https://scholar.google.com/citations?user=zX3ba1kAAAAJ&hl=en&oi=ao",
+            "home": "https://profiles.stanford.edu/moses-charikar"
+        }
+    },
+    "Nick McKeown": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/McKeown:Nick",
+            "Google Scholar": "https://scholar.google.com/citations?user=SqMUez0AAAAJ&hl=en&oi=ao",
+            "home": "http://stanford.edu/~nickm"
+        }
+    },
+    "Noah D. Goodman": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goodman:Noah_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=OUpIbcQAAAAJ&hl=en&oi=ao",
+            "home": "http://cocolab.stanford.edu/ndg.html"
+        }
+    },
+    "Omer Reingold": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Reingold:Omer",
+            "Google Scholar": "https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en&oi=ao",
+            "home": "https://omereingold.wordpress.com"
+        }
+    },
+    "Oussama Khatib": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Khatib:Oussama",
+            "Google Scholar": "https://scholar.google.com/citations?user=4arkOLcAAAAJ&hl=en&oi=ao",
+            "home": "http://cs.stanford.edu/group/manips/people/oussama-khatib"
+        }
+    },
+    "Pat Hanrahan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hanrahan:Pat",
+            "Google Scholar": "https://scholar.google.com/citations?user=RzEnQmgAAAAJ&hl=en&oi=ao",
+            "home": "https://graphics.stanford.edu/~hanrahan"
+        }
+    },
+    "Percy Liang": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Liang:Percy",
+            "Google Scholar": "https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en&oi=ao",
+            "home": "https://cs.stanford.edu/~pliang"
+        }
+    },
+    "Philip Levis": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Levis:Philip",
+            "Google Scholar": "https://scholar.google.com/citations?user=I_YsXU4AAAAJ&hl=en&oi=ao",
+            "home": "http://csl.stanford.edu/~pal"
+        }
+    },
+    "Ron O. Dror": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dror:Ron_O=",
+            "Google Scholar": "https://scholar.google.com/citations?user=GTmdNU0AAAAJ&hl=en&oi=ao",
+            "home": "http://cs.stanford.edu/people/rondror"
+        }
+    },
+    "Ronald Fedkiw": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fedkiw:Ronald",
+            "Google Scholar": "https://scholar.google.com/citations?user=OoItXTkAAAAJ&hl=en&oi=ao",
+            "home": "http://cs.stanford.edu/~fedkiw"
+        }
+    },
+    "Sachin Katti": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Katti:Sachin",
+            "Google Scholar": "https://scholar.google.com/citations?user=cc4Qi_IAAAAJ&hl=en&oi=ao",
+            "home": "http://stanford.edu/~skatti"
+        }
+    },
+    "Sean Follmer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Follmer:Sean",
+            "Google Scholar": "https://scholar.google.com/citations?user=f3g5oeEAAAAJ&hl=en&oi=ao",
+            "home": "http://shape.stanford.edu"
+        }
+    },
+    "Serafim Batzoglou": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Batzoglou:Serafim",
+            "Google Scholar": "https://scholar.google.com/citations?user=POWKkqEAAAAJ&hl=en&oi=ao",
+            "home": "http://www.serafimb.org/people.html"
+        }
+    },
+    "Silvio Savarese": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Savarese:Silvio",
+            "Google Scholar": "https://scholar.google.com/citations?user=ImpbxLsAAAAJ&hl=en&oi=ao",
+            "home": "http://cvgl.stanford.edu/silvio"
+        }
+    },
+    "Stefano Ermon": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/e/Ermon:Stefano",
+            "home": "https://cs.stanford.edu/~ermon"
+        }
+    },
+    "Subhasish Mitra": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mitra:Subhasish",
+            "Google Scholar": "https://scholar.google.com/citations?user=ZZrSuh8AAAAJ&hl=en&oi=ao",
+            "home": "https://web.stanford.edu/~subh"
+        }
+    },
+    "Tengyu Ma": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Ma:Tengyu",
+            "Google Scholar": "https://scholar.google.com/citations?user=i38QlUwAAAAJ&hl=en&oi=ao",
+            "home": "http://ai.stanford.edu/~tengyuma"
+        }
+    },
+    "William J. Dally": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dally:William_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=YZHj-Y4AAAAJ&hl=en&oi=ao",
+            "home": "http://csl.stanford.edu/~billd"
+        }
+    },
+    "Yoav Shoham": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shoham:Yoav",
+            "home": "http://robotics.stanford.edu/users/shoham"
+        }
+    },
+    "Zakir Durumeric": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Durumeric:Zakir",
+            "Google Scholar": "https://scholar.google.com/citations?user=TxPSRHIAAAAJ&hl=en&oi=ao",
+            "home": "https://zakird.com"
+        }
+    }
+}
