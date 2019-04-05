@@ -17,7 +17,7 @@ class CourseExplorerSpider(scrapy.Spider):
         urls = ["{}?q={}&descriptions=on&schedules=on".format(self.allowed_domains[0], name) for name in researcher_names]
         for url in urls:
             yield scrapy.Request(
-                url = url,
+                url=url,
                 callback=self.parse
             )
 

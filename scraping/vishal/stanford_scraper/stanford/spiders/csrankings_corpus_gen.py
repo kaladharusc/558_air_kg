@@ -11,7 +11,7 @@ class CsrankingsSpider(scrapy.Spider):
 
     def start_requests(self):
         yield SplashRequest(
-            url = "http://csrankings.org/#/index?all",
+            url = "http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir",
             callback=self.parse
         )
 

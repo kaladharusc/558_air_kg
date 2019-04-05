@@ -32,6 +32,7 @@ SPIDER_MIDDLEWARES = {
     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
 }
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
