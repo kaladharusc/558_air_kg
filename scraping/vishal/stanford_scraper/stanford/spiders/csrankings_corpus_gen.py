@@ -8,7 +8,6 @@ class CsrankingsSpider(scrapy.Spider):
     name = 'csrankings_corpus_gen'
     allowed_domains = ['csrankings.org']
     global_dict = {}
-    # start_urls = ['http://csrankings.org/#/index?all']
 
     def start_requests(self):
         yield SplashRequest(
@@ -17,14 +16,10 @@ class CsrankingsSpider(scrapy.Spider):
         )
 
     def parse(self, response):
-        # corpus = response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr/td/small/a[position() > 1]/@href")
         researchers = response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr/td[2]/small/a/text()") 
         for index, researcher in enumerate(researchers):
-            # print(researcher.get())
             corpus_type = response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td//a[position() > 1]/@title".format(index*2 + 1))
             corpus =  response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td//a[position() > 1]/@href".format(index*2 + 1))
-            # print([c.get() for c in corpus])
-            # break
 
             self.global_dict.update({
                 researcher.get(): {
