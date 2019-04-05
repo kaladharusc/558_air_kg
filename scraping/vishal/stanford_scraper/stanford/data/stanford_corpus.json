@@ -3,6 +3,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sidford:Aaron",
             "Google Scholar": "https://scholar.google.com/citations?user=SWqd2rgAAAAJ&hl=en&oi=ao",
+            "domain": "db,ml",
             "home": "http://www.aaronsidford.com"
         }
     },
@@ -10,6 +11,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Aiken:Alexander",
             "Google Scholar": "https://scholar.google.com/citations?user=3vKjkoQAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "https://theory.stanford.edu/~aiken"
         }
     },
@@ -17,6 +19,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kundaje:Anshul",
             "Google Scholar": "https://scholar.google.com/citations?user=T2vp1pgAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
             "home": "https://med.stanford.edu/profiles/anshul-kundaje"
         }
     },
@@ -24,18 +27,21 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goel:Ashish",
             "Google Scholar": "https://scholar.google.com/citations?user=B_rKfusAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
             "home": "https://web.stanford.edu/~ashishg/ashishg.html"
         }
     },
     "Aviad Rubinstein": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rubinstein:Aviad",
+            "domain": "",
             "home": "https://cs.stanford.edu/~aviad"
         }
     },
     "Balaji Prabhakar": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Prabhakar:Balaji",
+            "domain": "",
             "home": "http://web.stanford.edu/~balaji"
         }
     },
@@ -43,6 +49,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Piech:Chris",
             "Google Scholar": "https://scholar.google.com/citations?user=fpT49d8AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
             "home": "https://stanford.edu/~cpiech/bio/index.html"
         }
     },
@@ -50,6 +57,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kozyrakis:Christoforos_E=",
             "Google Scholar": "https://scholar.google.com/citations?user=G2EJz5kAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://csl.stanford.edu/~christos"
         }
     },
@@ -57,6 +65,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Manning:Christopher_D=",
             "Google Scholar": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://nlp.stanford.edu/manning"
         }
     },
@@ -64,6 +73,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/r/R=eacute=:Christopher",
             "Google Scholar": "https://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://cs.stanford.edu/people/chrismre"
         }
     },
@@ -71,6 +81,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Boneh:Dan",
             "Google Scholar": "https://scholar.google.com/citations?user=MwLqCs4AAAAJ&hl=en&oi=ao",
+            "domain": "db",
             "home": "http://crypto.stanford.edu/~dabo"
         }
     },
@@ -78,6 +89,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jurafsky:Daniel",
             "Google Scholar": "https://scholar.google.com/citations?user=uZg9l58AAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://web.stanford.edu/~jurafsky"
         }
     },
@@ -85,6 +97,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sadigh:Dorsa",
             "Google Scholar": "https://scholar.google.com/citations?user=MEeYxLMAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "https://dorsa.fyi"
         }
     },
@@ -92,6 +105,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Brunskill:Emma",
             "Google Scholar": "https://scholar.google.com/citations?user=HaN8b2YAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
             "home": "http://www.cs.cmu.edu/~ebrun"
         }
     },
@@ -99,6 +113,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Li:Fei=Fei",
             "Google Scholar": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,ml",
             "home": "http://vision.stanford.edu/feifeili"
         }
     },
@@ -106,6 +121,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/v/Valiant:Gregory",
             "Google Scholar": "https://scholar.google.com/citations?user=CgItEbQAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
             "home": "http://theory.stanford.edu/~valiant"
         }
     },
@@ -113,6 +129,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Garcia=Molina:Hector",
             "Google Scholar": "https://scholar.google.com/citations?user=bAa___kAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
             "home": "http://infolab.stanford.edu/people/hector.html"
         }
     },
@@ -120,6 +137,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Duchi:John_C=",
             "Google Scholar": "https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "https://stanford.edu/~jduchi/cv.pdf"
         }
     },
@@ -127,6 +145,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mitchell:John_C=",
             "Google Scholar": "https://scholar.google.com/citations?user=1_kJPIEAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://theory.stanford.edu/people/jcm"
         }
     },
@@ -134,6 +153,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Leskovec:Jure",
             "Google Scholar": "https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "https://cs.stanford.edu/people/jure"
         }
     },
@@ -141,6 +161,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fatahalian:Kayvon",
             "Google Scholar": "https://scholar.google.com/citations?user=ZeG4wDgAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://graphics.stanford.edu/~kayvonf"
         }
     },
@@ -148,6 +169,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Olukotun:Kunle",
             "Google Scholar": "https://scholar.google.com/citations?user=IzXDyR8AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://arsenalfc.stanford.edu/kunle"
         }
     },
@@ -155,6 +177,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Guibas:Leonidas_J=",
             "Google Scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+            "domain": "robotics,vision",
             "home": "http://geometry.stanford.edu/member/guibas"
         }
     },
@@ -162,6 +185,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zaharia:Matei",
             "Google Scholar": "https://scholar.google.com/citations?user=I1EvjZsAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "https://people.csail.mit.edu/matei"
         }
     },
@@ -169,6 +193,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sahami:Mehran",
             "Google Scholar": "https://scholar.google.com/citations?user=ZasL8IoAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://robotics.stanford.edu/users/sahami/bio.html"
         }
     },
@@ -176,6 +201,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bernstein:Michael_S=",
             "Google Scholar": "https://scholar.google.com/citations?user=zkhHirIAAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
             "home": "http://hci.stanford.edu/msb"
         }
     },
@@ -183,6 +209,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lam:Monica_S=",
             "Google Scholar": "https://scholar.google.com/citations?user=fVaS7a8AAAAJ&hl=en&oi=ao",
+            "domain": "hci",
             "home": "https://suif.stanford.edu/~lam"
         }
     },
@@ -190,6 +217,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Charikar:Moses",
             "Google Scholar": "https://scholar.google.com/citations?user=zX3ba1kAAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
             "home": "https://profiles.stanford.edu/moses-charikar"
         }
     },
@@ -197,6 +225,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goodman:Noah_D=",
             "Google Scholar": "https://scholar.google.com/citations?user=OUpIbcQAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://cocolab.stanford.edu/ndg.html"
         }
     },
@@ -204,6 +233,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Reingold:Omer",
             "Google Scholar": "https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
             "home": "https://omereingold.wordpress.com"
         }
     },
@@ -211,6 +241,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hanrahan:Pat",
             "Google Scholar": "https://scholar.google.com/citations?user=RzEnQmgAAAAJ&hl=en&oi=ao",
+            "domain": "security",
             "home": "https://graphics.stanford.edu/~hanrahan"
         }
     },
@@ -218,6 +249,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Liang:Percy",
             "Google Scholar": "https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "https://cs.stanford.edu/~pliang"
         }
     },
@@ -225,6 +257,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Katti:Sachin",
             "Google Scholar": "https://scholar.google.com/citations?user=cc4Qi_IAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://stanford.edu/~skatti"
         }
     },
@@ -232,6 +265,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Batzoglou:Serafim",
             "Google Scholar": "https://scholar.google.com/citations?user=POWKkqEAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://www.serafimb.org/people.html"
         }
     },
@@ -239,12 +273,14 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Savarese:Silvio",
             "Google Scholar": "https://scholar.google.com/citations?user=ImpbxLsAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://cvgl.stanford.edu/silvio"
         }
     },
     "Stefano Ermon": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/e/Ermon:Stefano",
+            "domain": "ml,vision",
             "home": "https://cs.stanford.edu/~ermon"
         }
     },
@@ -252,6 +288,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Ma:Tengyu",
             "Google Scholar": "https://scholar.google.com/citations?user=i38QlUwAAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
             "home": "http://ai.stanford.edu/~tengyuma"
         }
     },
@@ -259,12 +296,14 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dally:William_J=",
             "Google Scholar": "https://scholar.google.com/citations?user=YZHj-Y4AAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://csl.stanford.edu/~billd"
         }
     },
     "Yoav Shoham": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shoham:Yoav",
+            "domain": "theory",
             "home": "http://robotics.stanford.edu/users/shoham"
         }
     },
@@ -272,6 +311,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Durumeric:Zakir",
             "Google Scholar": "https://scholar.google.com/citations?user=TxPSRHIAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "https://zakird.com"
         }
     }

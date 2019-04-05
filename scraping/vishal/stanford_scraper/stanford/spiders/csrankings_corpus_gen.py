@@ -20,15 +20,14 @@ class CsrankingsSpider(scrapy.Spider):
         for index, researcher in enumerate(researchers):
             corpus_type = response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td//a[position() > 1]/@title".format(index*2 + 1))
             corpus =  response.selector.xpath("//div[@id='Stanford%20University-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td//a[position() > 1]/@href".format(index*2 + 1))
-
+            corpus_dict = dict([(" ".join(key.get().split()[3:-1]), value.get()) for key, value in zip(corpus_type, corpus)])
+            corpus_dict.update({"domain": response.selector.xpath("//div[@id='University%20of%20Maryland%20-%20College%20Park-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td[2]/small/font/text()".format(index*2 + 1)).get() or ""})
             self.global_dict.update({
                 researcher.get(): {
-                    "corpus": dict([(" ".join(key.get().split()[3:-1]), value.get()) for key, value in zip(corpus_type, corpus)])
+                    "corpus": corpus_dict
                 }
             })
             
-        print(len(self.global_dict.keys()))
-        
         with open("{}/stanford/data/stanford_corpus.json".format(os.getcwd()), "w") as file:
             json.dump(self.global_dict, file, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
 

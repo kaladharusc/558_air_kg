@@ -3,6 +3,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shrivastava:Abhinav",
             "Google Scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://abhinavsh.info"
         },
         "query_param": "Shrivastava%2C+Abhinav"
@@ -11,6 +12,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Srinivasan:Aravind",
             "Google Scholar": "https://scholar.google.com/citations?user=sPzla6IAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
             "home": "https://www.cs.umd.edu/~srin"
         },
         "query_param": "Srinivasan%2C+Aravind"
@@ -19,6 +21,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Nau:Dana_S=",
             "Google Scholar": "https://scholar.google.com/citations?user=fez4ulcAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
             "home": "https://www.cs.umd.edu/users/nau"
         },
         "query_param": "Nau%2C+Dana"
@@ -27,6 +30,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Abadi:Daniel_J=",
             "Google Scholar": "https://scholar.google.com/citations?user=zxeEF2gAAAAJ&hl=en&oi=ao",
+            "domain": "db",
             "home": "https://www.cs.umd.edu/people/abadi"
         },
         "query_param": "Abadi%2C+Daniel"
@@ -35,6 +39,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jacobs:David_W=",
             "Google Scholar": "https://scholar.google.com/citations?user=WH2KmRgAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "https://www.cs.umd.edu/~djacobs"
         },
         "query_param": "Jacobs%2C+David"
@@ -43,6 +48,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Manocha:Dinesh",
             "Google Scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
             "home": "https://www.cs.unc.edu/~dm"
         },
         "query_param": "Manocha%2C+Dinesh"
@@ -51,6 +57,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Perlis:Donald",
             "Google Scholar": "https://scholar.google.com/citations?user=v2X9gX8AAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "https://www.cs.umd.edu/users/perlis"
         },
         "query_param": "Perlis%2C+Donald"
@@ -59,6 +66,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Oard:Douglas_W=",
             "Google Scholar": "https://scholar.google.com/citations?user=3ctKkysAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://terpconnect.umd.edu/~oard"
         },
         "query_param": "Oard%2C+Douglas"
@@ -67,6 +75,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Huang:Furong",
             "Google Scholar": "https://scholar.google.com/citations?user=mRI6AogAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
             "home": "https://www.cs.umd.edu/people/furongh"
         },
         "query_param": "Huang%2C+Furong"
@@ -75,6 +84,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/i/III:Hal_Daum=eacute=",
             "Google Scholar": "https://scholar.google.com/citations?user=PbEw81gAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,ml",
             "home": "http://www.umiacs.umd.edu/~hal"
         },
         "query_param": "III%2C+Hal"
@@ -83,6 +93,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Samet:Hanan",
             "Google Scholar": "https://scholar.google.com/citations?user=ATOfqHEAAAAJ&hl=en&oi=ao",
+            "domain": "db,ml",
             "home": "https://www.cs.umd.edu/people/hjs"
         },
         "query_param": "Samet%2C+Hanan"
@@ -91,6 +102,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kacorri:Hernisa",
             "Google Scholar": "https://scholar.google.com/citations?user=El-R5MEAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
             "home": "https://terpconnect.umd.edu/~hernisa"
         },
         "query_param": "Kacorri%2C+Hernisa"
@@ -99,6 +111,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Golbeck:Jennifer",
             "Google Scholar": "https://scholar.google.com/citations?user=WBOnL7sAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
             "home": "http://cs.umd.edu/people/jgolbeck"
         },
         "query_param": "Golbeck%2C+Jennifer"
@@ -107,6 +120,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dickerson:John_P=",
             "Google Scholar": "https://scholar.google.com/citations?user=QgDpfCQAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
             "home": "http://jpdickerson.com"
         },
         "query_param": "Dickerson%2C+John"
@@ -115,6 +129,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Boyd=Graber:Jordan_L=",
             "Google Scholar": "https://scholar.google.com/citations?user=BT4XTP4AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://www.umiacs.umd.edu/~jbg"
         },
         "query_param": "Boyd-Graber%2C+Jordan"
@@ -123,6 +138,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Davis:Larry_S=",
             "Google Scholar": "https://scholar.google.com/citations?user=lc0ARagAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://www.umiacs.umd.edu/~lsd"
         },
         "query_param": "Davis%2C+Larry"
@@ -131,6 +147,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Carpuat:Marine",
             "Google Scholar": "https://scholar.google.com/citations?user=EAQfVXgAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://www.cs.umd.edu/~marine"
         },
         "query_param": "Carpuat%2C+Marine"
@@ -139,6 +156,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zwicker:Matthias",
             "Google Scholar": "https://scholar.google.com/citations?user=KW0FmzgAAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
             "home": "https://www.cs.umd.edu/people/zwicker"
         },
         "query_param": "Zwicker%2C+Matthias"
@@ -147,6 +165,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lin:Ming_C=",
             "Google Scholar": "https://scholar.google.com/citations?user=ugFNit4AAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
             "home": "http://www.cs.umd.edu/~lin"
         },
         "query_param": "Lin%2C+Ming"
@@ -155,6 +174,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hajiaghayi:Mohammad_Taghi",
             "Google Scholar": "https://scholar.google.com/citations?user=SQ1eGN4AAAAJ&hl=en&oi=ao",
+            "domain": "theory",
             "home": "http://www.cs.umd.edu/~hajiagha"
         },
         "query_param": "Hajiaghayi%2C+Mohammad"
@@ -163,6 +183,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Feldman:Naomi",
             "Google Scholar": "https://scholar.google.com/citations?user=FvRFQZ8AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://legacydirs.umiacs.umd.edu/~nhf/index.html"
         },
         "query_param": "Feldman%2C+Naomi"
@@ -171,6 +192,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Resnik:Philip",
             "Google Scholar": "https://scholar.google.com/citations?user=71BFWc0AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
             "home": "http://www.umiacs.umd.edu/~resnik"
         },
         "query_param": "Resnik%2C+Philip"
@@ -179,6 +201,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Chellappa:Rama",
             "Google Scholar": "https://scholar.google.com/citations?user=mZxsTCcAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
             "home": "http://cs.umd.edu/people/chella"
         },
         "query_param": "Chellappa%2C+Rama"
@@ -187,6 +210,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Duraiswami:Ramani",
             "Google Scholar": "https://scholar.google.com/citations?user=BVXyodYAAAAJ&hl=en&oi=ao",
+            "domain": "",
             "home": "http://www.umiacs.umd.edu/~ramani"
         },
         "query_param": "Duraiswami%2C+Ramani"
@@ -195,6 +219,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Feizi:Soheil",
             "Google Scholar": "https://scholar.google.com/citations?user=lptAmrMAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
             "home": "https://www.cs.umd.edu/~sfeizi"
         },
         "query_param": "Feizi%2C+Soheil"
@@ -203,6 +228,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goldstein:Tom",
             "Google Scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+            "domain": "ml,vision",
             "home": "https://www.cs.umd.edu/~tomg"
         },
         "query_param": "Goldstein%2C+Tom"
@@ -211,6 +237,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dumitras:Tudor",
             "Google Scholar": "https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en&oi=ao",
+            "domain": "security",
             "home": "http://users.umiacs.umd.edu/~tdumitra"
         },
         "query_param": "Dumitras%2C+Tudor"
@@ -219,6 +246,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Subrahmanian:V=_S=",
             "Google Scholar": "https://scholar.google.com/citations?user=PLt9wB8AAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
             "home": "https://www.cs.umd.edu/~vs"
         },
         "query_param": "Subrahmanian%2C+V."
@@ -227,6 +255,7 @@
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Aloimonos:Yiannis",
             "Google Scholar": "https://scholar.google.com/citations?user=7QmEsOwAAAAJ&hl=en&oi=ao",
+            "domain": "robotics,vision",
             "home": "http://www.cfar.umd.edu/~yiannis"
         },
         "query_param": "Aloimonos%2C+Yiannis"
