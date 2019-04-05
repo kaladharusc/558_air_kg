@@ -10,7 +10,8 @@ import os
 class StanfordPipeline(object):
 
     def open_spider(self, spider):
-        self.file = open("{}/stanford/data/stanford_course_explorer_data.json".format(os.getcwd()), "w")
+        self.file = open("{}/stanford/data/stanford_course_explorer_data.json".\
+            format(os.getcwd()), "w")
 
     def close_spider(self, spider):
         self.file.close()
