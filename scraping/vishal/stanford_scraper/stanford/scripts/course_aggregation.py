@@ -33,7 +33,13 @@ urses.json"), "r") as fp:
         with open(os.path.join(self.data_directory, "stanford_course_explorer_d\
 ata.json"), "r") as fp: 
             for line in fp.readlines():
-                self.course_explorer.update(json.loads(line))
+                researcher_dict = json.loads(line)
+                r = list(researcher_dict.keys())[0]
+                c = researcher_dict.get(r).get("courses")
+                if not self.course_explorer.get(r):
+                    self.course_explorer.update(researcher_dict)
+                else:
+                    self.course_explorer[r]["courses"].extend(c)
 
         # print(self.course_explorer.keys())
 
@@ -47,7 +53,7 @@ n")
 
             if course_array:
                 for course in course_array:
-                    courseId = course.get("courseNumber")
+                    courseId = course.get("courseNumber").strip(":")
                     courseTitle = course.get("courseTitle")
                     courseLevel = course.get("courseLevel")
                     courseMeta = course.get("courseDescription")

@@ -3,6 +3,7 @@ import os
 import json
 import scrapy
 import re
+import lxml
 
 class CourseExplorerSpider(scrapy.Spider):
     name = 'course_explorer'
@@ -47,12 +48,20 @@ A-Z]+)=", request_url)[0])
             }
         })
 
-        for index in range(len(searchResults)):
-            courseTitle = searchResults[index].xpath("//span[@class='courseTitle']/text()").get()
-            courseNumber = searchResults[index].xpath("//span[@class='courseNumber']/text()").get()
-            courseDescription = searchResults[index].xpath("//div[@class='courseDescription']/text()").get()
-            courseAttributes = " ".join(searchResults[index].xpath("//div[@class='courseAttributes'][1]/text()").get().split())
-            # courseInstructors = searchResults[index].xpath("//div[@class='courseAttributes'][2]").get()
+        for result in searchResults:
+            result = lxml.html.fromstring(result.get())
+            courseTitle = result.xpath("//span[@class='courseTitle']/text()")
+            courseTitle = courseTitle[0] if len(courseTitle) else ""
+            courseNumber = result.xpath("//span[@class='courseNumber']/text()")
+            courseNumber = courseNumber[0] if len(courseNumber) else ""
+            courseDescription = result.xpath("//div[@class='courseDescription']\
+/text()")
+            courseDescription = courseDescription[0] if len(courseDescription) \
+                else ""
+            courseAttributes = " ".join(result.xpath("//div[@class='courseAttri\
+butes'][1]/text()")[0].split())
+            # courseInstructors = searchResults[index].xpath("//div[@class='cou\
+            # rseAttributes'][2]").get()
             course_explorer_dict[researcher_name]["courses"].append(
                 {
                     "courseTitle": courseTitle,
