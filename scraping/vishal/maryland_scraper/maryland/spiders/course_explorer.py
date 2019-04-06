@@ -35,8 +35,8 @@ y2=on&_classDay3=on_classDay4=on&_classDay5=on"
 
     def start_requests(self):
 
-        corpus_file_path = "{}/maryland/data/maryland_corpus.json".format(\
-            os.getcwd())
+        corpus_file_path = "{}/maryland/data/maryland_corpus_without_courses.js\
+on".format(os.getcwd())
 
         with open(corpus_file_path, "r") as file:
             self.global_dict = json.load(file)

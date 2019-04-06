@@ -28,7 +28,7 @@ class CsrankingsSpider(scrapy.Spider):
                 }
             })
             
-        with open("{}/stanford/data/stanford_corpus.json".format(os.getcwd()), "w") as file:
+        with open("{}/stanford/data/stanford_corpus_without_courses.json".format(os.getcwd()), "w") as file:
             json.dump(self.global_dict, file, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
 
     def parse_details(self, response):
