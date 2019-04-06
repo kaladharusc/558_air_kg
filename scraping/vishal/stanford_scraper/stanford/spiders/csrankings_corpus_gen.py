@@ -23,11 +23,11 @@ class CsrankingsSpider(scrapy.Spider):
             corpus_dict = dict([(" ".join(key.get().split()[3:-1]), value.get()) for key, value in zip(corpus_type, corpus)])
             corpus_dict.update({"domain": response.selector.xpath("//div[@id='University%20of%20Maryland%20-%20College%20Park-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td[2]/small/font/text()".format(index*2 + 1)).get() or ""})
             self.global_dict.update({
-                researcher.get(): {
+                researcher.get().replace("é", "e"): {
                     "corpus": corpus_dict
                 }
             })
-            
+
         with open("{}/stanford/data/stanford_corpus_without_courses.json".format(os.getcwd()), "w") as file:
             json.dump(self.global_dict, file, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
 

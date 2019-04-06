@@ -20,6 +20,8 @@ on".format(os.getcwd())
 
         researcher_names = ["+".join(name.split()) for name in \
             self.global_dict.keys()]
+        print(researcher_names)
+        exit
         urls = ["{}?q={}&descriptions=on&academicYear=&filter-academiclevel-{}=\
 on&page=0&filter-coursestatus-Active=on&collapse=%2c7%2c&catalog=".format(\
             self.allowed_domains[0], name, academic_level) for name in \
@@ -32,12 +34,17 @@ on&page=0&filter-coursestatus-Active=on&collapse=%2c7%2c&catalog=".format(\
 
     def parse(self, response):
         request_url = response.request.url
+
         academic_level = self.academic_levels.get(re.findall(r"academiclevel-([\
 A-Z]+)=", request_url)[0])
         searchResults = response.selector.xpath("//div[@class='searchResult']")
 #         researcher_name = " ".join(response.selector.xpath("//td[@id='title']/h\
 # 1").get().strip("<h1>").strip("</h1>").split()[2:])
-        researcher_name = " ".join(re.findall("\?q=(.*)&descriptions", request_url)[0].split("+"))
+        researcher_name = " ".join(re.findall("\?q=(.*)&descriptions", \
+            request_url)[0].split("+"))
+        print("*************************************************************\n\n\n")
+        print(request_url)
+        print("*************************************************************\n\n\n")
 
         course_explorer_dict = {}
         course_explorer_dict.update({

@@ -29,6 +29,7 @@ ata.json"), "r") as fp:
 n")
         for researcher, course_dict in self.course_explorer.items():
             course_array = course_dict["courses"]
+            researcher = researcher.decode("utf-8")
             if not self.object[researcher].get("courses"):
                 self.object[researcher].update({"courses":[]})
 
