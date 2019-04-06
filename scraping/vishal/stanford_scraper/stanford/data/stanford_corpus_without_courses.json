@@ -7,7 +7,7 @@
             "home": "http://www.aaronsidford.com"
         }
     },
-    "Alexander Aiken": {
+    "Alex Aiken": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Aiken:Alexander",
             "Google Scholar": "https://scholar.google.com/citations?user=3vKjkoQAAAAJ&hl=en&oi=ao",
@@ -45,20 +45,20 @@
             "home": "http://web.stanford.edu/~balaji"
         }
     },
+    "Bill dally": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dally:William_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=YZHj-Y4AAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://csl.stanford.edu/~billd"
+        }
+    },
     "Chris Piech": {
         "corpus": {
             "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Piech:Chris",
             "Google Scholar": "https://scholar.google.com/citations?user=fpT49d8AAAAJ&hl=en&oi=ao",
             "domain": "ml",
             "home": "https://stanford.edu/~cpiech/bio/index.html"
-        }
-    },
-    "Christoforos E. Kozyrakis": {
-        "corpus": {
-            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kozyrakis:Christoforos_E=",
-            "Google Scholar": "https://scholar.google.com/citations?user=G2EJz5kAAAAJ&hl=en&oi=ao",
-            "domain": "",
-            "home": "http://csl.stanford.edu/~christos"
         }
     },
     "Christopher D. Manning": {
@@ -75,6 +75,14 @@
             "Google Scholar": "https://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en&oi=ao",
             "domain": "nlp",
             "home": "http://cs.stanford.edu/people/chrismre"
+        }
+    },
+    "Christos Kozyrakis": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kozyrakis:Christoforos_E=",
+            "Google Scholar": "https://scholar.google.com/citations?user=G2EJz5kAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://csl.stanford.edu/~christos"
         }
     },
     "Dan Boneh": {
@@ -290,14 +298,6 @@
             "Google Scholar": "https://scholar.google.com/citations?user=i38QlUwAAAAJ&hl=en&oi=ao",
             "domain": "ml,ai",
             "home": "http://ai.stanford.edu/~tengyuma"
-        }
-    },
-    "William J. Dally": {
-        "corpus": {
-            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dally:William_J=",
-            "Google Scholar": "https://scholar.google.com/citations?user=YZHj-Y4AAAAJ&hl=en&oi=ao",
-            "domain": "",
-            "home": "http://csl.stanford.edu/~billd"
         }
     },
     "Yoav Shoham": {

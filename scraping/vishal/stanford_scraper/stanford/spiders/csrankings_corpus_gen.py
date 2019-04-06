@@ -9,6 +9,18 @@ class CsrankingsSpider(scrapy.Spider):
     allowed_domains = ['csrankings.org']
     global_dict = {}
 
+    def formatResearcherNames(self, s):
+        s = s.replace("é", "e")
+        replace_name_dict = {
+            "Alexander Aiken" : "Alex Aiken",
+            "Christoforos E. Kozyrakis": "Christos Kozyrakis",
+            "William J. Dally": "Bill dally"
+        }
+        if s in replace_name_dict.keys():
+            s = replace_name_dict.get(s)
+        
+        return s
+
     def start_requests(self):
         yield SplashRequest(
             url = "http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir",
@@ -23,7 +35,7 @@ class CsrankingsSpider(scrapy.Spider):
             corpus_dict = dict([(" ".join(key.get().split()[3:-1]), value.get()) for key, value in zip(corpus_type, corpus)])
             corpus_dict.update({"domain": response.selector.xpath("//div[@id='University%20of%20Maryland%20-%20College%20Park-faculty']/div[@class='table']/table[@class='table table-sm table-striped']/tbody/tr[{}]/td[2]/small/font/text()".format(index*2 + 1)).get() or ""})
             self.global_dict.update({
-                researcher.get().replace("é", "e"): {
+                self.formatResearcherNames(researcher.get()): {
                     "corpus": corpus_dict
                 }
             })

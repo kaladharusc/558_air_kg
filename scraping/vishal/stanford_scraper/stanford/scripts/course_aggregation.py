@@ -2,13 +2,26 @@ import os
 import json
 
 class Aggregator():
+
+    semester_mappings = {
+        "Aut": "Fall",
+        "Win": "Winter",
+        "Spr": "Spring",
+        "Sum": "Summer"
+    }
+
+    def format_semester(self, s):
+        for key, value in self.semester_mappings.items():
+            s = s.replace(key, value)
+        return s
+
     def __init__(self):
         self.data_directory = os.path.join(os.getcwd(), "scraping", "vishal", "\
 stanford_scraper", "stanford", "data")
         self.load_object()
         self.load_course_explorer()
         self.aggregate()
-        print(self.object)
+        self.save_to_file()
 
     def load_object(self):
         with open(os.path.join(self.data_directory, "stanford_corpus_without_co\
@@ -29,7 +42,6 @@ ata.json"), "r") as fp:
 n")
         for researcher, course_dict in self.course_explorer.items():
             course_array = course_dict["courses"]
-            researcher = researcher.decode("utf-8")
             if not self.object[researcher].get("courses"):
                 self.object[researcher].update({"courses":[]})
 
@@ -55,10 +67,16 @@ n")
                         "courseLevel": courseLevel,\
                         "courseMeta": courseMeta,\
                         "gradingMethod": gradingMethod,\
-                        "semester": semester,\
+                        "semester": self.format_semester(semester),\
                         "numberOfUnits": numberOfUnits,\
                         }
                     self.object[researcher]["courses"].append(course_obj)
+
+    def save_to_file(self):
+        with open("{}/stanford_corpus.json".format(self.data_directory), "w") \
+            as file:
+            json.dump(self.object, file, ensure_ascii=False, sort_keys=True,\
+                 indent=4, separators=(',', ': '))
 
 if __name__ == "__main__":
     obj = Aggregator()
