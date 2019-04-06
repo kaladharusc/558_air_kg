@@ -33,18 +33,18 @@ class CourseExplorerSpider(scrapy.Spider):
         })
 
         for index in range(len(searchResults)):
-            courseTitle = searchResults[index].xpath("//span[@class='courseTitle']").get()
-            courseNumber = searchResults[index].xpath("//span[@class='courseNumber']").get()
-            courseDescription = searchResults[index].xpath("//div[@class='courseDescription']").get()
-            courseAttributes = searchResults[index].xpath("//div[@class='courseAttributes'][1]").get()
-            courseInstructors = searchResults[index].xpath("//div[@class='courseAttributes'][2]").get()
+            courseTitle = searchResults[index].xpath("//span[@class='courseTitle']/text()").get()
+            courseNumber = searchResults[index].xpath("//span[@class='courseNumber']/text()").get()
+            courseDescription = searchResults[index].xpath("//div[@class='courseDescription']/text()").get()
+            courseAttributes = " ".join(searchResults[index].xpath("//div[@class='courseAttributes'][1]/text()").get().split())
+            # courseInstructors = searchResults[index].xpath("//div[@class='courseAttributes'][2]").get()
             course_explorer_dict[researcher_name]["courses"].append(
                 {
                     "courseTitle": courseTitle,
                     "courseNumber": courseNumber,
                     "courseDescription": courseDescription,
                     "courseAttributes": courseAttributes,
-                    "courseInstructors": courseInstructors
+                    # "courseInstructors": courseInstructors
                 }
             )
 
