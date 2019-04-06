@@ -9,7 +9,7 @@
         "courses": [
             {
                 "courseId": "CMSC828I",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Prerequisite: CMSC422, CMSC426, or equivalent; or permission of instructor.",
                 "courseTitle": "Advanced Topics in Information Processing; Advanced Techniques in Visual Learning and Recognition",
                 "gradingMethod": "Regular, Audit",
@@ -18,7 +18,7 @@
             },
             {
                 "courseId": "ENSE799",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Contact Systems Engineering Office, Rm. 2172 A. V. Williams Bldg. to make arrangements.",
                 "courseTitle": "Systems Engineering Thesis; Masters Thesis Research",
                 "gradingMethod": "Regular",
@@ -27,7 +27,7 @@
             },
             {
                 "courseId": "CMSC498L",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH461); and permission of CMNS-Computer Science department. Or must be in (Computer Science (Doctoral), ComputerScience (Master's) program.",
                 "courseTitle": "Selected Topics in Computer Science; Introduction to Deep Learning",
                 "gradingMethod": "Regular",
@@ -47,7 +47,7 @@
         "courses": [
             {
                 "courseId": "CMSC858C",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Topics in Theory of Computing; Randomized Algorithms",
                 "gradingMethod": "Regular, Audit",
@@ -56,7 +56,7 @@
             },
             {
                 "courseId": "GEMS396",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Team Project Seminar III",
                 "gradingMethod": "Regular",
@@ -65,7 +65,7 @@
             },
             {
                 "courseId": "CMSC451",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Design and Analysis of Computer Algorithms",
                 "gradingMethod": "Regular",
@@ -74,7 +74,7 @@
             },
             {
                 "courseId": "GEMS297",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Restricted to Gemstone Students.",
                 "courseTitle": "Team Project Seminar II",
                 "gradingMethod": "Regular",
@@ -94,7 +94,7 @@
         "courses": [
             {
                 "courseId": "CMSC722",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Artificial Intelligence Planning",
                 "gradingMethod": "Regular, Audit",
@@ -103,7 +103,7 @@
             },
             {
                 "courseId": "CMSC421",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Artificial Intelligence",
                 "gradingMethod": "Regular",
@@ -123,7 +123,7 @@
         "courses": [
             {
                 "courseId": "CMSC624",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Database System Architecture and Implementation",
                 "gradingMethod": "Regular, Audit",
@@ -132,7 +132,7 @@
             },
             {
                 "courseId": "CMSC424",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Database Design",
                 "gradingMethod": "Regular",
@@ -152,7 +152,7 @@
         "courses": [
             {
                 "courseId": "CMSC422",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Machine Learning",
                 "gradingMethod": "Regular",
@@ -161,7 +161,7 @@
             },
             {
                 "courseId": "ENEE899",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Doctoral Dissertation Research",
                 "gradingMethod": "Sat-Fail",
@@ -181,7 +181,7 @@
         "courses": [
             {
                 "courseId": "ENEE350",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "ENEE majors (09090) only",
                 "courseTitle": "Computer Organization",
                 "gradingMethod": "Regular",
@@ -190,7 +190,7 @@
             },
             {
                 "courseId": "ENSE799",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Contact Systems Engineering Office, Rm. 2172 A. V. Williams Bldg. to make arrangements.",
                 "courseTitle": "Systems Engineering Thesis; Masters Thesis Research",
                 "gradingMethod": "Regular",
@@ -199,7 +199,7 @@
             },
             {
                 "courseId": "CMSC818N",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Topics in Computer Systems; Robotics",
                 "gradingMethod": "Regular, Audit",
@@ -208,7 +208,7 @@
             },
             {
                 "courseId": "ENEE769M",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Topics in Controls; Robotics",
                 "gradingMethod": "Regular, Audit",
@@ -228,7 +228,7 @@
         "courses": [
             {
                 "courseId": "CMSC250",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Discrete Structures",
                 "gradingMethod": "Regular",
@@ -237,7 +237,7 @@
             },
             {
                 "courseId": "CMSC421",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Artificial Intelligence",
                 "gradingMethod": "Regular",
@@ -257,7 +257,7 @@
         "courses": [
             {
                 "courseId": "INST154",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Apollo at 50",
                 "gradingMethod": "Regular, Audit",
@@ -266,7 +266,7 @@
             },
             {
                 "courseId": "HONR269I",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Honors Seminar; To the Moon and Back: The Apollo Program",
                 "gradingMethod": "Regular",
@@ -275,7 +275,7 @@
             },
             {
                 "courseId": "INST899",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Doctoral Dissertation Research",
                 "gradingMethod": "Regular, Sat-Fail",
@@ -284,7 +284,7 @@
             },
             {
                 "courseId": "INST709",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Independent Study",
                 "gradingMethod": "Regular, Audit",
@@ -304,7 +304,7 @@
         "courses": [
             {
                 "courseId": "CMSC828U",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Topics in Information Processing; Algorithms in Machine Learning: Guarantees and Analyses",
                 "gradingMethod": "Regular, Audit",
@@ -334,7 +334,7 @@
         "courses": [
             {
                 "courseId": "CMSC725",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Geographical Information Systems and Spatial Databases",
                 "gradingMethod": "Regular, Audit",
@@ -343,7 +343,7 @@
             },
             {
                 "courseId": "CMSC420",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Data Structures",
                 "gradingMethod": "Regular",
@@ -363,7 +363,7 @@
         "courses": [
             {
                 "courseId": "INST709",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Independent Study",
                 "gradingMethod": "Regular, Audit",
@@ -372,7 +372,7 @@
             },
             {
                 "courseId": "INST314",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Statistics for Information Science",
                 "gradingMethod": "Regular, Audit",
@@ -381,7 +381,7 @@
             },
             {
                 "courseId": "INST704",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Inclusive Design in HCI",
                 "gradingMethod": "Regular, Audit",
@@ -401,7 +401,7 @@
         "courses": [
             {
                 "courseId": "INST627",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Data Analytics for Information Professionals",
                 "gradingMethod": "Regular, Audit",
@@ -410,7 +410,7 @@
             },
             {
                 "courseId": "INFM289I",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Social Networking: Technology and Society",
                 "gradingMethod": "Regular, Pass-Fail, Audit",
@@ -419,7 +419,7 @@
             },
             {
                 "courseId": "INST462",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Students who wish to register should contact the College of Information Studies.",
                 "courseTitle": "Introduction to Data Visualization",
                 "gradingMethod": "Regular, Audit",
@@ -428,7 +428,7 @@
             },
             {
                 "courseId": "INST633",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Analyzing Social Networks and Social Media",
                 "gradingMethod": "Regular",
@@ -437,7 +437,7 @@
             },
             {
                 "courseId": "INST462",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Data Visualization",
                 "gradingMethod": "Regular, Audit",
@@ -446,7 +446,7 @@
             },
             {
                 "courseId": "INST709",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Independent Study",
                 "gradingMethod": "Regular, Audit",
@@ -455,7 +455,7 @@
             },
             {
                 "courseId": "INFM289I",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Social Networking: Technology and Society",
                 "gradingMethod": "Regular, Pass-Fail, Audit",
@@ -464,7 +464,7 @@
             },
             {
                 "courseId": "INST326",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Object-Oriented Programming for Information Science",
                 "gradingMethod": "Regular, Audit",
@@ -473,7 +473,7 @@
             },
             {
                 "courseId": "INST633",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Analyzing Social Networks and Social Media",
                 "gradingMethod": "Regular",
@@ -493,7 +493,7 @@
         "courses": [
             {
                 "courseId": "CMSC320",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Data Science",
                 "gradingMethod": "Regular",
@@ -502,7 +502,7 @@
             },
             {
                 "courseId": "CMSC389K",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Prerequisites: Minimum grade of C- in CMSC250 and CMSC216; and permissio n of CMNS-Computer Science department. This course provides a comprehens ive, practical introduction to modern full-stack web development using JavaScript and Node.js. The course will start with basic HTML/CSS/JavScr ipt. Then, we will move into Node.js and learn how to deploy a website from there. We will learn about Express.js (server-side development modu le) and MongoDB (database) in order to create a complete web application .",
                 "courseTitle": "Special Topics in Computer Science; Full-stack Web Development with Node.js",
                 "gradingMethod": "Regular",
@@ -532,7 +532,7 @@
         "courses": [
             {
                 "courseId": "ENEE899",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Doctoral Dissertation Research",
                 "gradingMethod": "Sat-Fail",
@@ -552,7 +552,7 @@
         "courses": [
             {
                 "courseId": "CMSC470",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Introduction to fundamental techniques for automatically processing and generating natural language with computers. Machine learning techniques, models, and algorithims that enable computers to deal with the ambiguity and implicit structure of natural language. Application of these techniques in a series of assignments designed to address a core application such as question answering or machine translation.",
                 "courseTitle": "Introduction to Natural Language Processing",
                 "gradingMethod": "Regular",
@@ -572,7 +572,7 @@
         "courses": [
             {
                 "courseId": "CMSC740",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Computer Graphics",
                 "gradingMethod": "Regular, Audit",
@@ -581,7 +581,7 @@
             },
             {
                 "courseId": "CMSC427",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Computer Graphics",
                 "gradingMethod": "Regular",
@@ -590,7 +590,7 @@
             },
             {
                 "courseId": "GEMS496",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Project Writing Seminar",
                 "gradingMethod": "Regular",
@@ -599,7 +599,7 @@
             },
             {
                 "courseId": "CMSC389U",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. Restriction: Permission of department.",
                 "courseTitle": "Special Topics in Computer Science; Introduction to Developing AR Applications with HoloLens",
                 "gradingMethod": "Regular",
@@ -608,7 +608,7 @@
             },
             {
                 "courseId": "GEMS397",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Restricted to Gemstone Students.",
                 "courseTitle": "Team Project Seminar IV",
                 "gradingMethod": "Regular",
@@ -628,7 +628,7 @@
         "courses": [
             {
                 "courseId": "CMSC828X",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "This course covers computational methods for modeling of motions in the physical and virtual world. We will discuss various considerations and trade offs used in designing simulation methodologies (e.g. time, space, robustness, and generality). These include data structures, algorithms, computational methods and simulation techniques, their complexity and implementation. The lectures will also cover some applications of physically-based modeling and simulation, such as Computer Animation, VR, Medical Simulation, Special Effects, Computer Games, Robotics, and Bioinformatics.",
                 "courseTitle": "Advanced Topics in Information Processing; Physically-based Modeling, Simulation, and Animation",
                 "gradingMethod": "Regular, Audit",
@@ -648,7 +648,7 @@
         "courses": [
             {
                 "courseId": "CMSC858M",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Advanced Topics in Theory of Computing; Algorithmic Lower Bounds: Fun with Hardness Proofs",
                 "gradingMethod": "Regular, Audit",
@@ -657,7 +657,7 @@
             },
             {
                 "courseId": "CMSC351H",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Algorithms",
                 "gradingMethod": "Regular",
@@ -677,7 +677,7 @@
         "courses": [
             {
                 "courseId": "LING620",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Phonological Theory",
                 "gradingMethod": "Regular, Audit",
@@ -686,7 +686,7 @@
             },
             {
                 "courseId": "CMSC828F",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Also offered as LING849C and NACS728W. Credit granted for CMSC828F, LING849C or NACS728W.",
                 "courseTitle": "Advanced Topics in Information Processing; Computational Psycholinguistics",
                 "gradingMethod": "Regular, Audit",
@@ -695,7 +695,7 @@
             },
             {
                 "courseId": "LING849C",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Also offered as NACS728W. Credit only granted for LING849C or NACS728W.",
                 "courseTitle": "Seminar in Psycholinguistics; Computational Psycholinguistics",
                 "gradingMethod": "Regular, Audit",
@@ -704,7 +704,7 @@
             },
             {
                 "courseId": "NACS728W",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Also offered as LING849C and CMSC828F. Credit only granted for LING849C, CMSC828F or NACS728W.",
                 "courseTitle": "Selected Topics in Neuroscience and Cognitive Science; Computational Psycholinguistics",
                 "gradingMethod": "Regular, Audit",
@@ -724,7 +724,7 @@
         "courses": [
             {
                 "courseId": "LING888",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Doctoral Research Paper",
                 "gradingMethod": "Regular, Audit",
@@ -733,7 +733,7 @@
             },
             {
                 "courseId": "LING888",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Doctoral Research Paper",
                 "gradingMethod": "Regular, Audit",
@@ -763,7 +763,7 @@
         "courses": [
             {
                 "courseId": "CMSC798E",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Graduate Seminar in Computer Science",
                 "gradingMethod": "Regular",
@@ -772,7 +772,7 @@
             },
             {
                 "courseId": "CMSC422",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Machine Learning",
                 "gradingMethod": "Regular",
@@ -781,7 +781,7 @@
             },
             {
                 "courseId": "CMSC798F",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Graduate Seminar in Computer Science; How to Conduct Great Research",
                 "gradingMethod": "Regular, Audit",
@@ -801,7 +801,7 @@
         "courses": [
             {
                 "courseId": "CMSC726",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "Prerequisite: CMSC421; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
                 "courseTitle": "Machine Learning",
                 "gradingMethod": "Regular, Audit",
@@ -810,7 +810,7 @@
             },
             {
                 "courseId": "CMSC422",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "Credit only granted for CMSC422 or CMSC498M.",
                 "courseTitle": "Introduction to Machine Learning",
                 "gradingMethod": "Regular",
@@ -840,7 +840,7 @@
         "courses": [
             {
                 "courseId": "ENEE657",
-                "courseLevel": null,
+                "courseLevel": "Graduate",
                 "courseMeta": "",
                 "courseTitle": "Computer Security",
                 "gradingMethod": "Regular, Audit",
@@ -849,7 +849,7 @@
             },
             {
                 "courseId": "ENEE140",
-                "courseLevel": null,
+                "courseLevel": "Undergraduate",
                 "courseMeta": "",
                 "courseTitle": "Introduction to Programming Concepts for Engineers",
                 "gradingMethod": "Regular",

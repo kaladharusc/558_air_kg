@@ -39,6 +39,10 @@ ata.json"), "r") as fp:
                     self.course_explorer[r]["courses"].extend(c)
 
     def aggregate(self):
+        c_level_dict = {
+            'GRAD': 'Graduate',
+            'UGRAD': 'Undergraduate'
+        }
         self.output_path = os.path.join(self.data_directory, "maryland_data.jso\
 n")
         for researcher, course_dict in self.course_explorer.items():
@@ -52,7 +56,7 @@ n")
                 for course in course_array:
                     courseId = course.get("course_id")
                     courseTitle = course.get("course_title")
-                    courseLevel = course.get("course_level")
+                    courseLevel = c_level_dict.get(course.get("courseLevel"))
                     courseMeta = course.get("course_prereqs")
                     gradingMethod = course.get("course_grading_method")
                     semester = course.get("semester")
