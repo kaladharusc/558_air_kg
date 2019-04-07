@@ -1,1 +1,1 @@
-# 558_air_kg
+# Knowledge Graph for AI Researchers
