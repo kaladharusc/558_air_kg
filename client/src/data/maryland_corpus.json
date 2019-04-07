@@ -1,0 +1,882 @@
+{
+    "Abhinav Shrivastava": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shrivastava:Abhinav",
+            "Google Scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://abhinavsh.info"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC828I",
+                "courseLevel": "Graduate",
+                "courseMeta": "Prerequisite: CMSC422, CMSC426, or equivalent; or permission of instructor.",
+                "courseTitle": "Advanced Topics in Information Processing; Advanced Techniques in Visual Learning and Recognition",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "ENSE799",
+                "courseLevel": "Graduate",
+                "courseMeta": "Contact Systems Engineering Office, Rm. 2172 A. V. Williams Bldg. to make arrangements.",
+                "courseTitle": "Systems Engineering Thesis; Masters Thesis Research",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "1",
+                "semester": "Summer"
+            },
+            {
+                "courseId": "CMSC498L",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Prerequisite: Minimum grade of C- in CMSC330 and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH461); and permission of CMNS-Computer Science department. Or must be in (Computer Science (Doctoral), ComputerScience (Master's) program.",
+                "courseTitle": "Selected Topics in Computer Science; Introduction to Deep Learning",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Shrivastava%2C+Abhinav"
+    },
+    "Aravind Srinivasan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Srinivasan:Aravind",
+            "Google Scholar": "https://scholar.google.com/citations?user=sPzla6IAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "https://www.cs.umd.edu/~srin"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC858C",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Topics in Theory of Computing; Randomized Algorithms",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "GEMS396",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Team Project Seminar III",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "2",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC451",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Design and Analysis of Computer Algorithms",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "GEMS297",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Restricted to Gemstone Students.",
+                "courseTitle": "Team Project Seminar II",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "2",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Srinivasan%2C+Aravind"
+    },
+    "Dana S. Nau": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Nau:Dana_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=fez4ulcAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "https://www.cs.umd.edu/users/nau"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC722",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Artificial Intelligence Planning",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "CMSC421",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            }
+        ],
+        "query_param": "Nau%2C+Dana"
+    },
+    "Daniel J. Abadi": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Abadi:Daniel_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=zxeEF2gAAAAJ&hl=en&oi=ao",
+            "domain": "db",
+            "home": "https://www.cs.umd.edu/people/abadi"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC624",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Database System Architecture and Implementation",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC424",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Database Design",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Abadi%2C+Daniel"
+    },
+    "David W. Jacobs": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jacobs:David_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=WH2KmRgAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://www.cs.umd.edu/~djacobs"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC422",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Machine Learning",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "ENEE899",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Doctoral Dissertation Research",
+                "gradingMethod": "Sat-Fail",
+                "numberOfUnits": "1",
+                "semester": "Winter"
+            }
+        ],
+        "query_param": "Jacobs%2C+David"
+    },
+    "Dinesh Manocha": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Manocha:Dinesh",
+            "Google Scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "https://www.cs.unc.edu/~dm"
+        },
+        "courses": [
+            {
+                "courseId": "ENEE350",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "ENEE majors (09090) only",
+                "courseTitle": "Computer Organization",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "ENSE799",
+                "courseLevel": "Graduate",
+                "courseMeta": "Contact Systems Engineering Office, Rm. 2172 A. V. Williams Bldg. to make arrangements.",
+                "courseTitle": "Systems Engineering Thesis; Masters Thesis Research",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "1",
+                "semester": "Summer"
+            },
+            {
+                "courseId": "CMSC818N",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Topics in Computer Systems; Robotics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "ENEE769M",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Topics in Controls; Robotics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Manocha%2C+Dinesh"
+    },
+    "Donald Perlis": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Perlis:Donald",
+            "Google Scholar": "https://scholar.google.com/citations?user=v2X9gX8AAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "https://www.cs.umd.edu/users/perlis"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC250",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Discrete Structures",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "4",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC421",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Perlis%2C+Donald"
+    },
+    "Douglas W. Oard": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Oard:Douglas_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=3ctKkysAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://terpconnect.umd.edu/~oard"
+        },
+        "courses": [
+            {
+                "courseId": "INST154",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Apollo at 50",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "HONR269I",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Honors Seminar; To the Moon and Back: The Apollo Program",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INST899",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Doctoral Dissertation Research",
+                "gradingMethod": "Regular, Sat-Fail",
+                "numberOfUnits": "1",
+                "semester": "Summer"
+            },
+            {
+                "courseId": "INST709",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Independent Study",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Oard%2C+Douglas"
+    },
+    "Furong Huang": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Huang:Furong",
+            "Google Scholar": "https://scholar.google.com/citations?user=mRI6AogAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.cs.umd.edu/people/furongh"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC828U",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Topics in Information Processing; Algorithms in Machine Learning: Guarantees and Analyses",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Huang%2C+Furong"
+    },
+    "Hal Daumé III": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/i/III:Hal_Daum=eacute=",
+            "Google Scholar": "https://scholar.google.com/citations?user=PbEw81gAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,ml",
+            "home": "http://www.umiacs.umd.edu/~hal"
+        },
+        "courses": [],
+        "query_param": "III%2C+Hal"
+    },
+    "Hanan Samet": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Samet:Hanan",
+            "Google Scholar": "https://scholar.google.com/citations?user=ATOfqHEAAAAJ&hl=en&oi=ao",
+            "domain": "db,ml",
+            "home": "https://www.cs.umd.edu/people/hjs"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC725",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Geographical Information Systems and Spatial Databases",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC420",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Data Structures",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            }
+        ],
+        "query_param": "Samet%2C+Hanan"
+    },
+    "Hernisa Kacorri": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kacorri:Hernisa",
+            "Google Scholar": "https://scholar.google.com/citations?user=El-R5MEAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "https://terpconnect.umd.edu/~hernisa"
+        },
+        "courses": [
+            {
+                "courseId": "INST709",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Independent Study",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INST314",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Statistics for Information Science",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INST704",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Inclusive Design in HCI",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            }
+        ],
+        "query_param": "Kacorri%2C+Hernisa"
+    },
+    "Jennifer Golbeck": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Golbeck:Jennifer",
+            "Google Scholar": "https://scholar.google.com/citations?user=WBOnL7sAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://cs.umd.edu/people/jgolbeck"
+        },
+        "courses": [
+            {
+                "courseId": "INST627",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Data Analytics for Information Professionals",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "INFM289I",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Social Networking: Technology and Society",
+                "gradingMethod": "Regular, Pass-Fail, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "INST462",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Students who wish to register should contact the College of Information Studies.",
+                "courseTitle": "Introduction to Data Visualization",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "INST633",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Analyzing Social Networks and Social Media",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Summer"
+            },
+            {
+                "courseId": "INST462",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Data Visualization",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Summer"
+            },
+            {
+                "courseId": "INST709",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Independent Study",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INFM289I",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Social Networking: Technology and Society",
+                "gradingMethod": "Regular, Pass-Fail, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INST326",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Object-Oriented Programming for Information Science",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "INST633",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Analyzing Social Networks and Social Media",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Winter"
+            }
+        ],
+        "query_param": "Golbeck%2C+Jennifer"
+    },
+    "John P. Dickerson": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dickerson:John_P=",
+            "Google Scholar": "https://scholar.google.com/citations?user=QgDpfCQAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "http://jpdickerson.com"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC320",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Data Science",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC389K",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Prerequisites: Minimum grade of C- in CMSC250 and CMSC216; and permissio n of CMNS-Computer Science department. This course provides a comprehens ive, practical introduction to modern full-stack web development using JavaScript and Node.js. The course will start with basic HTML/CSS/JavScr ipt. Then, we will move into Node.js and learn how to deploy a website from there. We will learn about Express.js (server-side development modu le) and MongoDB (database) in order to create a complete web application .",
+                "courseTitle": "Special Topics in Computer Science; Full-stack Web Development with Node.js",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Dickerson%2C+John"
+    },
+    "Jordan L. Boyd-Graber": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Boyd=Graber:Jordan_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=BT4XTP4AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.umiacs.umd.edu/~jbg"
+        },
+        "courses": [],
+        "query_param": "Boyd-Graber%2C+Jordan"
+    },
+    "Larry S. Davis": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Davis:Larry_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=lc0ARagAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.umiacs.umd.edu/~lsd"
+        },
+        "courses": [
+            {
+                "courseId": "ENEE899",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Doctoral Dissertation Research",
+                "gradingMethod": "Sat-Fail",
+                "numberOfUnits": "1",
+                "semester": "Winter"
+            }
+        ],
+        "query_param": "Davis%2C+Larry"
+    },
+    "Marine Carpuat": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Carpuat:Marine",
+            "Google Scholar": "https://scholar.google.com/citations?user=EAQfVXgAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.cs.umd.edu/~marine"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC470",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Introduction to fundamental techniques for automatically processing and generating natural language with computers. Machine learning techniques, models, and algorithims that enable computers to deal with the ambiguity and implicit structure of natural language. Application of these techniques in a series of assignments designed to address a core application such as question answering or machine translation.",
+                "courseTitle": "Introduction to Natural Language Processing",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            }
+        ],
+        "query_param": "Carpuat%2C+Marine"
+    },
+    "Matthias Zwicker": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zwicker:Matthias",
+            "Google Scholar": "https://scholar.google.com/citations?user=KW0FmzgAAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
+            "home": "https://www.cs.umd.edu/people/zwicker"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC740",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Computer Graphics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "CMSC427",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Computer Graphics",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "GEMS496",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Project Writing Seminar",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "2",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC389U",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Prerequisite: CMSC216 and CMSC250 with a grade of C- or better. Restriction: Permission of department.",
+                "courseTitle": "Special Topics in Computer Science; Introduction to Developing AR Applications with HoloLens",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "GEMS397",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Restricted to Gemstone Students.",
+                "courseTitle": "Team Project Seminar IV",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "2",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Zwicker%2C+Matthias"
+    },
+    "Ming C. Lin": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lin:Ming_C=",
+            "Google Scholar": "https://scholar.google.com/citations?user=ugFNit4AAAAJ&hl=en&oi=ao",
+            "domain": "graphics",
+            "home": "http://www.cs.umd.edu/~lin"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC828X",
+                "courseLevel": "Graduate",
+                "courseMeta": "This course covers computational methods for modeling of motions in the physical and virtual world. We will discuss various considerations and trade offs used in designing simulation methodologies (e.g. time, space, robustness, and generality). These include data structures, algorithms, computational methods and simulation techniques, their complexity and implementation. The lectures will also cover some applications of physically-based modeling and simulation, such as Computer Animation, VR, Medical Simulation, Special Effects, Computer Games, Robotics, and Bioinformatics.",
+                "courseTitle": "Advanced Topics in Information Processing; Physically-based Modeling, Simulation, and Animation",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            }
+        ],
+        "query_param": "Lin%2C+Ming"
+    },
+    "Mohammad Taghi Hajiaghayi": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hajiaghayi:Mohammad_Taghi",
+            "Google Scholar": "https://scholar.google.com/citations?user=SQ1eGN4AAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.cs.umd.edu/~hajiagha"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC858M",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Advanced Topics in Theory of Computing; Algorithmic Lower Bounds: Fun with Hardness Proofs",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "CMSC351H",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Algorithms",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Hajiaghayi%2C+Mohammad"
+    },
+    "Naomi Feldman": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Feldman:Naomi",
+            "Google Scholar": "https://scholar.google.com/citations?user=FvRFQZ8AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://legacydirs.umiacs.umd.edu/~nhf/index.html"
+        },
+        "courses": [
+            {
+                "courseId": "LING620",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Phonological Theory",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC828F",
+                "courseLevel": "Graduate",
+                "courseMeta": "Also offered as LING849C and NACS728W. Credit granted for CMSC828F, LING849C or NACS728W.",
+                "courseTitle": "Advanced Topics in Information Processing; Computational Psycholinguistics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "LING849C",
+                "courseLevel": "Graduate",
+                "courseMeta": "Also offered as NACS728W. Credit only granted for LING849C or NACS728W.",
+                "courseTitle": "Seminar in Psycholinguistics; Computational Psycholinguistics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            },
+            {
+                "courseId": "NACS728W",
+                "courseLevel": "Graduate",
+                "courseMeta": "Also offered as LING849C and CMSC828F. Credit only granted for LING849C, CMSC828F or NACS728W.",
+                "courseTitle": "Selected Topics in Neuroscience and Cognitive Science; Computational Psycholinguistics",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Feldman%2C+Naomi"
+    },
+    "Philip Resnik": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Resnik:Philip",
+            "Google Scholar": "https://scholar.google.com/citations?user=71BFWc0AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.umiacs.umd.edu/~resnik"
+        },
+        "courses": [
+            {
+                "courseId": "LING888",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Doctoral Research Paper",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "LING888",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Doctoral Research Paper",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Resnik%2C+Philip"
+    },
+    "Rama Chellappa": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Chellappa:Rama",
+            "Google Scholar": "https://scholar.google.com/citations?user=mZxsTCcAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://cs.umd.edu/people/chella"
+        },
+        "courses": [],
+        "query_param": "Chellappa%2C+Rama"
+    },
+    "Ramani Duraiswami": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Duraiswami:Ramani",
+            "Google Scholar": "https://scholar.google.com/citations?user=BVXyodYAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.umiacs.umd.edu/~ramani"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC798E",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Graduate Seminar in Computer Science",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "1",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC422",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Machine Learning",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC798F",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Graduate Seminar in Computer Science; How to Conduct Great Research",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "1",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Duraiswami%2C+Ramani"
+    },
+    "Soheil Feizi": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Feizi:Soheil",
+            "Google Scholar": "https://scholar.google.com/citations?user=lptAmrMAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.cs.umd.edu/~sfeizi"
+        },
+        "courses": [
+            {
+                "courseId": "CMSC726",
+                "courseLevel": "Graduate",
+                "courseMeta": "Prerequisite: CMSC421; or students who have taken courses with comparable content may contact the department; or permission of instructor.",
+                "courseTitle": "Machine Learning",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "CMSC422",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "Credit only granted for CMSC422 or CMSC498M.",
+                "courseTitle": "Introduction to Machine Learning",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "3",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Feizi%2C+Soheil"
+    },
+    "Tom Goldstein": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goldstein:Tom",
+            "Google Scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+            "domain": "ml,vision",
+            "home": "https://www.cs.umd.edu/~tomg"
+        },
+        "courses": [],
+        "query_param": "Goldstein%2C+Tom"
+    },
+    "Tudor Dumitras": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dumitras:Tudor",
+            "Google Scholar": "https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://users.umiacs.umd.edu/~tdumitra"
+        },
+        "courses": [
+            {
+                "courseId": "ENEE657",
+                "courseLevel": "Graduate",
+                "courseMeta": "",
+                "courseTitle": "Computer Security",
+                "gradingMethod": "Regular, Audit",
+                "numberOfUnits": "3",
+                "semester": "Fall"
+            },
+            {
+                "courseId": "ENEE140",
+                "courseLevel": "Undergraduate",
+                "courseMeta": "",
+                "courseTitle": "Introduction to Programming Concepts for Engineers",
+                "gradingMethod": "Regular",
+                "numberOfUnits": "2",
+                "semester": "Spring"
+            }
+        ],
+        "query_param": "Dumitras%2C+Tudor"
+    },
+    "V. S. Subrahmanian": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Subrahmanian:V=_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=PLt9wB8AAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
+            "home": "https://www.cs.umd.edu/~vs"
+        },
+        "courses": [],
+        "query_param": "Subrahmanian%2C+V."
+    },
+    "Yiannis Aloimonos": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Aloimonos:Yiannis",
+            "Google Scholar": "https://scholar.google.com/citations?user=7QmEsOwAAAAJ&hl=en&oi=ao",
+            "domain": "robotics,vision",
+            "home": "http://www.cfar.umd.edu/~yiannis"
+        },
+        "courses": [],
+        "query_param": "Aloimonos%2C+Yiannis"
+    }
+}
