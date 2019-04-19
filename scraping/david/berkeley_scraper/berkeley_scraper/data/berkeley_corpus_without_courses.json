@@ -1,0 +1,349 @@
+{
+    
+    "Alberto Luigi Sangiovanni-Vincentelli": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sangiovanni=Vincentelli:Alberto_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=AhgjQ2QAAAAJ&hl=en&oi=ao",
+            "domain": "eda",
+            "home": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html"
+        },
+        "query_param": "Sangiovanni-Vincentelli%2C+Alberto"
+    },
+    "Alexandre M. Bayen": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bayen:Alexandre_M=",
+            "Google Scholar": "https://scholar.google.com/citations?user=a5nY-pYAAAAJ&hl=en&oi=ao",
+            "domain": "ml,robotics",
+            "home": "http://www.ce.berkeley.edu/people/faculty/bayen"
+        },
+        "query_param": "Bayen%2C+Alexandre"
+    },
+    "Anca Dragan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dragan:Anca_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=UgHB5oAAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.eecs.berkeley.edu/~anca"
+        },
+        "query_param": "Dragan%2C+Anca"
+    },
+    "Anthony D Joseph": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Joseph:Anthony_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=xdGKgtcAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/joseph.html"
+        },
+        "query_param": "Joseph%2C+Anthony"
+    },
+    "Armando Fox": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fox:Armando",
+            "domain": "db",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/fox.html"
+        },
+        "query_param": "Fox%2C+Armando"
+    },
+    "Benjamin Recht": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Recht:Benjamin",
+            "Google Scholar": "https://scholar.google.com/citations?user=a_dbdxAAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.eecs.berkeley.edu/~brecht"
+        },
+        "query_param": "Recht%2C+Benjamin"
+    },
+    "Bernd Sturmfels": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sturmfels:Bernd",
+            "Google Scholar": "https://scholar.google.com/citations?user=5zTUNsQAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://math.berkeley.edu/~bernd"
+        },
+        "query_param": "Sturmfels%2C+Bernd"
+    },
+    "Bin Yu": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/y/Yu_0001:Bin",
+            "Google Scholar": "https://scholar.google.com/citations?user=xT19Jc0AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.stat.berkeley.edu/~binyu/Site/Welcome.html"
+        },
+        "query_param": "0001%2C+Bin"
+    },
+    "Claire Jennifer Tomlin": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tomlin:Claire_J=",
+            "domain": "robotics",
+            "home": "https://people.eecs.berkeley.edu/~tomlin"
+        },
+        "query_param": "Tomlin%2C+Claire"
+    },
+    "David Wagner": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wagner_0001:David_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.cs.berkeley.edu/~daw"
+        },
+        "query_param": "0001%2C+David"
+    },
+    "David Alexander Bamman": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bamman:David",
+            "Google Scholar": "https://scholar.google.com/citations?user=RkA1y54AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://people.ischool.berkeley.edu/~dbamman"
+        },
+        "query_param": "Bamman%2C+David"
+    },
+    "Xiaodong Dawn Song": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Song:Dawn_Xiaodong",
+            "Google Scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.cs.berkeley.edu/~dawnsong"
+        },
+        "query_param": "Song%2C+Dawn"
+    },
+    "Ion Stoica": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Stoica:Ion",
+            "Google Scholar": "https://scholar.google.com/citations?user=vN-is70AAAAJ&hl=en&oi=ao",
+            "domain": "networks",
+            "home": "http://www.cs.berkeley.edu/~istoica"
+        },
+        "query_param": "Stoica%2C+Ion"
+    },
+    "Justin Douglas Tygar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tygar:J=_D=",
+            "domain": "ml",
+            "home": "http://www.tygar.net"
+        },
+        "query_param": "Tygar%2C+J."
+    },
+    "James W Demmel": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Demmel:James",
+            "domain": "hpc",
+            "home": "https://www.cs.berkeley.edu/~demmel"
+        },
+        "query_param": "Demmel%2C+James"
+    },
+    "Jennifer Listgarten": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Listgarten:Jennifer",
+            "Google Scholar": "https://scholar.google.com/citations?user=jhPhgf4AAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.jennifer.listgarten.com"
+        },
+        "query_param": "Listgarten%2C+Jennifer"
+    },
+    "John F Canny": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Canny:John_F=",
+            "Google Scholar": "https://scholar.google.com/citations?user=LAv0HTEAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html"
+        },
+        "query_param": "Canny%2C+John"
+    },
+    "Joseph Edgar Gonzalez": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gonzalez:Joseph",
+            "Google Scholar": "https://scholar.google.com/citations?user=gM2WW9UAAAAJ&hl=en&oi=ao",
+            "domain": "ml,vision,networks",
+            "home": "http://www.cs.berkeley.edu/~jegonzal"
+        },
+        "query_param": "Gonzalez%2C+Joseph"
+    },
+    "Kannan Ramchandran": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Ramchandran:Kannan",
+            "Google Scholar": "https://scholar.google.com/citations?user=DcV-5RAAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/~kannanr"
+        },
+        "query_param": "Ramchandran%2C+Kannan"
+    },
+    "Kenneth Yigael Goldberg": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goldberg:Kenneth_Y=",
+            "Google Scholar": "https://scholar.google.com/citations?user=8fztli4AAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://goldberg.berkeley.edu"
+        },
+        "query_param": "Goldberg%2C+Kenneth"
+    },
+    "Kurt W Keutzer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Keutzer:Kurt",
+            "Google Scholar": "https://scholar.google.com/citations?user=IzaagZkAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://people.eecs.berkeley.edu/~keutzer"
+        },
+        "query_param": "Keutzer%2C+Kurt"
+    },
+    "Laurent El Ghaoui": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Ghaoui:Laurent_El",
+            "Google Scholar": "https://scholar.google.com/citations?user=3XLQbL8AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://people.eecs.berkeley.edu/~elghaoui"
+        },
+        "query_param": "Ghaoui%2C+Laurent"
+    },
+    "Marti Alice Hearst": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hearst:Marti_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Yy6xbCYAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,hci",
+            "home": "http://people.ischool.berkeley.edu/~hearst"
+        },
+        "query_param": "Hearst%2C+Marti"
+    },
+    "Martin J. Wainwright": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wainwright:Martin_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=J5Rvh6gAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/~wainwrig"
+        },
+        "query_param": "Wainwright%2C+Martin"
+    },
+    "Michael Jordan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jordan:Michael_I=",
+            "Google Scholar": "https://scholar.google.com/citations?user=yxUduqMAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.berkeley.edu/~jordan"
+        },
+        "query_param": "Jordan%2C+Michael"
+    },
+    "Moritz Hardt": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hardt:Moritz",
+            "Google Scholar": "https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en&oi=ao",
+            "domain": "theory,ml",
+            "home": "http://mrtz.org"
+        },
+        "query_param": "Hardt%2C+Moritz"
+    },
+    "Nir Yosef": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/y/Yosef:Nir",
+            "Google Scholar": "https://scholar.google.com/citations?user=eQ8KEHoAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "https://niryosef.wordpress.com"
+        },
+        "query_param": "Yosef%2C+Nir"
+    },
+    "Peter Leslie Bartlett": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bartlett:Peter_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=UPVvV6kAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.stat.berkeley.edu/~bartlett"
+        },
+        "query_param": "Bartlett%2C+Peter"
+    },
+    "Pieter Abbeel": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Abbeel:Pieter",
+            "Google Scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "https://people.eecs.berkeley.edu/~pabbeel"
+        },
+        "query_param": "Abbeel%2C+Pieter"
+    },
+    "Yi-Ren Ng": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Ng:Ren",
+            "Google Scholar": "https://scholar.google.com/citations?user=6H0mhLUAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html"
+        },
+        "query_param": "Ng%2C+Ren"
+    },
+    "Ruzena Bajcsy": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bajcsy:Ruzena",
+            "domain": "robotics",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html"
+        },
+        "query_param": "Bajcsy%2C+Ruzena"
+    },
+    "Sosale Shankar Sastry": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sastry:S=_Shankar",
+            "Google Scholar": "https://scholar.google.com/citations?user=KgZxzjsAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://robotics.eecs.berkeley.edu/~sastry"
+        },
+        "query_param": "Sastry%2C+S."
+    },
+    "Sanjit Arunkumar Seshia": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Seshia:Sanjit_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=SlZavnIAAAAJ&hl=en&oi=ao",
+            "domain": "logic",
+            "home": "https://people.eecs.berkeley.edu/~sseshia"
+        },
+        "query_param": "Seshia%2C+Sanjit"
+    },
+    "Satish B Rao": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rao:Satish",
+            "Google Scholar": "https://scholar.google.com/citations?user=x_cgL6gAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.cs.berkeley.edu/~satishr"
+        },
+        "query_param": "Rao%2C+Satish"
+    },
+    "Sergey Levine": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Levine:Sergey",
+            "Google Scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+            "domain": "robotics,ml",
+            "home": "https://people.eecs.berkeley.edu/~svlevine"
+        },
+        "query_param": "Levine%2C+Sergey"
+    },
+    "Stuart J Russell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Russell:Stuart_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=KJGrjCAAAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
+            "home": "http://www.cs.berkeley.edu/~russell"
+        },
+        "query_param": "Russell%2C+Stuart"
+    },
+    "Trevor Darrell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Darrell:Trevor",
+            "Google Scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://people.eecs.berkeley.edu/~trevor"
+        },
+        "query_param": "Darrell%2C+Trevor"
+    },
+    "Vern Paxson": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Paxson:Vern",
+            "Google Scholar": "https://scholar.google.com/citations?user=HvwPRJ0AAAAJ&hl=en&oi=ao",
+            "domain": "security,metrics",
+            "home": "http://www.icir.org/vern"
+        },
+        "query_param": "Paxson%2C+Vern"
+    },
+    "Yun S. Song": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Song:Yun_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=1NTSe1wAAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio",
+            "home": "http://www.eecs.berkeley.edu/~yss"
+        },
+        "query_param": "Song%2C+Yun"
+    }
+}
