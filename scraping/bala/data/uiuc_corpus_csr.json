@@ -1,0 +1,352 @@
+{
+  "Jiawei Han": {
+    "corpus": {
+      "Last name": "Han",
+      "home": "http://hanj.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Han_0001:Jiawei",
+      "Google Scholar": "https://scholar.google.com/citations?user=Kv9AbjMAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "92"
+    }
+  },
+  "Alexander G. Schwing": {
+    "corpus": {
+      "Last name": "Schwing",
+      "home": "http://www.alexander-schwing.de",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Schwing:Alexander_G=",
+      "Google Scholar": "https://scholar.google.com/citations?user=3B2c31wAAAAJ&hl=en&oi=ao",
+      "domain": "vision,ml",
+      "Pub count": "44"
+    }
+  },
+  "ChengXiang Zhai": {
+    "corpus": {
+      "Last name": "Zhai",
+      "home": "http://czhai.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zhai:ChengXiang",
+      "Google Scholar": "https://scholar.google.com/citations?user=YU-baPIAAAAJ&hl=en&oi=ao",
+      "domain": "web+ir",
+      "Pub count": "35"
+    }
+  },
+  "Derek Hoiem": {
+    "corpus": {
+      "Last name": "Hoiem",
+      "home": "http://dhoiem.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hoiem:Derek",
+      "Google Scholar": "https://scholar.google.com/citations?user=HoQtR3cAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "34"
+    }
+  },
+  "Svetlana Lazebnik": {
+    "corpus": {
+      "Last name": "Lazebnik",
+      "home": "http://slazebni.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lazebnik:Svetlana",
+      "Google Scholar": "https://scholar.google.com/citations?user=xKOEaRoAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "30"
+    }
+  },
+  "David A. Forsyth": {
+    "corpus": {
+      "Last name": "Forsyth",
+      "home": "http://luthuli.cs.uiuc.edu/~daf",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Forsyth:David_A=",
+      "Google Scholar": "https://scholar.google.com/citations?user=5H0arvkAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "28"
+    }
+  },
+  "Kevin Chen-Chuan Chang": {
+    "corpus": {
+      "Last name": "Chang",
+      "home": "https://cs.illinois.edu/directory/profile/kcchang",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Chang:Kevin_Chen=Chuan",
+      "Google Scholar": "https://scholar.google.com/citations?user=sugWZ6MAAAAJ&hl=en&oi=ao",
+      "domain": "web+ir,ai,db",
+      "Pub count": "12"
+    }
+  },
+  "Saurabh Gupta": {
+    "corpus": {
+      "Last name": "Gupta",
+      "home": "http://saurabhg.web.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gupta_0001:Saurabh",
+      "Google Scholar": "https://scholar.google.com/citations?user=1HO5UacAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "11"
+    }
+  },
+  "Julia Hockenmaier": {
+    "corpus": {
+      "Last name": "Hockenmaier",
+      "home": "http://juliahmr.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hockenmaier:Julia",
+      "Google Scholar": "https://scholar.google.com/citations?user=iIiVrrQAAAAJ&hl=en&oi=ao",
+      "domain": "vision,nlp",
+      "Pub count": "8"
+    }
+  },
+  "Olgica Milenkovic": {
+    "corpus": {
+      "Last name": "Milenkovic",
+      "home": "https://www.ece.illinois.edu/directory/profile/milenkov",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Milenkovic:Olgica",
+      "Google Scholar": "https://scholar.google.com/citations?user=G4LSqL8AAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "6"
+    }
+  },
+  "Jian Peng": {
+    "corpus": {
+      "Last name": "Peng",
+      "home": "http://web.engr.illinois.edu/~jianpeng",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Peng_0001:Jian",
+      "Google Scholar": "https://scholar.google.com/citations?user=4wcAVXAAAAAJ&hl=en&oi=ao",
+      "domain": "comp. bio",
+      "Pub count": "5"
+    }
+  },
+  "Mark Hasegawa-Johnson": {
+    "corpus": {
+      "Last name": "Hasegawa-Johnson",
+      "home": "http://www.ifp.illinois.edu/~hasegawa",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hasegawa=Johnson:Mark",
+      "Google Scholar": "https://scholar.google.com/citations?user=18O0OAwAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "5"
+    }
+  },
+  "Bo Li": {
+    "corpus": {
+      "Last name": "Li",
+      "home": "http://www.crystal-boli.com",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Li_0044:Bo",
+      "Google Scholar": "https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "4"
+    }
+  },
+  "Roxana Girju": {
+    "corpus": {
+      "Last name": "Girju",
+      "home": "http://www.linguistics.illinois.edu/people/girju",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Girju:Roxana",
+      "Google Scholar": "",
+      "domain": "nlp",
+      "Pub count": "4"
+    }
+  },
+  "Kirill Levchenko": {
+    "corpus": {
+      "Last name": "Levchenko",
+      "home": "http://klevchen.ece.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Levchenko:Kirill",
+      "Google Scholar": "https://scholar.google.com/citations?user=bVGlTd4AAAAJ&hl=en&oi=ao",
+      "domain": "security",
+      "Pub count": "4"
+    }
+  },
+  "Tao Xie": {
+    "corpus": {
+      "Last name": "Xie",
+      "home": "http://taoxie.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/x/Xie_0001:Tao",
+      "Google Scholar": "https://scholar.google.com/citations?user=DhhH9J4AAAAJ&hl=en&oi=ao",
+      "domain": "se",
+      "Pub count": "3"
+    }
+  },
+  "Ranjitha Kumar": {
+    "corpus": {
+      "Last name": "Kumar",
+      "home": "https://cs.illinois.edu/directory/profile/ranjitha",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kumar:Ranjitha",
+      "Google Scholar": "https://scholar.google.com/citations?user=5fiQ8-YAAAAJ&hl=en&oi=ao",
+      "domain": "hci",
+      "Pub count": "3"
+    }
+  },
+  "Paris Smaragdis": {
+    "corpus": {
+      "Last name": "Smaragdis",
+      "home": "http://paris.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Smaragdis:Paris",
+      "Google Scholar": "https://scholar.google.com/citations?user=AYpm7KcAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "3"
+    }
+  },
+  "Lav R. Varshney": {
+    "corpus": {
+      "Last name": "Varshney",
+      "home": "http://varshney.web.engr.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/v/Varshney:Lav_R=",
+      "Google Scholar": "https://scholar.google.com/citations?user=JIJGu30AAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "3"
+    }
+  },
+  "Gang Wang": {
+    "corpus": {
+      "Last name": "Wang",
+      "home": "http://people.cs.vt.edu/gangwang",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wang_0011:Gang",
+      "Google Scholar": "https://scholar.google.com/citations?user=-DfTtxgAAAAJ&hl=en&oi=ao",
+      "domain": "security,metrics",
+      "Pub count": "2"
+    }
+  },
+  "Tarek F. Abdelzaher": {
+    "corpus": {
+      "Last name": "Abdelzaher",
+      "home": "http://web.engr.illinois.edu/~zaher",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Abdelzaher:Tarek_F=",
+      "Google Scholar": "https://scholar.google.com/citations?user=cA28Zs0AAAAJ&hl=en&oi=ao",
+      "domain": "embedded",
+      "Pub count": "2"
+    }
+  },
+  "Michael Bailey": {
+    "corpus": {
+      "Last name": "Bailey",
+      "home": "http://mdbailey.ece.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bailey:Michael",
+      "Google Scholar": "https://scholar.google.com/citations?user=sMnocAYAAAAJ&hl=en&oi=ao",
+      "domain": "security,metrics",
+      "Pub count": "2"
+    }
+  },
+  "Timothy Bretl": {
+    "corpus": {
+      "Last name": "Bretl",
+      "home": "http://bretl.csl.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bretl:Timothy",
+      "Google Scholar": "https://scholar.google.com/citations?user=ab_0lGcAAAAJ&hl=en&oi=ao",
+      "domain": "robotics",
+      "Pub count": "2"
+    }
+  },
+  "Carl A. Gunter": {
+    "corpus": {
+      "Last name": "Gunter",
+      "home": "http://web.engr.illinois.edu/~cgunter",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gunter:Carl_A=",
+      "Google Scholar": "https://scholar.google.com/citations?user=3S5qpXsAAAAJ&hl=en&oi=ao",
+      "domain": "security",
+      "Pub count": "2"
+    }
+  },
+  "Steven M. LaValle": {
+    "corpus": {
+      "Last name": "LaValle",
+      "home": "http://oulu.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/LaValle:Steven_M=",
+      "Google Scholar": "https://scholar.google.com/citations?user=72e5VYEAAAAJ&hl=en&oi=ao",
+      "domain": "robotics",
+      "Pub count": "2"
+    }
+  },
+  "Shaowen Wang": {
+    "corpus": {
+      "Last name": "Wang",
+      "home": "http://www.cigi.illinois.edu/shaowen",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wang:Shaowen",
+      "Google Scholar": "https://scholar.google.com/citations?user=qcUhJIcAAAAJ&hl=en&oi=ao",
+      "domain": "web+ir",
+      "Pub count": "2"
+    }
+  },
+  "Mahesh Viswanathan": {
+    "corpus": {
+      "Last name": "Viswanathan",
+      "home": "http://vmahesh.cs.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/v/Viswanathan_0001:Mahesh",
+      "Google Scholar": "https://scholar.google.com/citations?user=nztNRM0AAAAJ&hl=en&oi=ao",
+      "domain": "logic",
+      "Pub count": "1"
+    }
+  },
+  "Deming Chen": {
+    "corpus": {
+      "Last name": "Chen",
+      "home": "https://www.ece.illinois.edu/directory/profile/dchen",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Chen:Deming",
+      "Google Scholar": "https://scholar.google.com/citations?user=A_A_LrsAAAAJ&hl=en&oi=ao",
+      "domain": "eda",
+      "Pub count": "1"
+    }
+  },
+  "Romit Roy Choudhury": {
+    "corpus": {
+      "Last name": "Choudhury",
+      "home": "http://croy.web.engr.illinois.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Choudhury:Romit_Roy",
+      "Google Scholar": "https://scholar.google.com/citations?user=dq2wG-AAAAAJ&hl=en&oi=ao",
+      "domain": "mobile",
+      "Pub count": "1"
+    }
+  },
+  "Mani Golparvar Fard": {
+    "corpus": {
+      "Last name": "Fard",
+      "home": "http://cee.illinois.edu/directory/profile/mgolpar",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fard:Mani_Golparvar",
+      "Google Scholar": "https://scholar.google.com/citations?user=js1mtE4AAAAJ&hl=en&oi=ao",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Ravishankar K. Iyer": {
+    "corpus": {
+      "Last name": "Iyer",
+      "home": "https://www.ece.illinois.edu/directory/profile/rkiyer",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/i/Iyer:Ravishankar_K=",
+      "Google Scholar": "",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Karrie Karahalios": {
+    "corpus": {
+      "Last name": "Karahalios",
+      "home": "https://cs.illinois.edu/directory/profile/kkarahal",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Karahalios:Karrie",
+      "Google Scholar": "https://scholar.google.com/citations?user=xyHrRFUAAAAJ&hl=en&oi=ao",
+      "domain": "hci",
+      "Pub count": "1"
+    }
+  },
+  "Ruta Mehta": {
+    "corpus": {
+      "Last name": "Mehta",
+      "home": "https://cs.illinois.edu/directory/profile/rutameht",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mehta:Ruta",
+      "Google Scholar": "https://scholar.google.com/citations?user=NfvUWXgAAAAJ&hl=en&oi=ao",
+      "domain": "theory,ecom",
+      "Pub count": "1"
+    }
+  },
+  "Klara Nahrstedt": {
+    "corpus": {
+      "Last name": "Nahrstedt",
+      "home": "https://cs.illinois.edu/directory/profile/klara",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Nahrstedt:Klara",
+      "Google Scholar": "https://scholar.google.com/citations?user=CUO0vDcAAAAJ&hl=en&oi=ao",
+      "domain": "hpc",
+      "Pub count": "1"
+    }
+  },
+  "Saurabh Sinha": {
+    "corpus": {
+      "Last name": "Sinha",
+      "home": "http://www.sinhalab.net/sinha-s-home",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sinha:Saurabh",
+      "Google Scholar": "https://scholar.google.com/citations?user=7BM1uyYAAAAJ&hl=en&oi=ao",
+      "domain": "se,eda",
+      "Pub count": "1"
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "Antonio Torralba": {
+    "corpus": {
+      "Last name": "Torralba",
+      "home": "http://web.mit.edu/torralba/www",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Torralba_0001:Antonio",
+      "Google Scholar": "https://scholar.google.com/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "77"
+    }
+  },
+  "William T. Freeman": {
+    "corpus": {
+      "Last name": "Freeman",
+      "home": "https://billf.mit.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Freeman:William_T=",
+      "Google Scholar": "https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "64"
+    }
+  },
+  "Regina Barzilay": {
+    "corpus": {
+      "Last name": "Barzilay",
+      "home": "http://people.csail.mit.edu/regina",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Barzilay:Regina",
+      "Google Scholar": "",
+      "domain": "nlp",
+      "Pub count": "49"
+    }
+  },
+  "Tommi S. Jaakkola": {
+    "corpus": {
+      "Last name": "Jaakkola",
+      "home": "https://people.csail.mit.edu/tommi",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jaakkola:Tommi_S=",
+      "Google Scholar": "",
+      "domain": "ml,nlp",
+      "Pub count": "34"
+    }
+  },
+  "Stefanie Jegelka": {
+    "corpus": {
+      "Last name": "Jegelka",
+      "home": "http://people.csail.mit.edu/stefje",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jegelka:Stefanie",
+      "Google Scholar": "https://scholar.google.com/citations?user=gTWUZlsAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "33"
+    }
+  },
+  "Fredo Durand": {
+    "corpus": {
+      "Last name": "Durand",
+      "home": "http://people.csail.mit.edu/fredo",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Durand:Fr=eacute=do",
+      "Google Scholar": "https://scholar.google.com/citations?user=NJ9c4ygAAAAJ&hl=en&oi=ao",
+      "domain": "graphics,vision",
+      "Pub count": "25"
+    }
+  },
+  "David Sontag": {
+    "corpus": {
+      "Last name": "Sontag",
+      "home": "http://cs.nyu.edu/~dsontag",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sontag:David",
+      "Google Scholar": "https://scholar.google.com/citations?user=LfcroyAAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "21"
+    }
+  },
+  "John V. Guttag": {
+    "corpus": {
+      "Last name": "Guttag",
+      "home": "http://nms.csail.mit.edu/~guttag",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Guttag:John_V=",
+      "Google Scholar": "",
+      "domain": "ml",
+      "Pub count": "16"
+    }
+  },
+  "Leslie Pack Kaelbling": {
+    "corpus": {
+      "Last name": "Kaelbling",
+      "home": "http://people.csail.mit.edu/lpk",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kaelbling:Leslie_Pack",
+      "Google Scholar": "",
+      "domain": "robotics",
+      "Pub count": "13"
+    }
+  },
+  "Devavrat Shah": {
+    "corpus": {
+      "Last name": "Shah",
+      "home": "http://www.mit.edu/~devavrat",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shah:Devavrat",
+      "Google Scholar": "https://scholar.google.com/citations?user=3qPiYJoAAAAJ&hl=en&oi=ao",
+      "domain": "ml,metrics",
+      "Pub count": "13"
+    }
+  },
+  "Julie A. Shah": {
+    "corpus": {
+      "Last name": "Shah",
+      "home": "http://people.csail.mit.edu/julie_a_shah",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shah:Julie_A=",
+      "Google Scholar": "",
+      "domain": "robotics,ai",
+      "Pub count": "12"
+    }
+  },
+  "Patrick Jaillet": {
+    "corpus": {
+      "Last name": "Jaillet",
+      "home": "http://web.mit.edu/jaillet/www",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jaillet:Patrick",
+      "Google Scholar": "https://scholar.google.com/citations?user=ND0FM6EAAAAJ&hl=en&oi=ao",
+      "domain": "ai,ml",
+      "Pub count": "10"
+    }
+  },
+  "Tamara Broderick": {
+    "corpus": {
+      "Last name": "Broderick",
+      "home": "http://www.tamarabroderick.com",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Broderick:Tamara",
+      "Google Scholar": "https://scholar.google.com/citations?user=dPX0wQcAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "9"
+    }
+  },
+  "Randall Davis": {
+    "corpus": {
+      "Last name": "Davis",
+      "home": "https://www.csail.mit.edu/user/805",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Davis:Randall",
+      "Google Scholar": "",
+      "domain": "ai",
+      "Pub count": "8"
+    }
+  },
+  "Tomas Lozano-Perez": {
+    "corpus": {
+      "Last name": "Lozano-Perez",
+      "home": "http://people.csail.mit.edu/tlp",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lozano=P=eacute=rez:Tom=aacute=s",
+      "Google Scholar": "",
+      "domain": "robotics",
+      "Pub count": "8"
+    }
+  },
+  "Constantinos Daskalakis": {
+    "corpus": {
+      "Last name": "Daskalakis",
+      "home": "http://people.csail.mit.edu/costis",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Daskalakis:Constantinos",
+      "Google Scholar": "https://scholar.google.com/citations?user=iTv2cOgAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "7"
+    }
+  },
+  "Wojciech Matusik": {
+    "corpus": {
+      "Last name": "Matusik",
+      "home": "http://people.csail.mit.edu/wojciech",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Matusik:Wojciech",
+      "Google Scholar": "https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao",
+      "domain": "graphics",
+      "Pub count": "7"
+    }
+  },
+  "Armando Solar-Lezama": {
+    "corpus": {
+      "Last name": "Solar-Lezama",
+      "home": "https://people.csail.mit.edu/asolar",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Solar=Lezama:Armando",
+      "Google Scholar": "https://scholar.google.com/citations?user=8BX3BokAAAAJ&hl=en&oi=ao",
+      "domain": "pl,ml",
+      "Pub count": "7"
+    }
+  },
+  "Alan S. Willsky": {
+    "corpus": {
+      "Last name": "Willsky",
+      "home": "http://ssg.mit.edu/~willsky",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Willsky:Alan_S=",
+      "Google Scholar": "https://scholar.google.com/citations?user=XYy_Nm4AAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "7"
+    }
+  },
+  "Piotr Indyk": {
+    "corpus": {
+      "Last name": "Indyk",
+      "home": "https://people.csail.mit.edu/indyk",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/i/Indyk:Piotr",
+      "Google Scholar": "https://scholar.google.com/citations?user=oOwNKsAAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "6"
+    }
+  },
+  "Ankur Moitra": {
+    "corpus": {
+      "Last name": "Moitra",
+      "home": "http://people.csail.mit.edu/moitra",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Moitra:Ankur",
+      "Google Scholar": "https://scholar.google.com/citations?user=umFQktIAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "6"
+    }
+  },
+  "Peter Szolovits": {
+    "corpus": {
+      "Last name": "Szolovits",
+      "home": "http://groups.csail.mit.edu/medg/people/psz",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Szolovits:Peter",
+      "Google Scholar": "https://scholar.google.com/citations?user=1LuGqFQAAAAJ&hl=en&oi=ao",
+      "domain": "ai,ml",
+      "Pub count": "6"
+    }
+  },
+  "David R. Karger": {
+    "corpus": {
+      "Last name": "Karger",
+      "home": "http://people.csail.mit.edu/karger",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Karger:David_R=",
+      "Google Scholar": "https://scholar.google.com/citations?user=2vQRGrYAAAAJ&hl=en&oi=ao",
+      "domain": "hci",
+      "Pub count": "5"
+    }
+  },
+  "Aleksander Madry": {
+    "corpus": {
+      "Last name": "Madry",
+      "home": "https://people.csail.mit.edu/madry",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Madry:Aleksander",
+      "Google Scholar": "https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "5"
+    }
+  },
+  "Daniela Rus": {
+    "corpus": {
+      "Last name": "Rus",
+      "home": "https://www.csail.mit.edu/user/876",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rus:Daniela",
+      "Google Scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+      "domain": "robotics",
+      "Pub count": "5"
+    }
+  },
+  "Justin Solomon": {
+    "corpus": {
+      "Last name": "Solomon",
+      "home": "http://people.csail.mit.edu/jsolomon",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Solomon:Justin",
+      "Google Scholar": "https://scholar.google.com/citations?user=pImSVwoAAAAJ&hl=en&oi=ao",
+      "domain": "graphics",
+      "Pub count": "4"
+    }
+  },
+  "Caroline Uhler": {
+    "corpus": {
+      "Last name": "Uhler",
+      "home": "https://www.carolineuhler.com",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/u/Uhler:Caroline",
+      "Google Scholar": "https://scholar.google.com/citations?user=dIJFcaoAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "4"
+    }
+  },
+  "Virginia Vassilevska Williams": {
+    "corpus": {
+      "Last name": "Williams",
+      "home": "http://theory.stanford.edu/~virgi",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Williams:Virginia_Vassilevska",
+      "Google Scholar": "https://scholar.google.com/citations?user=Wph6P_IAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "4"
+    }
+  },
+  "Asuman E. Ozdaglar": {
+    "corpus": {
+      "Last name": "Ozdaglar",
+      "home": "https://asu.mit.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Ozdaglar:Asuman_E=",
+      "Google Scholar": "https://scholar.google.com/citations?user=nWnBSOsAAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "3"
+    }
+  },
+  "Gregory W. Wornell": {
+    "corpus": {
+      "Last name": "Wornell",
+      "home": "http://allegro.mit.edu/~gww",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wornell:Gregory_W=",
+      "Google Scholar": "",
+      "domain": "vision",
+      "Pub count": "3"
+    }
+  },
+  "Luca Daniel": {
+    "corpus": {
+      "Last name": "Daniel",
+      "home": "http://www.mit.edu/~dluca",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Daniel:Luca",
+      "Google Scholar": "https://scholar.google.com/citations?user=JtPNrS8AAAAJ&hl=en&oi=ao",
+      "domain": "eda",
+      "Pub count": "2"
+    }
+  },
+  "David K. Gifford": {
+    "corpus": {
+      "Last name": "Gifford",
+      "home": "http://cgs.csail.mit.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gifford:David_K=",
+      "Google Scholar": "",
+      "domain": "comp. bio,ml",
+      "Pub count": "2"
+    }
+  },
+  "Polina Golland": {
+    "corpus": {
+      "Last name": "Golland",
+      "home": "https://www.csail.mit.edu/person/polina-golland",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Golland:Polina",
+      "Google Scholar": "https://scholar.google.com/citations?user=eeyDrJ8AAAAJ&hl=en&oi=ao",
+      "domain": "ml",
+      "Pub count": "2"
+    }
+  },
+  "Dina Katabi": {
+    "corpus": {
+      "Last name": "Katabi",
+      "home": "http://people.csail.mit.edu/dina",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Katabi:Dina",
+      "Google Scholar": "https://scholar.google.com/citations?user=nst5fHgAAAAJ&hl=en&oi=ao",
+      "domain": "networks",
+      "Pub count": "2"
+    }
+  },
+  "Samuel Madden": {
+    "corpus": {
+      "Last name": "Madden",
+      "home": "http://db.csail.mit.edu/madden",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Madden:Samuel",
+      "Google Scholar": "https://scholar.google.com/citations?user=a1ngrCIAAAAJ&hl=en&oi=ao",
+      "domain": "db",
+      "Pub count": "2"
+    }
+  },
+  "Martin C. Rinard": {
+    "corpus": {
+      "Last name": "Rinard",
+      "home": "http://people.csail.mit.edu/rinard",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rinard:Martin_C=",
+      "Google Scholar": "https://scholar.google.com/citations?user=hxlxVEUAAAAJ&hl=en&oi=ao",
+      "domain": "pl,se",
+      "Pub count": "2"
+    }
+  },
+  "Vivienne Sze": {
+    "corpus": {
+      "Last name": "Sze",
+      "home": "http://www.rle.mit.edu/eems",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sze:Vivienne",
+      "Google Scholar": "https://scholar.google.com/citations?user=hNWGC5QAAAAJ&hl=en&oi=ao",
+      "domain": "vision",
+      "Pub count": "2"
+    }
+  },
+  "Seth J. Teller": {
+    "corpus": {
+      "Last name": "Teller",
+      "home": "https://people.csail.mit.edu/teller",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Teller:Seth_J=",
+      "Google Scholar": "https://scholar.google.com/citations?user=I6sTssIAAAAJ&hl=en&oi=ao",
+      "domain": "robotics",
+      "Pub count": "2"
+    }
+  },
+  "Rob Miller": {
+    "corpus": {
+      "Last name": "Miller",
+      "home": "http://www.mit.edu/~rcm",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Miller_0001:Rob",
+      "Google Scholar": "https://scholar.google.com/citations?user=1MK2_tMAAAAJ&hl=en&oi=ao",
+      "domain": "hci",
+      "Pub count": "1"
+    }
+  },
+  "Mohammad Alizadeh": {
+    "corpus": {
+      "Last name": "Alizadeh",
+      "home": "https://people.csail.mit.edu/alizadeh",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Alizadeh:Mohammad",
+      "Google Scholar": "https://scholar.google.com/citations?user=6_cxCKQAAAAJ&hl=en&oi=ao",
+      "domain": "networks",
+      "Pub count": "1"
+    }
+  },
+  "Hari Balakrishnan": {
+    "corpus": {
+      "Last name": "Balakrishnan",
+      "home": "http://nms.lcs.mit.edu/~hari",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Balakrishnan:Hari",
+      "Google Scholar": "https://scholar.google.com/citations?user=Qf4bw4UAAAAJ&hl=en&oi=ao",
+      "domain": "networks",
+      "Pub count": "1"
+    }
+  },
+  "Robert C. Berwick": {
+    "corpus": {
+      "Last name": "Berwick",
+      "home": "https://lids.mit.edu/people/facultypi/robert-berwick",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Berwick:Robert_C=",
+      "Google Scholar": "",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Duane S. Boning": {
+    "corpus": {
+      "Last name": "Boning",
+      "home": "https://www-mtl.mit.edu/wpmu/researchgroupsboning/boning",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Boning:Duane_S=",
+      "Google Scholar": "https://scholar.google.com/citations?user=oIdI_PcAAAAJ&hl=en&oi=ao",
+      "domain": "eda",
+      "Pub count": "1"
+    }
+  },
+  "Erik D. Demaine": {
+    "corpus": {
+      "Last name": "Demaine",
+      "home": "http://erikdemaine.org",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Demaine:Erik_D=",
+      "Google Scholar": "https://scholar.google.com/citations?user=6Ff2c8wAAAAJ&hl=en&oi=ao",
+      "domain": "theory",
+      "Pub count": "1"
+    }
+  },
+  "Berthold K. P. Horn": {
+    "corpus": {
+      "Last name": "Horn",
+      "home": "http://people.csail.mit.edu/bkph",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Horn:Berthold_K=_P=",
+      "Google Scholar": "",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Tim Kraska": {
+    "corpus": {
+      "Last name": "Kraska",
+      "home": "http://cs.brown.edu/~kraskat",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kraska:Tim",
+      "Google Scholar": "https://scholar.google.com/citations?user=biuxbRsAAAAJ&hl=en&oi=ao",
+      "domain": "db",
+      "Pub count": "1"
+    }
+  },
+  "Andrew Lo": {
+    "corpus": {
+      "Last name": "Lo",
+      "home": "http://alo.mit.edu",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lo:Andrew",
+      "Google Scholar": "https://scholar.google.com/citations?user=4M-iGXMAAAAJ&hl=en&oi=ao",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Pablo A. Parrilo": {
+    "corpus": {
+      "Last name": "Parrilo",
+      "home": "http://www.mit.edu/~parrilo",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Parrilo:Pablo_A=",
+      "Google Scholar": "https://scholar.google.com/citations?user=s_IPfEYAAAAJ&hl=en&oi=ao",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Ronitt Rubinfeld": {
+    "corpus": {
+      "Last name": "Rubinfeld",
+      "home": "http://people.csail.mit.edu/ronitt",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rubinfeld:Ronitt",
+      "Google Scholar": "https://scholar.google.com/citations?user=pZhZndYAAAAJ&hl=en&oi=ao",
+      "domain": "theory,db",
+      "Pub count": "1"
+    }
+  },
+  "Nir Shavit": {
+    "corpus": {
+      "Last name": "Shavit",
+      "home": "http://people.csail.mit.edu/shanir",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shavit:Nir",
+      "Google Scholar": "",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Julian Shun": {
+    "corpus": {
+      "Last name": "Shun",
+      "home": "http://people.csail.mit.edu/jshun",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shun:Julian",
+      "Google Scholar": "https://scholar.google.com/citations?user=BGh9WU4AAAAJ&hl=en&oi=ao",
+      "domain": "",
+      "Pub count": "1"
+    }
+  },
+  "Russ Tedrake": {
+    "corpus": {
+      "Last name": "Tedrake",
+      "home": "https://groups.csail.mit.edu/locomotion/russt.html",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tedrake:Russ",
+      "Google Scholar": "https://scholar.google.com/citations?user=nxNkEiYAAAAJ&hl=en&oi=ao",
+      "domain": "robotics",
+      "Pub count": "1"
+    }
+  },
+  "John N. Tsitsiklis": {
+    "corpus": {
+      "Last name": "Tsitsiklis",
+      "home": "http://www.mit.edu/~jnt/home.html",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tsitsiklis:John_N=",
+      "Google Scholar": "https://scholar.google.com/citations?user=bWTPrLEAAAAJ&hl=en&oi=ao",
+      "domain": "metrics",
+      "Pub count": "1"
+    }
+  },
+  "Victor Zue": {
+    "corpus": {
+      "Last name": "Zue",
+      "home": "https://www.csail.mit.edu/user/1522",
+      "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zue:Victor",
+      "Google Scholar": "https://scholar.google.com/citations?user=uvsx5WUAAAAJ&hl=en&oi=ao",
+      "domain": "",
+      "Pub count": "1"
+    }
+  }
+}
