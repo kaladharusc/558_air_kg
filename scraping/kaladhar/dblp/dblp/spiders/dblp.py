@@ -32,7 +32,8 @@ class Dblp(scrapy.Spider):
                     yield scrapy.Request(
                         url=url,
                         callback=self.parse,
-                        meta={"univ_name": univ_name}
+                        meta={"univ_name": univ_name,
+                              "corpus": obj["corpus"], "courses": obj["courses"]}
                     )
 
     def parse(self, response):
@@ -40,7 +41,7 @@ class Dblp(scrapy.Spider):
 
         download_xml_url = response.selector.xpath(
             "//header[@class='headline noline']/nav[@class='head']/ul/li[@class='export drop-down']/div[@class='body']/ul[1]/li[5]/a/@href").get()
-            
+
         yield scrapy.Request(
             url=download_xml_url,
             callback=self.downloadXml,
@@ -67,6 +68,8 @@ class Dblp(scrapy.Spider):
             "person": root.attrib['name'],
             "no_of_papers": root.attrib['n'],
             "univ_name": response.meta['univ_name'],
-            "papers": papers_arr
+            "papers": papers_arr,
+            "corpus": response.meta["corpus"],
+            "courses": response.meta["courses"]
         }
         yield temp
