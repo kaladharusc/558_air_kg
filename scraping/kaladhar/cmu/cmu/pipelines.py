@@ -8,16 +8,15 @@ import json
 import os
 
 
-class StanfordPipeline(object):
-
+class CmuPipeline(object):
     def open_spider(self, spider):
-        self.file = open(
-            "{}/stanford/data/stanford_course_explorer_data.json".format(os.getcwd()), "w")
-
-    def process_item(self, item, spider):
-        line = json.dumps(dict(item), ensure_ascii=False) + "\n"
-        self.file.write(line)
-        return item
+        self.file = open("{}/cmu/data/cmu_course_explorer_data.json".
+                         format(os.getcwd()), "w")
 
     def close_spider(self, spider):
         self.file.close()
+
+    def process_item(self, item, spider):
+        line = json.dumps(dict(item)) + "\n"
+        self.file.write(line)
+        return item
