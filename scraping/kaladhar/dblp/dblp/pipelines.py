@@ -15,7 +15,12 @@ class DblpPipeline(object):
             "{}/dblp/data/dblp_final.json".format(os.getcwd()), "w")
 
     def process_item(self, item, spider):
-        line = json.dumps(item, ensure_ascii=False) + "\n"
+        print("Writing to file")
+        print("\n")
+        print("\n")
+        print("\n")
+
+        line=json.dumps(item, ensure_ascii=False) + "\n"
         self.file.write(line)
         # return item
 

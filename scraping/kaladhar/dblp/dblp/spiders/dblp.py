@@ -10,21 +10,21 @@ class Dblp(scrapy.Spider):
     scraping_folder_url = str(Path(os.path.abspath(
         __file__)).parent.parent.parent.parent.parent.resolve())
 
-    file_paths = [
-        scraping_folder_url+'/vishal/maryland_scraper/maryland/data/maryland_corpus.json',
-        scraping_folder_url+'/vishal/stanford_scraper/stanford/data/stanford_corpus.json',
-        scraping_folder_url+'/bala/data/mit_corpus.json',
-        scraping_folder_url+'/bala/data/uiuc_corpus.json'
-    ]
+    file_paths = {
+        "Maryland": scraping_folder_url+'/vishal/maryland_scraper/maryland/data/maryland_corpus.json',
+        "Stanford": scraping_folder_url+'/vishal/stanford_scraper/stanford/data/stanford_corpus.json',
+        "MIT": scraping_folder_url+'/bala/data/mit_corpus.json',
+        "UIUC": scraping_folder_url+'/bala/data/uiuc_corpus.json'
+    }
 
     final_json = {}
 
     def start_requests(self):
-        for file_name in self.file_paths:
+        for univ_name, file_name in self.file_paths.items():
+            print(univ_name,  file_name, "\n\n\n")
             self.final_json[file_name] = {}
             with open(file_name, "r") as f:
                 total_data = json.loads(f.read())
-                univ_name = file_name.split("/")[-1].strip("_corpus.json")
                 for (_, obj) in total_data.items():
                     url = obj["corpus"]["DBLP"]
                     self.final_json[univ_name] = []
@@ -42,6 +42,7 @@ class Dblp(scrapy.Spider):
         download_xml_url = response.selector.xpath(
             "//header[@class='headline noline']/nav[@class='head']/ul/li[@class='export drop-down']/div[@class='body']/ul[1]/li[5]/a/@href").get()
 
+        print(download_xml_url, "\n\n\n")
         yield scrapy.Request(
             url=download_xml_url,
             callback=self.downloadXml,
@@ -72,4 +73,6 @@ class Dblp(scrapy.Spider):
             "corpus": response.meta["corpus"],
             "courses": response.meta["courses"]
         }
+
+        print("yield temp\n\n\n")
         yield temp
