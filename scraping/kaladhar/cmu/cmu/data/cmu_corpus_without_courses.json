@@ -1,0 +1,696 @@
+{
+    "Aarti Singh": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Singh:Aarti",
+            "Google Scholar": "https://scholar.google.com/citations?user=6jP3ZSEAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~aarti"
+        },
+        "query_param": "Singh%2C+Aarti"
+    },
+    "Abhinav Gupta": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gupta:Abhinav",
+            "domain": "vision",
+            "home": "http://www.cs.cmu.edu/~abhinavg"
+        },
+        "query_param": "Gupta%2C+Abhinav"
+    },
+    "Alan W. Black": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Black:Alan_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Es-YRKMAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "https://www.cs.cmu.edu/~awb"
+        },
+        "query_param": "Black%2C+Alan"
+    },
+    "Alonzo Kelly": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kelly:Alonzo",
+            "Google Scholar": "https://scholar.google.com/citations?user=W7yeGUoAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.frc.ri.cmu.edu/users/alonzo"
+        },
+        "query_param": "Kelly%2C+Alonzo"
+    },
+    "Ameet Talwalkar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Talwalkar:Ameet",
+            "Google Scholar": "https://scholar.google.com/citations?user=TW7U1W0AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.cs.cmu.edu/~atalwalk"
+        },
+        "query_param": "Talwalkar%2C+Ameet"
+    },
+    "Andrew W. Moore 0001": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Moore_0001:Andrew_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=PbfkKLcAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.cs.cmu.edu/~awm"
+        },
+        "query_param": "0001%2C+Andrew"
+    },
+    "André Platzer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Platzer:Andr=eacute=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Y80iWtgAAAAJ&hl=en&oi=ao",
+            "domain": "logic",
+            "home": "http://symbolaris.com"
+        },
+        "query_param": "Platzer%2C+André"
+    },
+    "Aniket Kittur": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kittur:Aniket",
+            "Google Scholar": "https://scholar.google.com/citations?user=2vZ5zRQAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "https://www.hcii.cmu.edu/people/aniket-kittur"
+        },
+        "query_param": "Kittur%2C+Aniket"
+    },
+    "Anupam Datta": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Datta:Anupam",
+            "Google Scholar": "https://scholar.google.com/citations?user=oK3QM1wAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.andrew.cmu.edu/user/danupam"
+        },
+        "query_param": "Datta%2C+Anupam"
+    },
+    "Ariel D. Procaccia": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Procaccia:Ariel_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=8ZpV-lkAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "http://procaccia.info"
+        },
+        "query_param": "Procaccia%2C+Ariel"
+    },
+    "Barnabás Póczos": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/P=oacute=czos:Barnab=aacute=s",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~bapoczos"
+        },
+        "query_param": "Póczos%2C+Barnabás"
+    },
+    "Benjamin Moseley": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Moseley:Benjamin",
+            "Google Scholar": "https://scholar.google.com/citations?user=qq-SXN8AAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.andrew.cmu.edu/user/moseleyb"
+        },
+        "query_param": "Moseley%2C+Benjamin"
+    },
+    "Bhiksha Raj": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Raj:Bhiksha",
+            "Google Scholar": "https://scholar.google.com/citations?user=IWcGY98AAAAJ&hl=en&oi=ao",
+            "domain": "ml,vision",
+            "home": "http://www.cs.cmu.edu/~bhiksha"
+        },
+        "query_param": "Raj%2C+Bhiksha"
+    },
+    "Carl Kingsford": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kingsford:Carl",
+            "Google Scholar": "https://scholar.google.com/citations?user=V_cvqKcAAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio",
+            "home": "http://www.cs.cmu.edu/~ckingsf"
+        },
+        "query_param": "Kingsford%2C+Carl"
+    },
+    "Carolyn Penstein Rosé": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Ros=eacute=:Carolyn_Penstein",
+            "Google Scholar": "https://scholar.google.com/citations?user=BMydCgcAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.cs.cmu.edu/~cprose"
+        },
+        "query_param": "Rosé%2C+Carolyn"
+    },
+    "Chinmay Kulkarni": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kulkarni:Chinmay",
+            "Google Scholar": "https://scholar.google.com/citations?user=ZDatV6MAAAAJ&hl=en&oi=ao",
+            "domain": "ai,os,hci",
+            "home": "https://hcii.cmu.edu/people/chinmay-kulkarni"
+        },
+        "query_param": "Kulkarni%2C+Chinmay"
+    },
+    "Christopher James Langmead": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Langmead:Christopher_James",
+            "domain": "comp. bio,ml",
+            "home": "http://www.cs.cmu.edu/~cjl"
+        },
+        "query_param": "Langmead%2C+Christopher"
+    },
+    "Christos Faloutsos": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Faloutsos:Christos",
+            "Google Scholar": "https://scholar.google.com/citations?user=nd8lQQIAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~christos"
+        },
+        "query_param": "Faloutsos%2C+Christos"
+    },
+    "David G. Andersen": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Andersen:David_G=",
+            "Google Scholar": "https://scholar.google.com/citations?user=wUArfPgAAAAJ&hl=en&oi=ao",
+            "domain": "networks",
+            "home": "https://www.cs.cmu.edu/~dga"
+        },
+        "query_param": "Andersen%2C+David"
+    },
+    "David Held": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Held:David",
+            "Google Scholar": "https://scholar.google.com/citations?user=0QtU-NsAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://davheld.github.io"
+        },
+        "query_param": "Held%2C+David"
+    },
+    "David P. Woodruff": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Woodruff:David_P=",
+            "Google Scholar": "https://scholar.google.com/citations?user=0G2t-6sAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.cs.cmu.edu/~dwoodruf"
+        },
+        "query_param": "Woodruff%2C+David"
+    },
+    "Deva Ramanan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Ramanan:Deva",
+            "Google Scholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.cs.cmu.edu/~deva"
+        },
+        "query_param": "Ramanan%2C+Deva"
+    },
+    "Eric Nyberg": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Nyberg:Eric",
+            "Google Scholar": "https://scholar.google.com/citations?user=G6XN5cRm0FIJ&hl=en&oi=ao",
+            "domain": "nlp,web+ir",
+            "home": "http://www.cs.cmu.edu/~ehn"
+        },
+        "query_param": "Nyberg%2C+Eric"
+    },
+    "Eric P. Xing": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/x/Xing:Eric_P=",
+            "Google Scholar": "https://scholar.google.com/citations?user=5pKTRxEAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~epxing"
+        },
+        "query_param": "Xing%2C+Eric"
+    },
+    "Fei Fang": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fang:Fei",
+            "Google Scholar": "https://scholar.google.com/citations?user=VdZQ1EgAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "https://www.andrew.cmu.edu/user/feif"
+        },
+        "query_param": "Fang%2C+Fei"
+    },
+    "Gary L. Miller": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Miller:Gary_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=umm-i20AAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "https://www.cs.cmu.edu/~glmiller"
+        },
+        "query_param": "Miller%2C+Gary"
+    },
+    "Geoffrey J. Gordon": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gordon:Geoffrey_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=0OY5L3UAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~ggordon"
+        },
+        "query_param": "Gordon%2C+Geoffrey"
+    },
+    "Graham Neubig": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Neubig:Graham",
+            "Google Scholar": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.phontron.com"
+        },
+        "query_param": "Neubig%2C+Graham"
+    },
+    "Gregory R. Ganger": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Ganger:Gregory_R=",
+            "domain": "networks",
+            "home": "https://www.ece.cmu.edu/~ganger"
+        },
+        "query_param": "Ganger%2C+Gregory"
+    },
+    "Howie Choset": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Choset:Howie",
+            "Google Scholar": "https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.cs.cmu.edu/~./choset"
+        },
+        "query_param": "Choset%2C+Howie"
+    },
+    "Illah R. Nourbakhsh": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Nourbakhsh:Illah_R=",
+            "Google Scholar": "https://scholar.google.com/citations?user=S4cEObAAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "http://www.cs.cmu.edu/~illah"
+        },
+        "query_param": "Nourbakhsh%2C+Illah"
+    },
+    "Ioannis Gkioulekas": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gkioulekas:Ioannis",
+            "Google Scholar": "https://scholar.google.com/citations?user=yqt5PeEAAAAJ&hl=en&oi=ao",
+            "domain": "vision,graphics",
+            "home": "http://ri.cmu.edu/ri-faculty/ioannis-gkioulekas"
+        },
+        "query_param": "Gkioulekas%2C+Ioannis"
+    },
+    "J. Andrew Bagnell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bagnell:J=_Andrew",
+            "Google Scholar": "https://scholar.google.com/citations?user=7t4jbPQAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.ri.cmu.edu/person.html?person_id=689"
+        },
+        "query_param": "Bagnell%2C+J."
+    },
+    "J. Zico Kolter": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kolter:J=_Zico",
+            "domain": "ml",
+            "home": "http://www.zicokolter.com"
+        },
+        "query_param": "Kolter%2C+J."
+    },
+    "Jaime G. Carbonell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Carbonell:Jaime_G=",
+            "Google Scholar": "https://scholar.google.com/citations?user=uSfaEgUAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,ml",
+            "home": "https://www.cs.cmu.edu/~jgc"
+        },
+        "query_param": "Carbonell%2C+Jaime"
+    },
+    "James McCann": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/McCann:James",
+            "domain": "hci,graphics",
+            "home": "http://www.cs.cmu.edu/~jmccann"
+        },
+        "query_param": "McCann%2C+James"
+    },
+    "James P. Callan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Callan:James_P=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Un5KXJ4AAAAJ&hl=en&oi=ao",
+            "domain": "web+ir",
+            "home": "http://www.cs.cmu.edu/~callan"
+        },
+        "query_param": "Callan%2C+James"
+    },
+    "Jason I. Hong": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hong:Jason_I=",
+            "Google Scholar": "https://scholar.google.com/citations?user=MoFbcc0AAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://www.cs.cmu.edu/~jasonh"
+        },
+        "query_param": "Hong%2C+Jason"
+    },
+    "Jessica K. Hodgins": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hodgins:Jessica_K=",
+            "domain": "graphics",
+            "home": "http://www.cs.cmu.edu/~jkh"
+        },
+        "query_param": "Hodgins%2C+Jessica"
+    },
+    "Jian Ma 0004": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Ma_0004:Jian",
+            "Google Scholar": "https://scholar.google.com/citations?user=kDZcBhkAAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio,ml",
+            "home": "http://www.cs.cmu.edu/~jianma"
+        },
+        "query_param": "0004%2C+Jian"
+    },
+    "Justine Cassell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Cassell:Justine",
+            "Google Scholar": "https://scholar.google.com/citations?user=wkC9xHMAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "https://www.hcii.cmu.edu/people/justine-cassell"
+        },
+        "query_param": "Cassell%2C+Justine"
+    },
+    "Katerina Fragkiadaki": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fragkiadaki:Katerina",
+            "Google Scholar": "https://scholar.google.com/citations?user=FWp7728AAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://www.cs.cmu.edu/~katef"
+        },
+        "query_param": "Fragkiadaki%2C+Katerina"
+    },
+    "Kathleen M. Carley": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Carley:Kathleen_M=",
+            "Google Scholar": "https://scholar.google.com/citations?user=KeJfN-IAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.casos.cs.cmu.edu/bios/carley/carley.html"
+        },
+        "query_param": "Carley%2C+Kathleen"
+    },
+    "Kemal Oflazer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/o/Oflazer:Kemal",
+            "Google Scholar": "https://scholar.google.com/citations?user=JLk0hs8AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "https://www.andrew.cmu.edu/user/ko"
+        },
+        "query_param": "Oflazer%2C+Kemal"
+    },
+    "Kenneth R. Koedinger": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Koedinger:Kenneth_R=",
+            "Google Scholar": "https://scholar.google.com/citations?user=_8DDVkAAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://pact.cs.cmu.edu/koedinger.html"
+        },
+        "query_param": "Koedinger%2C+Kenneth"
+    },
+    "Kun Zhang": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/z/Zhang:Kun",
+            "Google Scholar": "https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
+            "home": "https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html"
+        },
+        "query_param": "Zhang%2C+Kun"
+    },
+    "Louis-Philippe Morency": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Morency:Louis=Philippe",
+            "Google Scholar": "https://scholar.google.com/citations?user=APgaFK0AAAAJ&hl=en&oi=ao",
+            "domain": "nlp,vision",
+            "home": "https://www.cs.cmu.edu/~morency"
+        },
+        "query_param": "Morency%2C+Louis-Philippe"
+    },
+    "Lujo Bauer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bauer:Lujo",
+            "Google Scholar": "https://scholar.google.com/citations?user=5cJzDZEAAAAJ&hl=en&oi=ao",
+            "domain": "hci,security",
+            "home": "http://www.ece.cmu.edu/~lbauer"
+        },
+        "query_param": "Bauer%2C+Lujo"
+    },
+    "Maria-Florina Balcan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Balcan:Maria=Florina",
+            "Google Scholar": "https://scholar.google.com/citations?user=LWlN_BUAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.cs.cmu.edu/~ninamf"
+        },
+        "query_param": "Balcan%2C+Maria-Florina"
+    },
+    "Martial Hebert": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hebert:Martial",
+            "Google Scholar": "https://scholar.google.com/citations?user=0ytii2EAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.cs.cmu.edu/~./hebert"
+        },
+        "query_param": "Hebert%2C+Martial"
+    },
+    "Matt Fredrikson": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fredrikson:Matt",
+            "Google Scholar": "https://scholar.google.com/citations?user=tMYCvLAAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.cs.cmu.edu/~mfredrik"
+        },
+        "query_param": "Fredrikson%2C+Matt"
+    },
+    "Matthew O'Toole": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/o/O=Toole:Matthew",
+            "Google Scholar": "https://scholar.google.com/citations?user=0GLMGTEAAAAJ&hl=en&oi=ao",
+            "domain": "vision,graphics",
+            "home": "https://www.ri.cmu.edu/ri-faculty/matthew-otoole"
+        },
+        "query_param": "O'Toole%2C+Matthew"
+    },
+    "Maxim Likhachev": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Likhachev:Maxim",
+            "Google Scholar": "https://scholar.google.com/citations?user=Ic8NqXwAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "https://www.ri.cmu.edu/ri-faculty/maxim-likhachev"
+        },
+        "query_param": "Likhachev%2C+Maxim"
+    },
+    "Nancy S. Pollard": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Pollard:Nancy_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Lsr_-hsAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.cs.cmu.edu/~nsp"
+        },
+        "query_param": "Pollard%2C+Nancy"
+    },
+    "Nihar B. Shah": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Shah:Nihar_B=",
+            "Google Scholar": "https://scholar.google.com/citations?user=BF39lMQAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~nihars"
+        },
+        "query_param": "Shah%2C+Nihar"
+    },
+    "Norman M. Sadeh": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sadeh:Norman_M=",
+            "Google Scholar": "https://scholar.google.com/citations?user=If_k6LgAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://www.normsadeh.org"
+        },
+        "query_param": "Sadeh%2C+Norman"
+    },
+    "Phillip B. Gibbons": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gibbons:Phillip_B=",
+            "Google Scholar": "https://scholar.google.com/citations?user=F9kqUXkAAAAJ&hl=en&oi=ao",
+            "domain": "arch",
+            "home": "http://www.cs.cmu.edu/~gibbons"
+        },
+        "query_param": "Gibbons%2C+Phillip"
+    },
+    "Pradeep Ravikumar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Ravikumar:Pradeep",
+            "Google Scholar": "https://scholar.google.com/citations?user=Q4DTPw4AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~pradeepr"
+        },
+        "query_param": "Ravikumar%2C+Pradeep"
+    },
+    "Robert E. Kraut": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kraut:Robert_E=",
+            "Google Scholar": "https://scholar.google.com/citations?user=HKGYvu4AAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://kraut.hciresearch.org"
+        },
+        "query_param": "Kraut%2C+Robert"
+    },
+    "Robert F. Murphy": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Murphy:Robert_F=",
+            "Google Scholar": "https://scholar.google.com/citations?user=qQLlBH4AAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio",
+            "home": "http://murphylab.web.cmu.edu"
+        },
+        "query_param": "Murphy%2C+Robert"
+    },
+    "Ronald Rosenfeld": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rosenfeld:Ronald",
+            "Google Scholar": "https://scholar.google.com/citations?user=vrbjXlMAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "http://www.cs.cmu.edu/~roni"
+        },
+        "query_param": "Rosenfeld%2C+Ronald"
+    },
+    "Seyoung Kim": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kim:Seyoung",
+            "Google Scholar": "https://scholar.google.com/citations?user=G99KBM8AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~sssykim"
+        },
+        "query_param": "Kim%2C+Seyoung"
+    },
+    "Simon Lucey": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lucey:Simon",
+            "Google Scholar": "https://scholar.google.com/citations?user=vmAe35UAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.ri.cmu.edu/people/lucey_simon.html"
+        },
+        "query_param": "Lucey%2C+Simon"
+    },
+    "Sivaraman Balakrishnan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Balakrishnan:Sivaraman",
+            "Google Scholar": "https://scholar.google.com/citations?user=o7yFQXUAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.stat.cmu.edu/~siva"
+        },
+        "query_param": "Balakrishnan%2C+Sivaraman"
+    },
+    "Srinivasa G. Narasimhan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Narasimhan:Srinivasa_G=",
+            "Google Scholar": "https://scholar.google.com/citations?user=MhYrLJAAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.cs.cmu.edu/~srinivas"
+        },
+        "query_param": "Narasimhan%2C+Srinivasa"
+    },
+    "Tai Sing Lee": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Lee:Tai_Sing",
+            "Google Scholar": "https://scholar.google.com/citations?user=9TAiIIMAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.cnbc.cmu.edu/~tai"
+        },
+        "query_param": "Lee%2C+Tai"
+    },
+    "Takeo Kanade": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Kanade:Takeo",
+            "Google Scholar": "https://scholar.google.com/citations?user=LQ87h3sAAAAJ&hl=en&oi=ao",
+            "domain": "vision,robotics",
+            "home": "http://www.ri.cmu.edu/people/kanade_takeo.html"
+        },
+        "query_param": "Kanade%2C+Takeo"
+    },
+    "Tom M. Mitchell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/m/Mitchell:Tom_M=",
+            "Google Scholar": "https://scholar.google.com/citations?user=_ZVyA_gAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.cs.cmu.edu/~tom"
+        },
+        "query_param": "Mitchell%2C+Tom"
+    },
+    "Tuomas Sandholm": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sandholm:Tuomas",
+            "Google Scholar": "https://scholar.google.com/citations?user=0DpK1EMAAAAJ&hl=en&oi=ao",
+            "domain": "ai",
+            "home": "http://www.cs.cmu.edu/~sandholm"
+        },
+        "query_param": "Sandholm%2C+Tuomas"
+    },
+    "Umut A. Acar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Acar:Umut_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=wJ4NywgAAAAJ&hl=en&oi=ao",
+            "domain": "pl",
+            "home": "http://www.umut-acar.org"
+        },
+        "query_param": "Acar%2C+Umut"
+    },
+    "Venkatesan Guruswami": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Guruswami:Venkatesan",
+            "Google Scholar": "https://scholar.google.com/citations?user=Es6jE1kAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.cs.cmu.edu/~venkatg"
+        },
+        "query_param": "Guruswami%2C+Venkatesan"
+    },
+    "Virgil D. Gligor": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gligor:Virgil_D=",
+            "domain": "security",
+            "home": "https://users.ece.cmu.edu/~virgil"
+        },
+        "query_param": "Gligor%2C+Virgil"
+    },
+    "William W. Cohen": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Cohen:William_W=",
+            "Google Scholar": "https://scholar.google.com/citations?user=8ys-38kAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.cs.cmu.edu/~wcohen"
+        },
+        "query_param": "Cohen%2C+William"
+    },
+    "William Whittaker": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Whittaker:William",
+            "Google Scholar": "https://scholar.google.com/citations?user=ouKJUyEAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.ri.cmu.edu/person.html?person_id=339"
+        },
+        "query_param": "Whittaker%2C+William"
+    },
+    "Yiming Yang": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/y/Yang:Yiming",
+            "Google Scholar": "https://scholar.google.com/citations?user=MlZq4XwAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.cmu.edu/~./yiming"
+        },
+        "query_param": "Yang%2C+Yiming"
+    },
+    "Yong-Lae Park": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Park:Yong=Lae",
+            "Google Scholar": "https://scholar.google.com/citations?user=kBsTE7AAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.cs.cmu.edu/~ylpark"
+        },
+        "query_param": "Park%2C+Yong-Lae"
+    },
+    "Yulia Tsvetkov": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tsvetkov:Yulia",
+            "Google Scholar": "https://scholar.google.com/citations?user=SEDPkrsAAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://www.cs.cmu.edu/~ytsvetko"
+        },
+        "query_param": "Tsvetkov%2C+Yulia"
+    },
+    "Ziv Bar-Joseph": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bar=Joseph:Ziv",
+            "Google Scholar": "https://scholar.google.com/citations?user=9DCRnPkAAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio",
+            "home": "http://www.cs.cmu.edu/~zivbj"
+        },
+        "query_param": "Bar-Joseph%2C+Ziv"
+    }
+}

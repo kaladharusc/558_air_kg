@@ -1,0 +1,263 @@
+{
+    "person": "Abhinav Shrivastava",
+    "no_of_papers": "26",
+    "univ_name": "maryland_corpus.json",
+    "papers": [
+        {
+            "title": "Unsupervised Data Uncertainty Learning in Visual Retrieval Systems.",
+            "url": "http://arxiv.org/abs/1902.02586",
+            "co_authors": [
+                "Ahmed Taha",
+                "Yi-Ting Chen",
+                "Teruhisa Misu",
+                "Abhinav Shrivastava",
+                "Larry Davis 0001"
+            ]
+        },
+        {
+            "title": "Actor-Centric Relation Network.",
+            "url": "https://doi.org/10.1007/978-3-030-01252-6_20",
+            "co_authors": [
+                "Chen Sun",
+                "Abhinav Shrivastava",
+                "Carl Vondrick",
+                "Kevin Murphy 0002",
+                "Rahul Sukthankar",
+                "Cordelia Schmid"
+            ]
+        },
+        {
+            "title": "Tracking Emerges by Colorizing Videos.",
+            "url": "https://doi.org/10.1007/978-3-030-01261-8_24",
+            "co_authors": [
+                "Carl Vondrick",
+                "Abhinav Shrivastava",
+                "Alireza Fathi",
+                "Sergio Guadarrama",
+                "Kevin Murphy 0002"
+            ]
+        },
+        {
+            "title": "Tracking Emerges by Colorizing Videos.",
+            "url": "http://arxiv.org/abs/1806.09594",
+            "co_authors": [
+                "Carl Vondrick",
+                "Abhinav Shrivastava",
+                "Alireza Fathi",
+                "Sergio Guadarrama",
+                "Kevin Murphy 0002"
+            ]
+        },
+        {
+            "title": "Actor-Centric Relation Network.",
+            "url": "http://arxiv.org/abs/1807.10982",
+            "co_authors": [
+                "Chen Sun",
+                "Abhinav Shrivastava",
+                "Carl Vondrick",
+                "Kevin Murphy 0002",
+                "Rahul Sukthankar",
+                "Cordelia Schmid"
+            ]
+        },
+        {
+            "title": "A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.",
+            "url": "https://doi.org/10.1109/CVPR.2017.324",
+            "co_authors": [
+                "Xiaolong Wang 0004",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era.",
+            "url": "https://doi.org/10.1109/ICCV.2017.97",
+            "co_authors": [
+                "Chen Sun",
+                "Abhinav Shrivastava",
+                "Saurabh Singh",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.",
+            "url": "http://arxiv.org/abs/1704.03414",
+            "co_authors": [
+                "Xiaolong Wang 0004",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era.",
+            "url": "http://arxiv.org/abs/1707.02968",
+            "co_authors": [
+                "Chen Sun",
+                "Abhinav Shrivastava",
+                "Saurabh Singh",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Training Region-Based Object Detectors with Online Hard Example Mining.",
+            "url": "https://doi.org/10.1109/CVPR.2016.89",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001",
+                "Ross B. Girshick"
+            ]
+        },
+        {
+            "title": "Cross-Stitch Networks for Multi-task Learning.",
+            "url": "https://doi.org/10.1109/CVPR.2016.433",
+            "co_authors": [
+                "Ishan Misra",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001",
+                "Martial Hebert"
+            ]
+        },
+        {
+            "title": "Contextual Priming and Feedback for Faster R-CNN.",
+            "url": "https://doi.org/10.1007/978-3-319-46448-0_20",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Cross-stitch Networks for Multi-task Learning.",
+            "url": "http://arxiv.org/abs/1604.03539",
+            "co_authors": [
+                "Ishan Misra",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001",
+                "Martial Hebert"
+            ]
+        },
+        {
+            "title": "Training Region-based Object Detectors with Online Hard Example Mining.",
+            "url": "http://arxiv.org/abs/1604.03540",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001",
+                "Ross B. Girshick"
+            ]
+        },
+        {
+            "title": "Beyond Skip Connections: Top-Down Modulation for Object Detection.",
+            "url": "http://arxiv.org/abs/1612.06851",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Rahul Sukthankar",
+                "Jitendra Malik",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Applying artificial vision models to human scene understanding.",
+            "url": "https://doi.org/10.3389/fncom.2015.00008",
+            "co_authors": [
+                "Elissa Michele Aminoff",
+                "Mariya Toneva",
+                "Abhinav Shrivastava",
+                "Xinlei Chen",
+                "Ishan Misra",
+                "Abhinav Gupta 0001",
+                "Michael J. Tarr"
+            ]
+        },
+        {
+            "title": "Watch and learn: Semi-supervised learning of object detectors from videos.",
+            "url": "https://doi.org/10.1109/CVPR.2015.7298982",
+            "co_authors": [
+                "Ishan Misra",
+                "Abhinav Shrivastava",
+                "Martial Hebert"
+            ]
+        },
+        {
+            "title": "Mid-level Elements for Object Detection.",
+            "url": "http://arxiv.org/abs/1504.07284",
+            "co_authors": [
+                "Aayush Bansal",
+                "Abhinav Shrivastava",
+                "Carl Doersch",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos.",
+            "url": "http://arxiv.org/abs/1505.05769",
+            "co_authors": [
+                "Ishan Misra",
+                "Abhinav Shrivastava",
+                "Martial Hebert"
+            ]
+        },
+        {
+            "title": "Enriching Visual Knowledge Bases via Object Discovery and Segmentation.",
+            "url": "https://doi.org/10.1109/CVPR.2014.261",
+            "co_authors": [
+                "Xinlei Chen",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Data-driven exemplar model selection.",
+            "url": "https://doi.org/10.1109/WACV.2014.6836080",
+            "co_authors": [
+                "Ishan Misra",
+                "Abhinav Shrivastava",
+                "Martial Hebert"
+            ]
+        },
+        {
+            "title": "NEIL: Extracting Visual Knowledge from Web Data.",
+            "url": "https://doi.org/10.1109/ICCV.2013.178",
+            "co_authors": [
+                "Xinlei Chen",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Building Part-Based Object Detectors via 3D Geometry.",
+            "url": "https://doi.org/10.1109/ICCV.2013.219",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Constrained Semi-Supervised Learning Using Attributes and Comparative Attributes.",
+            "url": "https://doi.org/10.1007/978-3-642-33712-3_27",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Saurabh Singh",
+                "Abhinav Gupta 0001"
+            ]
+        },
+        {
+            "title": "Exemplar-SVMs for Visual Ob ject Detection, Label Transfer and Image Retrieval.",
+            "url": "http://icml.cc/2012/papers/946.pdf",
+            "co_authors": [
+                "Tomasz Malisiewicz",
+                "Abhinav Shrivastava",
+                "Abhinav Gupta 0001",
+                "Alexei A. Efros"
+            ]
+        },
+        {
+            "title": "Data-driven visual similarity for cross-domain image matching.",
+            "url": "https://doi.org/10.1145/2070781.2024188",
+            "co_authors": [
+                "Abhinav Shrivastava",
+                "Tomasz Malisiewicz",
+                "Abhinav Gupta 0001",
+                "Alexei A. Efros"
+            ]
+        }
+    ]
+}
