@@ -2,15 +2,15 @@ var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
+var bodyParser = require('body-parser');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+var insertDocumentRouter = require('./routes/insertDocument');
+var searchDocumentRouter = require('./routes/searchDocument');
 const port = 3000;
 
 var app = express();
-
-
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -22,8 +22,16 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// bodyParser
+// app.use(bodyParser());
+app.use( bodyParser.json() );       // to support JSON-encoded bodies
+app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
+  extended: true
+})); 
+
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use('/insertDoc', insertDocumentRouter);
+app.use('/searchDoc', searchDocumentRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

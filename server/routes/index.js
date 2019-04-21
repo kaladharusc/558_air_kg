@@ -8,4 +8,6 @@ router.get('/', function(req, res, next) {
   elasticSearch.ping(res);
 });
 
+/* PUSH data to elasticsearch */
+
 module.exports = router;

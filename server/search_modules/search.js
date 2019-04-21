@@ -21,20 +21,37 @@ exports.ping = function(outResponse) {
     });
 }
 
-exports.search = function(searchData, callback) {
+exports.insertDocument = function (request, outResponse) {
+    client.index({
+        index: 'person',
+        id: 1,
+        type: 'doc',
+        body: request
+    }, function(error, response, status) {
+        if (error) {
+            outResponse.send({"msg": "Document could not be inserted !"});
+        } else {
+            // console.log("Response " + response);
+            // console.log("Status " + status);
+            outResponse.send({"msg": `${response} : ${status}`});
+        }           
+    });
+}
+
+exports.searchDocument = function(searchName, res_object, callback) {
     client.search({
-        index: 'bank',
-        type: 'account',
+        index: 'person',
+        type: 'doc',
         body: {
             query: {
-                match: {address: searchData.searchTerm}
+                match: {name: searchName}
             }
         }
     }).then(function(response) {
         var hits = response.hits.hits;
-        callback(hits);
+        callback(res_object, hits);
     }, function(error) {
-        callback(error.message);
+        // callback(error.message);
         console.trace(error.message);
     })
 }
