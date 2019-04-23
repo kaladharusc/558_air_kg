@@ -6,7 +6,8 @@ import {searchResearcher} from "../actions/searchAction"
 import {Redirect} from "react-router-dom"
 @connect((store) => {
     return {
-        user_login: store.user_login
+        researcherName: store.researcherName,
+        results: store.searchResults
     }
 })
 export default class Search extends React.Component {
@@ -14,18 +15,16 @@ export default class Search extends React.Component {
         super(props)
     }
 
-    // login() {
-    //     console.log(this)
+    // submitRequest() {
     //     var payload = {
-    //         "user" :  {
-    //             "email" : this.username,
-    //             "password" : this.password
-    //         }
+    //         "researcherName": this.researcherName
     //     }
-    //     this.props.dispatch(login(payload))
+
+    //     this.props.dispatch(searchResearcher(payload));
     // }
 
-    submitRequest() {
+    handleChange(event) {
+        this[event.target.name] = event.target.value;
         var payload = {
             "researcherName": this.researcherName
         }
@@ -33,15 +32,14 @@ export default class Search extends React.Component {
         this.props.dispatch(searchResearcher(payload));
     }
 
-    handleChange(event) {
-        this[event.target.name] = event.target.value;
-    }
-
     render() {
         return (<div>
             <h1>SEARCH PAGE</h1>
             <input className="input" type="text" name="researcherName" onChange={this.handleChange.bind(this)}></input>
-            <button onClick={this.submitRequest.bind(this)}>Search!</button>
+            {/* <button onClick={this.submitRequest.bind(this)}>Search!</button> */}
+            <ul>
+                
+            </ul>
         </div>)
     }
 }

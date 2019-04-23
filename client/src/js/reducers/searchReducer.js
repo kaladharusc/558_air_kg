@@ -1,7 +1,5 @@
 export default function searchReducer(state = {
-    loggingIn : false,
-    loggedIn : false,
-    user : {}
+    researcherName: ""
 }, action) {
     switch (action.type) {
         case "SEARCH" :
