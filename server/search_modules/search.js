@@ -38,13 +38,31 @@ exports.insertDocument = function (request, outResponse) {
     });
 }
 
-exports.searchDocument = function(searchName, res_object, callback) {
+exports.fuzzySearch = function(searchPattern, res_object, callback) {
     client.search({
-        index: 'person',
-        type: 'doc',
+        index: 'research_doc',
+        type: 'research_information',
         body: {
             query: {
-                match: {name: searchName}
+                wildcard: {person: `${searchPattern}*`}
+            }
+        }
+    }).then(function(response){
+        var hits = response.hits.hits.map(ele => ele["_source"]["person"]);
+        callback(res_object, hits);
+    }, function(error) {
+        callback(res_object, "");
+        console.trace(error.message);
+    });
+}
+
+exports.searchDocument = function(searchName, res_object, callback) {
+    client.search({
+        index: 'research_doc',
+        type: 'research_information',
+        body: {
+            query: {
+                match: {person: searchName}
             }
         }
     }).then(function(response) {

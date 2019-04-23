@@ -9,9 +9,10 @@ let send_response = (response, hits) => {
 }
 
 router.post('/', function(req, res, next) {
-  let searchName = req.body.searchName;
-  console.log(searchName);
-  elasticSearch.searchDocument(searchName, res, send_response);
+  // console.log(req.body);
+  let searchPattern = req.body.searchPattern.toLowerCase();
+  console.log(searchPattern);
+  elasticSearch.fuzzySearch(searchPattern, res, send_response);
 });
 
 module.exports = router;

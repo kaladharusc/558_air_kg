@@ -8,7 +8,9 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var insertDocumentRouter = require('./routes/insertDocument');
 var searchDocumentRouter = require('./routes/searchDocument');
+var fuzzySearchRouter = require('./routes/fuzzySearchRouter');
 const port = 3000;
+const cors = require('cors');
 
 var app = express();
 
@@ -21,6 +23,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(cors({origin: true}));
 
 // bodyParser
 // app.use(bodyParser());
@@ -32,6 +35,7 @@ app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
 app.use('/', indexRouter);
 app.use('/insertDoc', insertDocumentRouter);
 app.use('/searchDoc', searchDocumentRouter);
+app.use('/fuzzySearch', fuzzySearchRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

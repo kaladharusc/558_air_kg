@@ -3,28 +3,23 @@ import {setCookie, removeCookie} from 'redux-cookie'
 
 export function searchResearcher(payload) {
     return function(dispatch) {
+        var headers = {
+            'Content-Type': 'application/json; charset=utf-8',
+        }
+        var data = {searchName: payload.researcherName};
+        var serverUrl = "http://localhost:3000/searchDoc";
 
-        dispatch({
-            type: "SEARCH",
-            payload: payload.researcherName
-        });
-
-        // dispatch({type : "LOGGING_IN"})
-
-        // axios.post("http://localhost:8000/api/users/login", payload)
-        //     .then((response) => {
-        //         dispatch({
-        //             type : "LOGGED_IN",
-        //             payload : response.data.user
-        //         })
-        //         dispatch(setCookie('token', "Token "+response.data.user.token))
-        //         dispatch(setCookie('user_id', response.data.user._id))
-        //         dispatch(setCookie('user_name', response.data.user.email))
-
-        //     })
-        //     .catch((err) => {
-        //         dispatch({type: "LOGIN_FAILED", payload: err})
-        //       })
-
+        axios.post(serverUrl, data, {headers: headers})
+            .then((response) => {
+                dispatch({
+                    type: "SEARCH",
+                    payload: {
+                        researcherName: payload.researcherName,
+                        researcherDetails: response.data.msg
+                    }
+                })
+            }).catch((error) => {
+                console.log("Error in Search Doc");
+            })
     }
 }
