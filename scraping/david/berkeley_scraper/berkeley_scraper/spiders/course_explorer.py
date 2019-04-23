@@ -91,5 +91,4 @@ on".format(os.getcwd())
                     "course_credits": course_credits,
                     #"course_grading_method": course_grading_method
                 })
-
         yield course_explorer_dict

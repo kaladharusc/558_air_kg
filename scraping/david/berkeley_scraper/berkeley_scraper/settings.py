@@ -100,3 +100,7 @@ SPIDER_MIDDLEWARES = {
     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
 }
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+
+ITEM_PIPELINES = {
+    'berkeley_scraper.pipelines.BerkeleyScraperPipeline': 300,
+}
