@@ -73,3 +73,45 @@ exports.searchDocument = function(searchName, res_object, callback) {
         console.trace(error.message);
     })
 }
+
+exports.searchPublications = function(searchQueryParams, res_object, callback) {
+
+    client.search({
+        index: 'research_doc',
+        type: 'research_information',
+        body: {
+            _source: ["papers"],
+            query: {
+                regexp: {"corpus.domain": searchQueryParams}
+            }
+        }
+    }).then(function(response) {
+        var hits = response.hits.hits;
+        callback(res_object, hits);
+    }, function(error) {
+        // callback(error.message);
+        console.trace(error.message);
+    })
+
+}
+
+exports.searchCourses = function(searchQueryParams, res_object, callback) {
+
+    client.search({
+        index: 'research_doc',
+        type: 'research_information',
+        body: {
+            _source: ["courses"],
+            query: {
+                regexp: {"corpus.domain": searchQueryParams}
+            }
+        }
+    }).then(function(response) {
+        var hits = response.hits.hits;
+        callback(res_object, hits);
+    }, function(error) {
+        // callback(error.message);
+        console.trace(error.message);
+    })
+
+}

@@ -9,6 +9,8 @@ var indexRouter = require('./routes/index');
 var insertDocumentRouter = require('./routes/insertDocument');
 var searchDocumentRouter = require('./routes/searchDocument');
 var fuzzySearchRouter = require('./routes/fuzzySearchRouter');
+var searchPublicationsRouter = require('./routes/searchPublications');
+var searchCoursesRouter = require('./routes/searchCourses');
 const port = 3000;
 const cors = require('cors');
 
@@ -36,6 +38,8 @@ app.use('/', indexRouter);
 app.use('/insertDoc', insertDocumentRouter);
 app.use('/searchDoc', searchDocumentRouter);
 app.use('/fuzzySearch', fuzzySearchRouter);
+app.use('/searchPublications', searchPublicationsRouter);
+app.use('/searchCourses', searchCoursesRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

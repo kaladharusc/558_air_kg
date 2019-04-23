@@ -48,7 +48,7 @@ export default class Search extends React.Component {
         }
         return (<div>
             <NavBar/>
-            <h1>SEARCH PAGE</h1>
+            <h1>Search Researchers page</h1>
             <input className="input" list="data" type="text" name="fuzzySearchPattern" onChange={this.handleChange.bind(this)}></input>
             <datalist id="data">
                 {fuzzySearchResults.map((item, key) => {
@@ -59,7 +59,7 @@ export default class Search extends React.Component {
             {
                 // researcherDetails != {} ?
                 Object.keys(researcherDetails).length === 0 && researcherDetails.constructor === Object ?
-                (<div id="researcherDetails">Empty Object</div>)
+                (<div id="researcherDetails"></div>)
                 : (<ResearcherDetailsComponent details={researcherDetails[0]._source}/>)
             }
 

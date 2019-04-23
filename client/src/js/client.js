@@ -7,7 +7,8 @@ import Search from "./components/Search"
 import store from "./store"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './css/style.css'
-import NavBar from "./components/NavBar";
+import Publications from "./components/Publications";
+import Courses from "./components/Courses";
 
 const app = document.getElementById('app')
 
@@ -16,6 +17,8 @@ ReactDOM.render(
 <Provider store={store}>
 <Switch>
     <Route exact path="/search" component={Search}/>
+    <Route exact path="/publications" component={Publications}/>
+    <Route exact path="/courses" component={Courses}/>
     {/* <Route path="/movies" component={Profile}/> */}
   </Switch>
 </Provider>

@@ -19,6 +19,7 @@
     "js-cookie": "^2.2.0",
     "popper.js": "^1.15.0",
     "react": "^0.14.6",
+    "react-bootstrap-table-next": "^3.1.1",
     "react-dom": "^0.14.6",
     "react-dropdown-input": "^0.1.11",
     "react-redux": "^4.4.5",
