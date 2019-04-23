@@ -14,7 +14,8 @@ class Dblp(scrapy.Spider):
         "Maryland": scraping_folder_url+'/vishal/maryland_scraper/maryland/data/maryland_corpus.json',
         "Stanford": scraping_folder_url+'/vishal/stanford_scraper/stanford/data/stanford_corpus.json',
         "MIT": scraping_folder_url+'/bala/data/mit_corpus.json',
-        "UIUC": scraping_folder_url+'/bala/data/uiuc_corpus.json'
+        "UIUC": scraping_folder_url+'/bala/data/uiuc_corpus.json',
+        "Berkeley": scraping_folder_url+'/david/berkeley_scraper/berkeley_scraper/data/berkeley_corpus.json'
     }
 
     final_json = {}
