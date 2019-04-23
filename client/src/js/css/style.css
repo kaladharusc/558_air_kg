@@ -1,0 +1,23 @@
+iframe {
+    width : 400px;
+    height : 200px;
+}
+
+.iframe_div {
+    display: inline-block;
+    margin: 10px
+}
+
+.scroll_view {
+    width : 100%;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+body {
+    background-color: #141414;
+}
+
+.col-sm-12 {
+    padding: 0px;
+}
