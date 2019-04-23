@@ -65,13 +65,9 @@ on".format(os.getcwd())
 
     def parse(self, response):
         researcher_name = response.selector.xpath('//*[@id="block-current-search-standard"]//li[1]/text()').get()
-        #/html/body/div/div[2]/main/div/ol/li[1]/div/div/div[1]/div[1]/div[1]/div[3]/span[2]/text()').get()
         searchResults = response.selector.xpath('//li[@class="search-result"]')
-        #/html/body/div/div[2]/main/div/ol/li/div/div')
         course_level = response.selector.xpath('//*[@id="block-current-search-standard"]//li[3]/text()').get()
-        #//*[@id="facetapi-facet-apachesolrsolr-block-ts-course-level"]/li[input/@checked="checked"]/text()').get()
         semester = response.selector.xpath('//*[@id="block-current-search-standard"]//li[2]/text()').get()
-        #//*[@id="facetapi-facet-apachesolrsolr-block-im-field-term-name"]/li[input/@checked="checked"]/text()').get()
         course_explorer_dict = {}
         course_explorer_dict.update({
             researcher_name: {
@@ -87,18 +83,7 @@ on".format(os.getcwd())
                 course_json = json.loads(course.xpath('//li[@class="search-result"]//div/@data-json')[0])
                 course_id = course_json['class']['course']['displayName']
                 course_title = course_json['class']['course']['title']
-                course_credits = course_json['class']['allowedUnits']['forAcademicProgress']
-                #course_grading_method = course_json['class']['gradingBasis']['description']
-                #print things
-# =============================================================================
-#                 print("JJJJJJJJJJJJJJJJJJJJJJJJJJ")
-#                 print(course_id)
-#                 print(course_title)
-#                 print(course_credits)
-#                 print(course_grading_method)
-#                 #print(json.dumps(course_json, indent=4, sort_keys=True))
-#                 print("KKKKKKKKKKKKKKKKKKKKKKKKK")
-# =============================================================================
+                course_credits = course_json['class']['allowedUnits']['forAcademicProgress']           
                 course_explorer_dict[researcher_name]["courses"].append({
                     "course_id": course_id,
                     "course_title": course_title,
