@@ -1,0 +1,3701 @@
+{
+    "Alberto Luigi Sangiovanni-Vincentelli": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sangiovanni=Vincentelli:Alberto_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=AhgjQ2QAAAAJ&hl=en&oi=ao",
+            "domain": "eda",
+            "home": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html"
+        },
+        "courses": [
+            {
+                "courseId": "CIVENG C289",
+                "courseLevel": "Graduate",
+                "courseTitle": "Embedded System Design: Modeling, Analysis, and Synthesis",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ELENG C249B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Embedded System Design: Modeling, Analysis, and Synthesis",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            }
+        ],
+        "query_param": "Sangiovanni-Vincentelli%2C+Alberto"
+    },
+    "Alexandre M. Bayen": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bayen:Alexandre_M=",
+            "Google Scholar": "https://scholar.google.com/citations?user=a5nY-pYAAAAJ&hl=en&oi=ao",
+            "domain": "ml,robotics",
+            "home": "http://www.ce.berkeley.edu/people/faculty/bayen"
+        },
+        "courses": [
+            {
+                "courseId": "CIVENG C291F",
+                "courseLevel": "Graduate",
+                "courseTitle": "Control and Optimization of Distributed Parameters Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "EECS 227AT",
+                "courseLevel": "Graduate",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "ELENG C291",
+                "courseLevel": "Graduate",
+                "courseTitle": "Control and Optimization of Distributed Parameters Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "MECENG C236",
+                "courseLevel": "Graduate",
+                "courseTitle": "Control and Optimization of Distributed Parameters Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "EECS 127",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "EECS 227AT",
+                "courseLevel": "Graduate",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 227AT",
+                "courseLevel": "Graduate",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ELENG 290O",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Electrical Engineering: Advanced Topics in Control",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "EECS 127",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 127",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Optimization Models in Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "CIVENG H194",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Honors Undergraduate Research",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "CIVENG H194",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Honors Undergraduate Research",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "CIVENG 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies, Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "CIVENG 98",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Supervised Group Study and Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "CIVENG 99",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Supervised Independent Study and Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "CIVENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "CIVENG 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies, Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "CIVENG 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "CIVENG 191",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Civil and Environmental Engineering Systems Analysis",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "CIVENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Bayen%2C+Alexandre"
+    },
+    "Anca Dragan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Dragan:Anca_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=UgHB5oAAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://www.eecs.berkeley.edu/~anca"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 197",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Field Study",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG 98",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Directed Group Study for Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Dragan%2C+Anca"
+    },
+    "Anthony D Joseph": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Joseph:Anthony_D=",
+            "Google Scholar": "https://scholar.google.com/citations?user=xdGKgtcAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/joseph.html"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 162",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Operating Systems and System Programming",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 0,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 399",
+                "courseLevel": "Graduate",
+                "courseTitle": "Professional Preparation: Supervised Teaching of Computer Science",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 162",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Operating Systems and System Programming",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Joseph%2C+Anthony"
+    },
+    "Armando Fox": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/f/Fox:Armando",
+            "domain": "db",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/fox.html"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 375",
+                "courseLevel": "Graduate",
+                "courseTitle": "Teaching Techniques for Computer Science",
+                "numberOfUnits": 2,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 169",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Software Engineering",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 375",
+                "courseLevel": "Graduate",
+                "courseTitle": "Teaching Techniques for Computer Science",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 169",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Software Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 169",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Software Engineering",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Fox%2C+Armando"
+    },
+    "Benjamin Recht": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Recht:Benjamin",
+            "Google Scholar": "https://scholar.google.com/citations?user=a_dbdxAAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.eecs.berkeley.edu/~brecht"
+        },
+        "courses": [
+            {
+                "courseId": "ELENG C227C",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "INDENG C227B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI C281A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT C241A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 289A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 189",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "MECENG 24",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Freshman Seminars",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 289A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 399",
+                "courseLevel": "Graduate",
+                "courseTitle": "Professional Preparation: Supervised Teaching of Computer Science",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI C281B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Learning and Decision Making",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT C241B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Learning and Decision Making",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 189",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Recht%2C+Benjamin"
+    },
+    "Bernd Sturmfels": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sturmfels:Bernd",
+            "Google Scholar": "https://scholar.google.com/citations?user=5zTUNsQAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://math.berkeley.edu/~bernd"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "MATH 255",
+                "courseLevel": "Graduate",
+                "courseTitle": "Algebraic Curves",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "MATH 270",
+                "courseLevel": "Graduate",
+                "courseTitle": "Hot Topics Course in Mathematics",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "MATH 170",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Mathematical Methods for Optimization",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "MATH 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Reading Course for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Sturmfels%2C+Bernd"
+    },
+    "Bin Yu": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/y/Yu_0001:Bin",
+            "Google Scholar": "https://scholar.google.com/citations?user=xT19Jc0AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.stat.berkeley.edu/~binyu/Site/Welcome.html"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 215A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Models: Theory and Application",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 154",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Modern Statistical Prediction and Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 215A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Models: Theory and Application",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 215A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Models: Theory and Application",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "0001%2C+Bin"
+    },
+    "Claire Jennifer Tomlin": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tomlin:Claire_J=",
+            "domain": "robotics",
+            "home": "https://people.eecs.berkeley.edu/~tomlin"
+        },
+        "courses": [
+            {
+                "courseId": "ELENG 221A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Linear System Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "ELENG C291E",
+                "courseLevel": "Graduate",
+                "courseTitle": "Hybrid Systems and Intelligent Control",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "MECENG C290S",
+                "courseLevel": "Graduate",
+                "courseTitle": "Hybrid Systems and Intelligent Control",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ELENG 221A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Linear System Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ELENG 222",
+                "courseLevel": "Graduate",
+                "courseTitle": "Nonlinear Systems--Analysis, Stability and Control",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ELENG 221A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Linear System Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG 602",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study for Doctoral Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Tomlin%2C+Claire"
+    },
+    "David Alexander Bamman": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bamman:David",
+            "Google Scholar": "https://scholar.google.com/citations?user=RkA1y54AAAAJ&hl=en&oi=ao",
+            "domain": "nlp",
+            "home": "http://people.ischool.berkeley.edu/~dbamman"
+        },
+        "courses": [
+            {
+                "courseId": "INFO 202",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Organization and Retrieval",
+                "numberOfUnits": 2,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "INFO 256",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applied Natural Language Processing",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "INFO 159",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Natural Language Processing",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "INFO 202",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Organization and Retrieval",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "INFO 259",
+                "courseLevel": "Graduate",
+                "courseTitle": "Natural Language Processing",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "INFO 202",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Organization and Retrieval",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 259",
+                "courseLevel": "Graduate",
+                "courseTitle": "Natural Language Processing",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "INFO 159",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Natural Language Processing",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 202",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Organization and Retrieval",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 190",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "UGIS 192E",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Interdisciplinary Studies",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Bamman%2C+David"
+    },
+    "David Wagner": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wagner_0001:David_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.cs.berkeley.edu/~daw"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI C8",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Foundations of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT C8",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Foundations of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 261",
+                "courseLevel": "Graduate",
+                "courseTitle": "Security in Computer Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI C8",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Foundations of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT C8",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Foundations of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            }
+        ],
+        "query_param": "0001%2C+David"
+    },
+    "Ion Stoica": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Stoica:Ion",
+            "Google Scholar": "https://scholar.google.com/citations?user=vN-is70AAAAJ&hl=en&oi=ao",
+            "domain": "networks",
+            "home": "http://www.cs.berkeley.edu/~istoica"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 162",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Operating Systems and System Programming",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 262A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Computer Systems",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 162",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Operating Systems and System Programming",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 162",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Operating Systems and System Programming",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 262A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Computer Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Stoica%2C+Ion"
+    },
+    "James W Demmel": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Demmel:James",
+            "domain": "hpc",
+            "home": "https://www.cs.berkeley.edu/~demmel"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI C267",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applications of Parallel Computers",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN C233",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applications of Parallel Computers",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI C267",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applications of Parallel Computers",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ENGIN C233",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applications of Parallel Computers",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Demmel%2C+James"
+    },
+    "Jennifer Listgarten": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Listgarten:Jennifer",
+            "Google Scholar": "https://scholar.google.com/citations?user=jhPhgf4AAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "http://www.jennifer.listgarten.com"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 289A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 189",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 289A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 189",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            }
+        ],
+        "query_param": "Listgarten%2C+Jennifer"
+    },
+    "John F Canny": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/c/Canny:John_F=",
+            "Google Scholar": "https://scholar.google.com/citations?user=LAv0HTEAAAAJ&hl=en&oi=ao",
+            "domain": "hci",
+            "home": "https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 287",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Robotics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 282A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Designing, Visualizing and Understanding Deep Neural Networks",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 182",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Designing, Visualizing and Understanding Deep Neural Networks",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 194",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 260A",
+                "courseLevel": "Graduate",
+                "courseTitle": "User Interface Design and Development",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 160",
+                "courseLevel": "Upper Division",
+                "courseTitle": "User Interface Design and Development",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 160",
+                "courseLevel": "Upper Division",
+                "courseTitle": "User Interface Design and Development",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 160",
+                "courseLevel": "Upper Division",
+                "courseTitle": "User Interface Design and Development",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            }
+        ],
+        "query_param": "Canny%2C+John"
+    },
+    "Joseph Edgar Gonzalez": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Gonzalez:Joseph",
+            "Google Scholar": "https://scholar.google.com/citations?user=gM2WW9UAAAAJ&hl=en&oi=ao",
+            "domain": "ml,vision,networks",
+            "home": "http://www.cs.berkeley.edu/~jegonzal"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT C100",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Principles & Techniques of Data Science",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Gonzalez%2C+Joseph"
+    },
+    "Justin Douglas Tygar": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/t/Tygar:J=_D=",
+            "domain": "ml",
+            "home": "http://www.tygar.net"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 219",
+                "courseLevel": "Graduate",
+                "courseTitle": "Privacy, Security, and Cryptography",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 194",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 206",
+                "courseLevel": "Graduate",
+                "courseTitle": "Distributed Computing Applications and Infrastructure",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Tygar%2C+J."
+    },
+    "Kannan Ramchandran": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Ramchandran:Kannan",
+            "Google Scholar": "https://scholar.google.com/citations?user=DcV-5RAAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/~kannanr"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "EECS 126",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Probability and Random Processes",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 126",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Probability and Random Processes",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 126",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Probability and Random Processes",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ELENG 126",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Probability and Random Processes",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ELENG 290S",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Electrical Engineering: Advanced Topics in Communications and Information Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Ramchandran%2C+Kannan"
+    },
+    "Kenneth Yigael Goldberg": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Goldberg:Kenneth_Y=",
+            "Google Scholar": "https://scholar.google.com/citations?user=8fztli4AAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://goldberg.berkeley.edu"
+        },
+        "courses": [
+            {
+                "courseId": "INDENG 115",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Industrial and Commercial Data Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "INDENG 375",
+                "courseLevel": "Graduate",
+                "courseTitle": "GSI Proseminar on Teaching Engineering",
+                "numberOfUnits": 2,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "INDENG 115",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Industrial and Commercial Data Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "NUCENG 375",
+                "courseLevel": "Graduate",
+                "courseTitle": "Teaching Techniques in Nuclear Engineering",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "INDENG 115",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Industrial and Commercial Data Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INDENG 115",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Industrial and Commercial Data Systems",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INDENG 66",
+                "courseLevel": "Lower Division",
+                "courseTitle": "A Bivariate Introduction to IE and OR",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Goldberg%2C+Kenneth"
+    },
+    "Kurt W Keutzer": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/k/Keutzer:Kurt",
+            "Google Scholar": "https://scholar.google.com/citations?user=IzaagZkAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://people.eecs.berkeley.edu/~keutzer"
+        },
+        "courses": [
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 194",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Keutzer%2C+Kurt"
+    },
+    "Laurent El Ghaoui": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/g/Ghaoui:Laurent_El",
+            "Google Scholar": "https://scholar.google.com/citations?user=3XLQbL8AAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://people.eecs.berkeley.edu/~elghaoui"
+        },
+        "courses": [],
+        "query_param": "Ghaoui%2C+Laurent"
+    },
+    "Marti Alice Hearst": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hearst:Marti_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=Yy6xbCYAAAAJ&hl=en&oi=ao",
+            "domain": "nlp,hci",
+            "home": "http://people.ischool.berkeley.edu/~hearst"
+        },
+        "courses": [
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "INFO 247",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Visualization and Presentation",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "INFO 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "INFO 190",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 190",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INFO 247",
+                "courseLevel": "Graduate",
+                "courseTitle": "Information Visualization and Presentation",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 256",
+                "courseLevel": "Graduate",
+                "courseTitle": "Applied Natural Language Processing",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "INFO 190",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Special Topics in Information",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Hearst%2C+Marti"
+    },
+    "Martin J. Wainwright": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/w/Wainwright:Martin_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=J5Rvh6gAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "https://www.eecs.berkeley.edu/~wainwrig"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI C281A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT C241A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG C227C",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "INDENG C227B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 260",
+                "courseLevel": "Graduate",
+                "courseTitle": "Topics in Probability and Statistics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            }
+        ],
+        "query_param": "Wainwright%2C+Martin"
+    },
+    "Michael Jordan": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/j/Jordan:Michael_I=",
+            "Google Scholar": "https://scholar.google.com/citations?user=yxUduqMAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.cs.berkeley.edu/~jordan"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 102",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Data, Inference, and Decisions",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 210B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Theoretical Statistics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 210B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Theoretical Statistics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Jordan%2C+Michael"
+    },
+    "Moritz Hardt": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/h/Hardt:Moritz",
+            "Google Scholar": "https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en&oi=ao",
+            "domain": "theory,ml",
+            "home": "http://mrtz.org"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI C281A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT C241A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Statistical Learning Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 189",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 289A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Machine Learning",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ELENG C227C",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "INDENG C227B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Convex Optimization and Approximation",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            }
+        ],
+        "query_param": "Hardt%2C+Moritz"
+    },
+    "Nir Yosef": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/y/Yosef:Nir",
+            "Google Scholar": "https://scholar.google.com/citations?user=eQ8KEHoAAAAJ&hl=en&oi=ao",
+            "domain": "",
+            "home": "https://niryosef.wordpress.com"
+        },
+        "courses": [
+            {
+                "courseId": "CMPBIO 293",
+                "courseLevel": "Graduate",
+                "courseTitle": "Doctoral Seminar in Computational Biology",
+                "numberOfUnits": 2,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 176",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Algorithms for Computational Biology",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "CMPBIO 293",
+                "courseLevel": "Graduate",
+                "courseTitle": "Doctoral Seminar in Computational Biology",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "CMPBIO 293",
+                "courseLevel": "Graduate",
+                "courseTitle": "Doctoral Seminar in Computational Biology",
+                "numberOfUnits": 2,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 176",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Algorithms for Computational Biology",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "CMPBIO 198BC",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Berkeley Connect in Computational Biology",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 176",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Algorithms for Computational Biology",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "CMPBIO 98BC",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Berkeley Connect in Computational Biology",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Yosef%2C+Nir"
+    },
+    "Peter Leslie Bartlett": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bartlett:Peter_L=",
+            "Google Scholar": "https://scholar.google.com/citations?user=UPVvV6kAAAAJ&hl=en&oi=ao",
+            "domain": "ml",
+            "home": "http://www.stat.berkeley.edu/~bartlett"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 155",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Game Theory",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Bartlett%2C+Peter"
+    },
+    "Pieter Abbeel": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/a/Abbeel:Pieter",
+            "Google Scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "https://people.eecs.berkeley.edu/~pabbeel"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 287",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Robotics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ELENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ELENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ELENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ELENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI H196A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Senior Honors Thesis Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Study for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG 98",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Directed Group Study for Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Abbeel%2C+Pieter"
+    },
+    "Ruzena Bajcsy": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/b/Bajcsy:Ruzena",
+            "domain": "robotics",
+            "home": "https://www.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html"
+        },
+        "courses": [
+            {
+                "courseId": "BIOENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "BIOENG C106B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "EECS C106B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "EECS 206B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "EECS 206A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "BIOENG C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "BIOENG 199",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Independent Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 206B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "BIOENG C106B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "EECS C106B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "EECS 206A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "BIOENG C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "EECS C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ELENG 206B",
+                "courseLevel": "Graduate",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "BIOENG C125B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ELENG C106B",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Robotic Manipulation and Interaction",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "ELENG 206A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "BIOENG C125",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "ELENG C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Bajcsy%2C+Ruzena"
+    },
+    "Sanjit Arunkumar Seshia": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Seshia:Sanjit_A=",
+            "Google Scholar": "https://scholar.google.com/citations?user=SlZavnIAAAAJ&hl=en&oi=ao",
+            "domain": "logic",
+            "home": "https://people.eecs.berkeley.edu/~sseshia"
+        },
+        "courses": [
+            {
+                "courseId": "EECS 149",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI C249A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "ELENG C249A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "EECS 219C",
+                "courseLevel": "Graduate",
+                "courseTitle": "Formal Methods: Specification, Verification, and Synthesis",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI C249A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ELENG C249A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 149",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Embedded Systems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "EECS 219C",
+                "courseLevel": "Graduate",
+                "courseTitle": "Formal Methods: Specification, Verification, and Synthesis",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 399",
+                "courseLevel": "Graduate",
+                "courseTitle": "Professional Preparation: Supervised Teaching of Computer Science",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 197",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Field Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Seshia%2C+Sanjit"
+    },
+    "Satish B Rao": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Rao:Satish",
+            "Google Scholar": "https://scholar.google.com/citations?user=x_cgL6gAAAAJ&hl=en&oi=ao",
+            "domain": "theory",
+            "home": "http://www.cs.berkeley.edu/~satishr"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 170",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Efficient Algorithms and Intractable Problems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 270",
+                "courseLevel": "Graduate",
+                "courseTitle": "Combinatorial Algorithms and Data Structures",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 170",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Efficient Algorithms and Intractable Problems",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 375",
+                "courseLevel": "Graduate",
+                "courseTitle": "Teaching Techniques for Computer Science",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 270",
+                "courseLevel": "Graduate",
+                "courseTitle": "Combinatorial Algorithms and Data Structures",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            }
+        ],
+        "query_param": "Rao%2C+Satish"
+    },
+    "Sergey Levine": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/l/Levine:Sergey",
+            "Google Scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+            "domain": "robotics,ml",
+            "home": "https://people.eecs.berkeley.edu/~svlevine"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 285",
+                "courseLevel": "Graduate",
+                "courseTitle": "Deep Reinforcement Learning, Decision Making, and Control",
+                "numberOfUnits": 3,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI H196A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Senior Honors Thesis Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Levine%2C+Sergey"
+    },
+    "Sosale Shankar Sastry": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Sastry:S=_Shankar",
+            "Google Scholar": "https://scholar.google.com/citations?user=KgZxzjsAAAAJ&hl=en&oi=ao",
+            "domain": "robotics",
+            "home": "http://robotics.eecs.berkeley.edu/~sastry"
+        },
+        "courses": [
+            {
+                "courseId": "EECS 206A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "ELENG 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Electrical Engineering",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "BIOENG C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "EECS C106A",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Robotics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "ELENG 290O",
+                "courseLevel": "Graduate",
+                "courseTitle": "Advanced Topics in Electrical Engineering: Advanced Topics in Control",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "INDENG 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics in Industrial Engineering and Operation Research",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            }
+        ],
+        "query_param": "Sastry%2C+S."
+    },
+    "Stuart J Russell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/r/Russell:Stuart_J=",
+            "Google Scholar": "https://scholar.google.com/citations?user=KJGrjCAAAAAJ&hl=en&oi=ao",
+            "domain": "ml,ai",
+            "home": "http://www.cs.berkeley.edu/~russell"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 188",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Introduction to Artificial Intelligence",
+                "numberOfUnits": 4,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            }
+        ],
+        "query_param": "Russell%2C+Stuart"
+    },
+    "Trevor Darrell": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/d/Darrell:Trevor",
+            "Google Scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "https://people.eecs.berkeley.edu/~trevor"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Group Studies Seminars, or Group Research",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Darrell%2C+Trevor"
+    },
+    "Vern Paxson": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/p/Paxson:Vern",
+            "Google Scholar": "https://scholar.google.com/citations?user=HvwPRJ0AAAAJ&hl=en&oi=ao",
+            "domain": "security,metrics",
+            "home": "http://www.icir.org/vern"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 161",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Computer Security",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 261N",
+                "courseLevel": "Graduate",
+                "courseTitle": "Internet and Network Security",
+                "numberOfUnits": 4,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Paxson%2C+Vern"
+    },
+    "Xiaodong Dawn Song": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Song:Dawn_Xiaodong",
+            "Google Scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+            "domain": "security",
+            "home": "http://www.cs.berkeley.edu/~dawnsong"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 2,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "ENGIN 296MB",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "ENGIN 296MA",
+                "courseLevel": "Graduate",
+                "courseTitle": "Master of Engineering Capstone Project",
+                "numberOfUnits": 2,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 2,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "UGIS 192D",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Supervised Research: Physical Sciences",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Song%2C+Dawn"
+    },
+    "Yi-Ren Ng": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/n/Ng:Ren",
+            "Google Scholar": "https://scholar.google.com/citations?user=6H0mhLUAAAAJ&hl=en&oi=ao",
+            "domain": "vision",
+            "home": "http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html"
+        },
+        "courses": [
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 3,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 284A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Foundations of Computer Graphics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "COMPSCI 184",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Foundations of Computer Graphics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 284A",
+                "courseLevel": "Graduate",
+                "courseTitle": "Foundations of Computer Graphics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 184",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Foundations of Computer Graphics",
+                "numberOfUnits": 4,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 198",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Directed Group Studies for Advanced Undergraduates",
+                "numberOfUnits": 3,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Ng%2C+Ren"
+    },
+    "Yun S. Song": {
+        "corpus": {
+            "DBLP": "https://dblp.uni-trier.de/pers/hd/s/Song:Yun_S=",
+            "Google Scholar": "https://scholar.google.com/citations?user=1NTSe1wAAAAJ&hl=en&oi=ao",
+            "domain": "comp. bio",
+            "home": "http://www.eecs.berkeley.edu/~yss"
+        },
+        "courses": [
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 197",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Field Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2019"
+            },
+            {
+                "courseId": "STAT 260",
+                "courseLevel": "Graduate",
+                "courseTitle": "Topics in Probability and Statistics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2019"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 197",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Field Study",
+                "numberOfUnits": 1,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "COMPSCI 70",
+                "courseLevel": "Lower Division",
+                "courseTitle": "Discrete Mathematics and Probability Theory",
+                "numberOfUnits": 4,
+                "semester": "Fall 2018"
+            },
+            {
+                "courseId": "CMPBIO 290",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics - Computational Biology",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "COMPSCI 294",
+                "courseLevel": "Graduate",
+                "courseTitle": "Special Topics",
+                "numberOfUnits": 3,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2018"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 135",
+                "courseLevel": "Upper Division",
+                "courseTitle": "Concepts of Statistics",
+                "numberOfUnits": 4,
+                "semester": "Fall 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Spring 2017"
+            },
+            {
+                "courseId": "STAT 298",
+                "courseLevel": "Graduate",
+                "courseTitle": "Directed Study for Graduate Students",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            },
+            {
+                "courseId": "STAT 299",
+                "courseLevel": "Graduate",
+                "courseTitle": "Individual Study Leading to Higher Degrees",
+                "numberOfUnits": 1,
+                "semester": "Fall 2016"
+            }
+        ],
+        "query_param": "Song%2C+Yun"
+    }
+}
