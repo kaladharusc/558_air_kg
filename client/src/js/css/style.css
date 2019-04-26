@@ -1,6 +1,6 @@
 iframe {
-    width : 400px;
-    height : 200px;
+    width: 400px;
+    height: 200px;
 }
 
 .iframe_div {
@@ -9,15 +9,15 @@ iframe {
 }
 
 .scroll_view {
-    width : 100%;
+    width: 100%;
     overflow-x: scroll;
     white-space: nowrap;
 }
 
-body {
+/* body {
     background-color: #ffffff;
-}
+} */
 
-.col-sm-12 {
+/* .col-sm-12 {
     padding: 0px;
-}
+} */

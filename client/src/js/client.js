@@ -13,7 +13,7 @@ import Courses from "./components/Courses";
 const app = document.getElementById('app')
 
 ReactDOM.render(
-<HashRouter> 
+<HashRouter>
 <Provider store={store}>
 <Switch>
     <Route exact path="/search" component={Search}/>

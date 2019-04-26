@@ -1,11 +1,11 @@
 import React from "react"
 import { connect } from "react-redux"
 
-import {searchPublications} from "../actions/publicationSearchAction"
-import {fuzzySearchResearcher} from "../actions/fuzzySearchAction";
+import { searchPublications } from "../actions/publicationSearchAction"
+import { fuzzySearchResearcher } from "../actions/fuzzySearchAction";
 import NavBar from "./NavBar";
 
-import {Redirect} from "react-router-dom"
+import { Redirect } from "react-router-dom"
 @connect((store) => {
     return {
         publicationDetails: store["publicationReducer"].publicationDetails
@@ -22,6 +22,11 @@ export default class Publications extends React.Component {
             'nlp': 0,
             'ir': 0
         }
+        this.headers = [
+            "Co-Authors",
+            "Title",
+            "url"
+        ]
     }
 
     handleChange(event) {
@@ -50,22 +55,23 @@ export default class Publications extends React.Component {
     }
 
     render() {
-        var {publicationDetails} = this.props;
+        var { publicationDetails } = this.props;
+        var headers = this.headers;
         return (
             <div>
-                <NavBar/>
+                {/* <NavBar/> */}
                 <h1>Publications List page</h1>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ai"/> AI<br/>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="vision"/> VISION<br/>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="mlmining"/> ML AND DATA Mining<br/>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="nlp"/> NLP<br/>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ir"/> IR<br/>
-                <button onClick={this.submitRequest.bind(this)}>Search!</button>
+                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ai" /> AI<br />
+                <input type="checkbox" onChange={this.handleChange.bind(this)} value="vision" /> VISION<br />
+                <input type="checkbox" onChange={this.handleChange.bind(this)} value="mlmining" /> ML AND DATA Mining<br />
+                <input type="checkbox" onChange={this.handleChange.bind(this)} value="nlp" /> NLP<br />
+                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ir" /> IR<br />
+                <button className="btn btn-primary" onClick={this.submitRequest.bind(this)}>Search!</button>
 
                 {
                     Object.keys(publicationDetails).length === 0 && publicationDetails.constructor === Object ?
-                    (<div id="publicationDetails">Empty Publications</div>)
-                    :(<PublicationDetailsComponent publicationDetails={publicationDetails.slice(0, 50)}/>)
+                        (<div id="publicationDetails">Empty Publications</div>)
+                        : (<PublicationDetailsComponent headers={headers} publicationDetails={publicationDetails.slice(0, 50)} />)
                 }
 
             </div>
@@ -77,32 +83,45 @@ export default class Publications extends React.Component {
 function PublicationDetailsComponent(props) {
 
     return (
-      <div id="courseDetails">
-        <br/>
-        <br/>
-        {/* <BootstrapTable keyField='id' data={ props.courseDetails } columns={ columns } striped hover condensed/> */}
-        <table className="table table-bordered table-hover" width="100%">
-            <tbody>
-            {props.publicationDetails.map((row, key) => {
-                return <TableRow row={row} key={key}/>
-            })}
-            </tbody>
-        </table>
-      </div>
+        <div id="courseDetails">
+            <br />
+            <br />
+            {/* <BootstrapTable keyField='id' data={ props.courseDetails } columns={ columns } striped hover condensed/> */}
+            <table className="table table-bordered table-hover table-striped" width="100%">
+                <thead className="thead-dark">
+                    <tr>
+                        {props.headers.map((header, index) => {
+                            console.log(header, index)
+                            return <TableHeader cell={header} key={index} />
+                        })}
+                    </tr>
+                </thead>
+                <tbody>
+                    {props.publicationDetails.map((row, key) => {
+                        return <TableRow row={row} key={key} />
+                    })}
+                </tbody>
+            </table>
+        </div>
     )
 }
 
-const TableRow = ({row, key}) => {
-    console.log(row);
+const TableRow = ({ row, key }) => {
+
     return (
-    <tr key={key}>
-        {Object.values(row).map((cell, key) => {
-           return <TableCell cell={cell} key={key}/> 
-        })}
-    </tr>
+        <tr key={key}>
+            {Object.values(row).map((cell, key) => {
+                return <TableCell cell={cell} key={key} />
+            })}
+        </tr>
     )
 }
 
-const TableCell = ({cell, key}) => {
+const TableCell = ({ cell, key }) => {
     return <td key={key}>{cell}</td>
+}
+
+const TableHeader = ({ cell, key }) => {
+    console.log(cell, key);
+    return <th key={key}>{cell}</th>
 }

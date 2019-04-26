@@ -47,7 +47,7 @@ export default class Search extends React.Component {
             console.log(researcherDetails[0]._source);
         }
         return (<div>
-            <NavBar/>
+            {/* <NavBar/> */}
             <h1>Search Researchers page</h1>
             <input className="input" list="data" type="text" name="fuzzySearchPattern" onChange={this.handleChange.bind(this)}></input>
             <datalist id="data">
@@ -55,7 +55,7 @@ export default class Search extends React.Component {
                     return <option key={key} value={item} />
                 })}
             </datalist>
-            <button onClick={this.submitRequest.bind(this)}>Search!</button>
+            <button className="btn btn-dark" onClick={this.submitRequest.bind(this)}>Search!</button>
             {
                 // researcherDetails != {} ?
                 Object.keys(researcherDetails).length === 0 && researcherDetails.constructor === Object ?

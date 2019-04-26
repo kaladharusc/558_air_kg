@@ -8,9 +8,9 @@ import {Redirect} from "react-router-dom"
 export default class NavBar extends React.Component {
     render() {
         const {user} = this.props;
-        
-        return (   
-          <nav className="navbar navbar-expand-lg navbar-light">
+
+        return (
+          <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div className="navbar-nav">
                 <a className="nav-item nav-link" href="#/search">Search<span className="sr-only">(current)</span></a>
