@@ -52,9 +52,10 @@ export default class Courses extends React.Component {
 
     render() {
         var { courseDetails } = this.props;
+        var headers = this.headers;
         return (
             <div>
-                <NavBar />
+                {/* <NavBar /> */}
                 <h1>Courses List page</h1>
                 <input type="checkbox" onChange={this.handleChange.bind(this)} value="ai" /> AI<br />
                 <input type="checkbox" onChange={this.handleChange.bind(this)} value="vision" /> VISION<br />
@@ -66,7 +67,7 @@ export default class Courses extends React.Component {
                 {
                     Object.keys(courseDetails).length === 0 && courseDetails.constructor === Object ?
                         (<div id="courseDetails">Empty Publications</div>)
-                        : (<CourseDetailsComponent courseDetails={courseDetails.slice(0, 50)} />)
+                        : (<CourseDetailsComponent courseDetails={courseDetails.slice(0, 50)} headers={headers} />)
                 }
 
             </div>
@@ -82,7 +83,15 @@ function CourseDetailsComponent(props) {
             <br />
             <br />
             {/* <BootstrapTable keyField='id' data={ props.courseDetails } columns={ columns } striped hover condensed/> */}
-            <table className="table table-bordered table-hover" width="100%">
+            <table className="table table-bordered table-hover table-striped" width="100%">
+                <thead className="thead-dark">
+                    <tr>
+                        {props.headers.map((header, index) => {
+                            console.log(header, index)
+                            return <TableHeader cell={header} key={index} />
+                        })}
+                    </tr>
+                </thead>
                 <tbody>
                     {props.courseDetails.map((row, key) => {
                         return <TableRow row={row} key={key} />
@@ -106,4 +115,8 @@ const TableRow = ({ row, key }) => {
 
 const TableCell = ({ cell, key }) => {
     return <td key={key}>{cell}</td>
+}
+const TableHeader = ({ cell, key }) => {
+    console.log(cell, key);
+    return <th key={key}>{cell}</th>
 }
