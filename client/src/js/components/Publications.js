@@ -61,12 +61,14 @@ export default class Publications extends React.Component {
             <div>
                 {/* <NavBar/> */}
                 <h1>Publications List page</h1>
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ai" /> AI<br />
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="vision" /> VISION<br />
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="mlmining" /> ML AND DATA Mining<br />
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="nlp" /> NLP<br />
-                <input type="checkbox" onChange={this.handleChange.bind(this)} value="ir" /> IR<br />
-                <button className="btn btn-primary" onClick={this.submitRequest.bind(this)}>Search!</button>
+                               <div className="select-options">
+                    <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ai" /> AI</span>
+                    <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="vision" /> VISION</span>
+                    <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ml" /> ML AND DATA Mining</span>
+                    <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="nlp" /> NLP</span>
+                    <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ir" /> IR</span>
+                </div>
+                <button class="btn btn-primary search-button" onClick={this.submitRequest.bind(this)}>Search!</button>
 
                 {
                     Object.keys(publicationDetails).length === 0 && publicationDetails.constructor === Object ?

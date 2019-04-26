@@ -21,3 +21,15 @@ iframe {
 /* .col-sm-12 {
     padding: 0px;
 } */
+
+.select-options {
+    padding-bottom: 20px;
+}
+
+.search-button {
+    margin-bottom: 20px;
+}
+
+.select-options>span {
+    margin-right: 20px;
+}
