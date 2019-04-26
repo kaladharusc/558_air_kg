@@ -9,6 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './css/style.css'
 import Publications from "./components/Publications";
 import Courses from "./components/Courses";
+import TreeMap from "./components/TreeMap";
 
 const app = document.getElementById('app')
 
@@ -19,7 +20,7 @@ ReactDOM.render(
     <Route exact path="/search" component={Search}/>
     <Route exact path="/publications" component={Publications}/>
     <Route exact path="/courses" component={Courses}/>
-    {/* <Route path="/movies" component={Profile}/> */}
+    <Route exact path="/" component={TreeMap}/>
   </Switch>
 </Provider>
 </HashRouter>, app);

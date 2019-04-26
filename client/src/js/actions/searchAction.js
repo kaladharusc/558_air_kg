@@ -1,5 +1,4 @@
 import axios from "axios";
-import {setCookie, removeCookie} from 'redux-cookie'
 
 export function searchResearcher(payload) {
     return function(dispatch) {
