@@ -33,3 +33,12 @@ iframe {
 .select-options>span {
     margin-right: 20px;
 }
+
+td>span {
+    margin-right: 14px;
+    margin-top: 4px;
+    background-color: #bbbbbb;
+    border-radius: 26px;
+    padding: 5px;
+    display: inline-block;
+}

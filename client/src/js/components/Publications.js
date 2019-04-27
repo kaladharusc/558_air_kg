@@ -61,7 +61,7 @@ export default class Publications extends React.Component {
             <div>
                 {/* <NavBar/> */}
                 <h1>Publications List page</h1>
-                               <div className="select-options">
+                <div className="select-options">
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ai" /> AI</span>
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="vision" /> VISION</span>
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ml" /> ML AND DATA Mining</span>
@@ -124,6 +124,5 @@ const TableCell = ({ cell, key }) => {
 }
 
 const TableHeader = ({ cell, key }) => {
-    console.log(cell, key);
     return <th key={key}>{cell}</th>
 }
