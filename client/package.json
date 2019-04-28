@@ -15,10 +15,12 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "bootstrap": "^4.1.3",
+    "graphdracula": "^1.2.1",
     "jquery": "^1.9.1",
     "js-cookie": "^2.2.0",
     "package.json": "^2.0.1",
     "popper.js": "^1.15.0",
+    "raphael": "^2.2.8",
     "react": "^0.14.6",
     "react-bootstrap-table-next": "^3.1.1",
     "react-dom": "^0.14.6",
@@ -36,6 +38,8 @@
   },
   "devDependencies": {
     "css-loader": "^1.0.0",
+    "i": "^0.3.6",
+    "json-loader": "^0.5.7",
     "style-loader": "^0.23.0"
   },
   "scripts": {

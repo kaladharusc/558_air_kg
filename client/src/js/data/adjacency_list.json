@@ -1,0 +1,789 @@
+{
+  "Abhinav Shrivastava": [],
+  "Donald Perlis": ["V. S. Subrahmanian"],
+  "Daniel J. Abadi": [
+    "Hari Balakrishnan",
+    "Christopher R\u00e9",
+    "Samuel Madden",
+    "Hector Garcia-Molina"
+  ],
+  "Furong Huang": ["Tom Goldstein", "Alan S. Willsky"],
+  "Hanan Samet": [
+    "Ramani Duraiswami",
+    "Tom Goldstein",
+    "Dinesh Manocha",
+    "Piotr Indyk"
+  ],
+  "Dana S. Nau": ["Jennifer Golbeck", "V. S. Subrahmanian"],
+  "Hernisa Kacorri": [],
+  "David W. Jacobs": [
+    "Ramani Duraiswami",
+    "Matthias Zwicker",
+    "Tom Goldstein",
+    "Rama Chellappa",
+    "Larry S. Davis"
+  ],
+  "Douglas W. Oard": [
+    "Philip Resnik",
+    "Jordan L. Boyd-Graber",
+    "Yiannis Aloimonos"
+  ],
+  "Aravind Srinivasan": ["Aleksander Madry", "Jennifer Golbeck"],
+  "Jordan L. Boyd-Graber": [
+    "Naomi Feldman",
+    "Philip Resnik",
+    "Douglas W. Oard",
+    "Larry S. Davis"
+  ],
+  "John P. Dickerson": [
+    "Larry S. Davis",
+    "Mohammad Taghi Hajiaghayi",
+    "Aravind Srinivasan",
+    "Tom Goldstein",
+    "V. S. Subrahmanian"
+  ],
+  "Larry S. Davis": [
+    "Jennifer Golbeck",
+    "Rama Chellappa",
+    "Ramani Duraiswami",
+    "Tom Goldstein",
+    "Jordan L. Boyd-Graber",
+    "Antonio Torralba 0001",
+    "V. S. Subrahmanian"
+  ],
+  "Mohammad Taghi Hajiaghayi": [
+    "Ankur Moitra",
+    "V. S. Subrahmanian",
+    "Aravind Srinivasan",
+    "Erik D. Demaine",
+    "Piotr Indyk",
+    "Moses Charikar",
+    "Daniela Rus"
+  ],
+  "Marine Carpuat": ["Philip Resnik"],
+  "Naomi Feldman": ["Jordan L. Boyd-Graber", "Philip Resnik"],
+  "Philip Resnik": [
+    "Naomi Feldman",
+    "Jordan L. Boyd-Graber",
+    "Douglas W. Oard",
+    "Marine Carpuat",
+    "ChengXiang Zhai"
+  ],
+  "Jennifer Golbeck": ["Aravind Srinivasan", "Dana S. Nau", "Larry S. Davis"],
+  "Matthias Zwicker": [
+    "Tom Goldstein",
+    "Fr\u00e9do Durand",
+    "Wojciech Matusik"
+  ],
+  "Soheil Feizi": [
+    "Tom Goldstein",
+    "Anshul Kundaje",
+    "Rama Chellappa",
+    "Olgica Milenkovic",
+    "Lav R. Varshney"
+  ],
+  "Dinesh Manocha": [
+    "Ming C. Lin",
+    "Hanan Samet",
+    "Leonidas J. Guibas",
+    "Steven M. LaValle"
+  ],
+  "Tom Goldstein": [
+    "Matthias Zwicker",
+    "Tudor Dumitras",
+    "Furong Huang",
+    "Larry S. Davis",
+    "Hanan Samet",
+    "Soheil Feizi"
+  ],
+  "Tudor Dumitras": ["Tom Goldstein", "V. S. Subrahmanian"],
+  "Aaron Sidford": ["Erik D. Demaine", "John C. Duchi", "Omer Reingold"],
+  "Ming C. Lin": ["Dinesh Manocha", "Leonidas J. Guibas"],
+  "Ramani Duraiswami": ["Larry S. Davis", "Hanan Samet"],
+  "Anshul Kundaje": ["Serafim Batzoglou", "Soheil Feizi"],
+  "Alexander Aiken": [
+    "William J. Dally",
+    "Percy Liang",
+    "Martin C. Rinard",
+    "Pat Hanrahan",
+    "Matei Zaharia",
+    "Michael S. Bernstein",
+    "Saurabh Gupta 0001",
+    "Kayvon Fatahalian",
+    "Mehran Sahami"
+  ],
+  "Yiannis Aloimonos": ["Douglas W. Oard"],
+  "Aviad Rubinstein": ["Gregory Valiant"],
+  "Balaji Prabhakar": [
+    "Mohammad Alizadeh",
+    "Sachin Katti",
+    "Ashish Goel",
+    "Yoav Shoham",
+    "Dina Katabi",
+    "Devavrat Shah"
+  ],
+  "Ashish Goel": ["Piotr Indyk", "Balaji Prabhakar", "Moses Charikar"],
+  "Christopher D. Manning": [
+    "Percy Liang",
+    "Pat Hanrahan",
+    "Daniel Jurafsky",
+    "Hector Garcia-Molina"
+  ],
+  "Chris Piech": ["Mehran Sahami", "Leonidas J. Guibas"],
+  "Christoforos E. Kozyrakis": [
+    "William J. Dally",
+    "Christopher R\u00e9",
+    "Nir Shavit",
+    "Sachin Katti",
+    "Kunle Olukotun"
+  ],
+  "Emma Brunskill": [
+    "Hari Balakrishnan",
+    "Leslie Pack Kaelbling",
+    "Seth J. Teller",
+    "Michael S. Bernstein",
+    "David R. Karger",
+    "Tom\u00e1s Lozano-P\u00e9rez",
+    "Russ Tedrake"
+  ],
+  "Dan Boneh": [
+    "John C. Mitchell",
+    "Omer Reingold",
+    "Hector Garcia-Molina",
+    "Monica S. Lam"
+  ],
+  "Dorsa Sadigh": ["Stefano Ermon"],
+  "Christopher R\u00e9": [
+    "Tim Kraska",
+    "Jure Leskovec",
+    "John C. Duchi",
+    "Percy Liang",
+    "Samuel Madden",
+    "Matei Zaharia",
+    "Kunle Olukotun",
+    "Hector Garcia-Molina",
+    "Daniel J. Abadi"
+  ],
+  "V. S. Subrahmanian": [
+    "Mohammad Taghi Hajiaghayi",
+    "Jure Leskovec",
+    "Donald Perlis",
+    "Rama Chellappa",
+    "Tudor Dumitras",
+    "Dana S. Nau",
+    "Larry S. Davis"
+  ],
+  "William J. Dally": ["Pat Hanrahan", "Kayvon Fatahalian"],
+  "Daniel Jurafsky": [
+    "Jure Leskovec",
+    "John C. Mitchell",
+    "Percy Liang",
+    "Christopher D. Manning"
+  ],
+  "Rama Chellappa": ["Larry S. Davis", "Soheil Feizi", "V. S. Subrahmanian"],
+  "Fei-Fei Li": [
+    "Christopher R\u00e9",
+    "Percy Liang",
+    "Michael S. Bernstein",
+    "Christopher D. Manning",
+    "Silvio Savarese",
+    "Leonidas J. Guibas"
+  ],
+  "Kayvon Fatahalian": ["William J. Dally", "Pat Hanrahan"],
+  "John C. Duchi": [
+    "Aaron Sidford",
+    "Silvio Savarese",
+    "Russ Tedrake",
+    "Tim Kraska",
+    "Christopher R\u00e9",
+    "Percy Liang"
+  ],
+  "Gregory Valiant": [
+    "Moses Charikar",
+    "Constantinos Daskalakis",
+    "Ankur Moitra",
+    "Percy Liang",
+    "Aviad Rubinstein"
+  ],
+  "Kunle Olukotun": [
+    "Christopher R\u00e9",
+    "Pat Hanrahan",
+    "Matei Zaharia",
+    "Christoforos E. Kozyrakis",
+    "Monica S. Lam",
+    "Leonidas J. Guibas"
+  ],
+  "Mehran Sahami": ["Leonidas J. Guibas", "Chris Piech"],
+  "Matei Zaharia": ["Christopher R\u00e9", "Samuel Madden", "Kunle Olukotun"],
+  "John C. Mitchell": ["Carl A. Gunter", "Dan Boneh", "Daniel Jurafsky"],
+  "Jure Leskovec": [
+    "Christopher R\u00e9",
+    "Jiawei Han 0001",
+    "Percy Liang",
+    "Samuel Madden",
+    "V. S. Subrahmanian",
+    "Daniel Jurafsky",
+    "Michael S. Bernstein",
+    "Hector Garcia-Molina",
+    "Serafim Batzoglou",
+    "Stefanie Jegelka"
+  ],
+  "Monica S. Lam": ["Dan Boneh", "Martin C. Rinard", "Kunle Olukotun"],
+  "Hector Garcia-Molina": [
+    "Jure Leskovec",
+    "Christopher R\u00e9",
+    "Dan Boneh",
+    "Samuel Madden",
+    "Christopher D. Manning",
+    "Kevin Chen-Chuan Chang"
+  ],
+  "Moses Charikar": [
+    "Mohammad Taghi Hajiaghayi",
+    "Ankur Moitra",
+    "Percy Liang",
+    "Gregory Valiant",
+    "Ashish Goel",
+    "Piotr Indyk"
+  ],
+  "Noah D. Goodman": [
+    "Leslie Pack Kaelbling",
+    "Percy Liang",
+    "Stefano Ermon",
+    "Pat Hanrahan",
+    "Ranjitha Kumar",
+    "Chris Piech"
+  ],
+  "Omer Reingold": ["Dan Boneh", "Aaron Sidford", "Mahesh Viswanathan 0001"],
+  "Pat Hanrahan": [
+    "William J. Dally",
+    "Noah D. Goodman",
+    "Seth J. Teller",
+    "Christopher D. Manning",
+    "Kunle Olukotun",
+    "Kayvon Fatahalian",
+    "Silvio Savarese",
+    "Leonidas J. Guibas"
+  ],
+  "Serafim Batzoglou": ["Jure Leskovec", "Anshul Kundaje"],
+  "Tengyu Ma": ["Ankur Moitra"],
+  "Leonidas J. Guibas": [
+    "Tarek F. Abdelzaher",
+    "Dinesh Manocha",
+    "Ming C. Lin",
+    "Samuel Madden",
+    "Pat Hanrahan",
+    "Kunle Olukotun",
+    "Silvio Savarese",
+    "Mehran Sahami",
+    "Steven M. LaValle",
+    "Chris Piech",
+    "Justin Solomon",
+    "Fei-Fei Li"
+  ],
+  "Michael S. Bernstein": [
+    "Jure Leskovec",
+    "Samuel Madden",
+    "Rob Miller 0001",
+    "Fei-Fei Li",
+    "Emma Brunskill",
+    "David R. Karger"
+  ],
+  "Zakir Durumeric": ["Michael Bailey"],
+  "Sachin Katti": [
+    "Hari Balakrishnan",
+    "Mohammad Alizadeh",
+    "Dina Katabi",
+    "Balaji Prabhakar"
+  ],
+  "Percy Liang": [
+    "Noah D. Goodman",
+    "Jure Leskovec",
+    "Christopher R\u00e9",
+    "John C. Duchi",
+    "Martin C. Rinard",
+    "Gregory Valiant",
+    "Fei-Fei Li",
+    "Christopher D. Manning",
+    "Saurabh Gupta 0001",
+    "Moses Charikar"
+  ],
+  "Yoav Shoham": ["Balaji Prabhakar"],
+  "Stefano Ermon": ["Dorsa Sadigh"],
+  "Antonio Torralba 0001": [
+    "Svetlana Lazebnik",
+    "Alan S. Willsky",
+    "William T. Freeman",
+    "Dina Katabi",
+    "Wojciech Matusik",
+    "Russ Tedrake",
+    "Larry S. Davis",
+    "Gregory W. Wornell",
+    "Daniela Rus",
+    "David A. Forsyth",
+    "Fr\u00e9do Durand"
+  ],
+  "Regina Barzilay": [
+    "Armando Solar-Lezama",
+    "Martin C. Rinard",
+    "Randall Davis",
+    "David R. Karger",
+    "Dina Katabi",
+    "Tommi S. Jaakkola"
+  ],
+  "William T. Freeman": [
+    "John V. Guttag",
+    "Alan S. Willsky",
+    "Berthold K. P. Horn",
+    "Antonio Torralba 0001",
+    "Wojciech Matusik",
+    "Polina Golland",
+    "Gregory W. Wornell",
+    "Daniela Rus",
+    "Fr\u00e9do Durand"
+  ],
+  "Stefanie Jegelka": [
+    "Jure Leskovec",
+    "Tamara Broderick",
+    "Leslie Pack Kaelbling",
+    "Justin Solomon",
+    "Tom\u00e1s Lozano-P\u00e9rez",
+    "Silvio Savarese",
+    "Tommi S. Jaakkola",
+    "Gregory W. Wornell"
+  ],
+  "John V. Guttag": [
+    "Hari Balakrishnan",
+    "Peter Szolovits",
+    "William T. Freeman",
+    "Samuel Madden",
+    "Andrew Lo",
+    "Piotr Indyk",
+    "Fr\u00e9do Durand"
+  ],
+  "Tommi S. Jaakkola": [
+    "Alan S. Willsky",
+    "Seth J. Teller",
+    "Regina Barzilay",
+    "Dina Katabi",
+    "Erik D. Demaine",
+    "David Sontag",
+    "David K. Gifford",
+    "Stefanie Jegelka"
+  ],
+  "David Sontag": ["Ankur Moitra", "David R. Karger", "Tommi S. Jaakkola"],
+  "Silvio Savarese": [
+    "John C. Duchi",
+    "Mani Golparvar Fard",
+    "Pat Hanrahan",
+    "Fei-Fei Li",
+    "Derek Hoiem",
+    "Leonidas J. Guibas",
+    "Stefanie Jegelka"
+  ],
+  "Fr\u00e9do Durand": [
+    "Matthias Zwicker",
+    "John V. Guttag",
+    "William T. Freeman",
+    "Antonio Torralba 0001",
+    "Dina Katabi",
+    "Wojciech Matusik",
+    "Gregory W. Wornell",
+    "Daniela Rus"
+  ],
+  "Tamara Broderick": ["Caroline Uhler", "Stefanie Jegelka"],
+  "Julie A. Shah": ["Seth J. Teller", "Russ Tedrake"],
+  "Leslie Pack Kaelbling": [
+    "Armando Solar-Lezama",
+    "Noah D. Goodman",
+    "Emma Brunskill",
+    "Tom\u00e1s Lozano-P\u00e9rez",
+    "Russ Tedrake",
+    "Daniela Rus",
+    "Stefanie Jegelka"
+  ],
+  "Patrick Jaillet": [],
+  "Devavrat Shah": [
+    "Hari Balakrishnan",
+    "Alan S. Willsky",
+    "John N. Tsitsiklis",
+    "Duane S. Boning",
+    "Lav R. Varshney",
+    "David R. Karger",
+    "Polina Golland",
+    "Asuman E. Ozdaglar",
+    "Balaji Prabhakar",
+    "Gregory W. Wornell"
+  ],
+  "Tom\u00e1s Lozano-P\u00e9rez": [
+    "Leslie Pack Kaelbling",
+    "Emma Brunskill",
+    "Russ Tedrake",
+    "Daniela Rus",
+    "Stefanie Jegelka"
+  ],
+  "Randall Davis": ["Peter Szolovits", "Seth J. Teller", "Regina Barzilay"],
+  "Wojciech Matusik": [
+    "Armando Solar-Lezama",
+    "Matthias Zwicker",
+    "William T. Freeman",
+    "Antonio Torralba 0001",
+    "Justin Solomon",
+    "Daniela Rus",
+    "Fr\u00e9do Durand"
+  ],
+  "Constantinos Daskalakis": [
+    "Ankur Moitra",
+    "Gregory Valiant",
+    "Erik D. Demaine"
+  ],
+  "Alan S. Willsky": [
+    "William T. Freeman",
+    "Antonio Torralba 0001",
+    "Furong Huang",
+    "Tommi S. Jaakkola",
+    "Pablo A. Parrilo",
+    "Devavrat Shah"
+  ],
+  "Armando Solar-Lezama": [
+    "Leslie Pack Kaelbling",
+    "Martin C. Rinard",
+    "Samuel Madden",
+    "Regina Barzilay",
+    "Wojciech Matusik",
+    "Daniela Rus"
+  ],
+  "Ankur Moitra": [
+    "Gregory Valiant",
+    "Mohammad Taghi Hajiaghayi",
+    "Moses Charikar",
+    "David Sontag",
+    "Constantinos Daskalakis",
+    "Tengyu Ma"
+  ],
+  "Justin Solomon": [
+    "Polina Golland",
+    "Wojciech Matusik",
+    "Leonidas J. Guibas",
+    "Stefanie Jegelka"
+  ],
+  "Peter Szolovits": ["John V. Guttag", "Randall Davis"],
+  "Caroline Uhler": ["Tamara Broderick"],
+  "Aleksander Madry": ["Aravind Srinivasan"],
+  "Asuman E. Ozdaglar": [
+    "John N. Tsitsiklis",
+    "Pablo A. Parrilo",
+    "Devavrat Shah"
+  ],
+  "Virginia Vassilevska Williams": ["Aaron Sidford", "Erik D. Demaine"],
+  "Piotr Indyk": [
+    "Mohammad Taghi Hajiaghayi",
+    "John V. Guttag",
+    "Samuel Madden",
+    "Ashish Goel",
+    "Dina Katabi",
+    "Ronitt Rubinfeld",
+    "Erik D. Demaine",
+    "Moses Charikar",
+    "Hanan Samet"
+  ],
+  "Gregory W. Wornell": [
+    "William T. Freeman",
+    "Antonio Torralba 0001",
+    "Daniela Rus",
+    "Devavrat Shah",
+    "Stefanie Jegelka",
+    "Fr\u00e9do Durand"
+  ],
+  "David K. Gifford": ["Erik D. Demaine", "Tommi S. Jaakkola"],
+  "Dina Katabi": [
+    "Hari Balakrishnan",
+    "Antonio Torralba 0001",
+    "Martin C. Rinard",
+    "Fr\u00e9do Durand",
+    "Sachin Katti",
+    "Regina Barzilay",
+    "Piotr Indyk",
+    "Tommi S. Jaakkola",
+    "Balaji Prabhakar",
+    "Daniela Rus"
+  ],
+  "Daniela Rus": [
+    "Hari Balakrishnan",
+    "Mohammad Taghi Hajiaghayi",
+    "Dina Katabi",
+    "Tom\u00e1s Lozano-P\u00e9rez",
+    "Armando Solar-Lezama",
+    "Leslie Pack Kaelbling",
+    "Samuel Madden",
+    "Wojciech Matusik",
+    "Gregory W. Wornell",
+    "Seth J. Teller",
+    "Erik D. Demaine",
+    "Russ Tedrake",
+    "Fr\u00e9do Durand",
+    "William T. Freeman",
+    "Antonio Torralba 0001"
+  ],
+  "Luca Daniel": ["Duane S. Boning"],
+  "Vivienne Sze": [],
+  "Seth J. Teller": [
+    "Hari Balakrishnan",
+    "Pat Hanrahan",
+    "Randall Davis",
+    "Emma Brunskill",
+    "Erik D. Demaine",
+    "Russ Tedrake",
+    "Tommi S. Jaakkola",
+    "Julie A. Shah",
+    "Daniela Rus"
+  ],
+  "Polina Golland": ["William T. Freeman", "Justin Solomon", "Devavrat Shah"],
+  "Robert C. Berwick": [],
+  "Martin C. Rinard": [
+    "Armando Solar-Lezama",
+    "Percy Liang",
+    "Regina Barzilay",
+    "Dina Katabi",
+    "Monica S. Lam"
+  ],
+  "Berthold K. P. Horn": ["William T. Freeman"],
+  "Mohammad Alizadeh": [
+    "Hari Balakrishnan",
+    "Tim Kraska",
+    "Sachin Katti",
+    "Samuel Madden",
+    "Balaji Prabhakar"
+  ],
+  "Samuel Madden": [
+    "Hari Balakrishnan",
+    "Tim Kraska",
+    "John V. Guttag",
+    "Tarek F. Abdelzaher",
+    "Armando Solar-Lezama",
+    "Jure Leskovec",
+    "Rob Miller 0001",
+    "Ronitt Rubinfeld",
+    "Piotr Indyk",
+    "Leonidas J. Guibas",
+    "Matei Zaharia",
+    "Michael S. Bernstein",
+    "David R. Karger",
+    "Daniela Rus",
+    "Mohammad Alizadeh",
+    "Christopher R\u00e9",
+    "Hector Garcia-Molina",
+    "Daniel J. Abadi"
+  ],
+  "Andrew Lo": ["John V. Guttag"],
+  "Rob Miller 0001": [
+    "Samuel Madden",
+    "Randall Davis",
+    "Michael S. Bernstein",
+    "David R. Karger",
+    "Dina Katabi"
+  ],
+  "Duane S. Boning": ["Luca Daniel", "Devavrat Shah"],
+  "David R. Karger": [
+    "Hari Balakrishnan",
+    "Samuel Madden",
+    "Rob Miller 0001",
+    "Regina Barzilay",
+    "Emma Brunskill",
+    "Michael S. Bernstein",
+    "David Sontag",
+    "Devavrat Shah"
+  ],
+  "Hari Balakrishnan": [
+    "Mohammad Alizadeh",
+    "John V. Guttag",
+    "Seth J. Teller",
+    "Sachin Katti",
+    "Samuel Madden",
+    "Emma Brunskill",
+    "David R. Karger",
+    "Dina Katabi",
+    "Erik D. Demaine",
+    "Daniela Rus",
+    "Daniel J. Abadi",
+    "Devavrat Shah"
+  ],
+  "Tim Kraska": [
+    "Mohammad Alizadeh",
+    "Christopher R\u00e9",
+    "John C. Duchi",
+    "Julian Shun",
+    "Samuel Madden"
+  ],
+  "Ronitt Rubinfeld": [
+    "Samuel Madden",
+    "Mahesh Viswanathan 0001",
+    "Piotr Indyk"
+  ],
+  "Nir Shavit": [],
+  "Julian Shun": ["Tim Kraska"],
+  "Victor Zue": [],
+  "Pablo A. Parrilo": [
+    "Asuman E. Ozdaglar",
+    "Alan S. Willsky",
+    "John N. Tsitsiklis"
+  ],
+  "Russ Tedrake": [
+    "John C. Duchi",
+    "Leslie Pack Kaelbling",
+    "Seth J. Teller",
+    "Antonio Torralba 0001",
+    "Emma Brunskill",
+    "Tom\u00e1s Lozano-P\u00e9rez",
+    "Julie A. Shah",
+    "Daniela Rus"
+  ],
+  "Erik D. Demaine": [
+    "Hari Balakrishnan",
+    "Mohammad Taghi Hajiaghayi",
+    "Aaron Sidford",
+    "Tommi S. Jaakkola",
+    "David K. Gifford",
+    "Piotr Indyk",
+    "Constantinos Daskalakis",
+    "Seth J. Teller",
+    "Daniela Rus"
+  ],
+  "Alexander G. Schwing": [
+    "Svetlana Lazebnik",
+    "Jian Peng 0001",
+    "Derek Hoiem",
+    "David A. Forsyth",
+    "Mark Hasegawa-Johnson"
+  ],
+  "John N. Tsitsiklis": [
+    "Pablo A. Parrilo",
+    "Asuman E. Ozdaglar",
+    "Devavrat Shah"
+  ],
+  "Derek Hoiem": [
+    "Silvio Savarese",
+    "Alexander G. Schwing",
+    "Timothy Bretl",
+    "David A. Forsyth",
+    "Mani Golparvar Fard"
+  ],
+  "Svetlana Lazebnik": [
+    "Julia Hockenmaier",
+    "Alexander G. Schwing",
+    "Antonio Torralba 0001",
+    "David A. Forsyth"
+  ],
+  "Saurabh Gupta 0001": ["Percy Liang"],
+  "David A. Forsyth": [
+    "Svetlana Lazebnik",
+    "Antonio Torralba 0001",
+    "Derek Hoiem",
+    "Julia Hockenmaier",
+    "Alexander G. Schwing",
+    "Ranjitha Kumar"
+  ],
+  "Kevin Chen-Chuan Chang": [
+    "Carl A. Gunter",
+    "Jiawei Han 0001",
+    "ChengXiang Zhai",
+    "Hector Garcia-Molina"
+  ],
+  "Julia Hockenmaier": [
+    "ChengXiang Zhai",
+    "Svetlana Lazebnik",
+    "Jiawei Han 0001",
+    "David A. Forsyth"
+  ],
+  "ChengXiang Zhai": [
+    "Carl A. Gunter",
+    "Philip Resnik",
+    "Jian Peng 0001",
+    "Jiawei Han 0001",
+    "Roxana Girju",
+    "Julia Hockenmaier",
+    "Kevin Chen-Chuan Chang"
+  ],
+  "Jian Peng 0001": [
+    "ChengXiang Zhai",
+    "Alexander G. Schwing",
+    "Jiawei Han 0001"
+  ],
+  "Bo Li 0044": [],
+  "Ranjitha Kumar": ["Noah D. Goodman", "Lav R. Varshney", "David A. Forsyth"],
+  "Kirill Levchenko": [],
+  "Olgica Milenkovic": ["Lav R. Varshney", "Soheil Feizi"],
+  "Gang Wang 0011": [],
+  "Roxana Girju": ["ChengXiang Zhai"],
+  "Mark Hasegawa-Johnson": [
+    "Lav R. Varshney",
+    "Alexander G. Schwing",
+    "Deming Chen",
+    "Paris Smaragdis"
+  ],
+  "Paris Smaragdis": ["Mark Hasegawa-Johnson"],
+  "Michael Bailey": ["Zakir Durumeric"],
+  "Lav R. Varshney": [
+    "Olgica Milenkovic",
+    "Ranjitha Kumar",
+    "Soheil Feizi",
+    "Devavrat Shah",
+    "Mark Hasegawa-Johnson"
+  ],
+  "Tao Xie 0001": ["Carl A. Gunter"],
+  "Steven M. LaValle": ["Dinesh Manocha", "Leonidas J. Guibas"],
+  "Timothy Bretl": ["Derek Hoiem"],
+  "Mani Golparvar Fard": ["Silvio Savarese", "Derek Hoiem"],
+  "Tarek F. Abdelzaher": [
+    "Romit Roy Choudhury",
+    "Jiawei Han 0001",
+    "Klara Nahrstedt",
+    "Carl A. Gunter",
+    "Samuel Madden",
+    "Leonidas J. Guibas"
+  ],
+  "Carl A. Gunter": [
+    "Tarek F. Abdelzaher",
+    "John C. Mitchell",
+    "Jiawei Han 0001",
+    "Mahesh Viswanathan 0001",
+    "ChengXiang Zhai",
+    "Kevin Chen-Chuan Chang",
+    "Klara Nahrstedt",
+    "Tao Xie 0001"
+  ],
+  "Karrie Karahalios": [
+    "Carl A. Gunter",
+    "Ronitt Rubinfeld",
+    "Ranjitha Kumar",
+    "Klara Nahrstedt",
+    "Mark Hasegawa-Johnson"
+  ],
+  "Mahesh Viswanathan 0001": [
+    "Carl A. Gunter",
+    "Ronitt Rubinfeld",
+    "Omer Reingold"
+  ],
+  "Shaowen Wang": ["Jiawei Han 0001"],
+  "Ruta Mehta": [],
+  "Deming Chen": ["Ravishankar K. Iyer", "Mark Hasegawa-Johnson"],
+  "Saurabh Sinha": ["Jiawei Han 0001"],
+  "Romit Roy Choudhury": ["Tarek F. Abdelzaher"],
+  "Ravishankar K. Iyer": ["Klara Nahrstedt", "Deming Chen"],
+  "Jiawei Han 0001": [
+    "Tarek F. Abdelzaher",
+    "Klara Nahrstedt",
+    "Jure Leskovec",
+    "Carl A. Gunter",
+    "Jian Peng 0001",
+    "Shaowen Wang",
+    "Julia Hockenmaier",
+    "ChengXiang Zhai",
+    "Kevin Chen-Chuan Chang"
+  ],
+  "Klara Nahrstedt": [
+    "Ravishankar K. Iyer",
+    "Tarek F. Abdelzaher",
+    "Jiawei Han 0001",
+    "Carl A. Gunter"
+  ]
+}
