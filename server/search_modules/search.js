@@ -94,11 +94,11 @@ exports.searchPublications = function (searchQueryParams, searchName, res_object
         body: {
             _source: ["papers"],
             query: {
-                match: {
-                    person: searchName
-                },
-                regexp: {
-                    "corpus.domain": searchQueryParams
+                "bool": {
+                    "must": [
+                        {match: {person: searchName}},
+                        {regexp: {"corpus.domain": searchQueryParams}}
+                    ]
                 }
             }
         }
@@ -120,11 +120,11 @@ exports.searchCourses = function (searchQueryParams, searchName, res_object, cal
         body: {
             _source: ["courses"],
             query: {
-                match: {
-                    person: searchName
-                },
-                regexp: {
-                    "corpus.domain": searchQueryParams
+                "bool": {
+                    "must": [
+                        {match: {person: searchName}},
+                        {regexp: {"corpus.domain": searchQueryParams}}
+                    ]
                 }
             }
         }
