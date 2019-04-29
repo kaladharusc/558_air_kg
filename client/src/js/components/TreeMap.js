@@ -77,7 +77,7 @@ export default class TreeMap extends React.Component {
         }
         return (<div>
             {/* <NavBar/> */}
-            <h1>Search Researchers page</h1>
+            <h1>Friend of a Friend Graph page</h1>
             <input className="input" list="data" type="text" name="fuzzySearchPattern" onChange={this.handleChange.bind(this)}></input>
             <datalist id="data">
                 {fuzzySearchResults.map((item, key) => {
@@ -90,80 +90,4 @@ export default class TreeMap extends React.Component {
 
         </div>)
     }
-}
-
-function ResearcherDetailsComponent(props) {
-    return (
-        <div>
-            <br/>
-            <br/>
-            <table className="table table-bordered table-hover" width="100%">
-                <tr>
-                    <td>
-                        Researcher's Name
-                    </td>
-                    <td>
-                        {props.details.person}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        University Name
-                    </td>
-                    <td>
-                        {props.details.univ_name}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Number of papers published
-                    </td>
-                    <td>
-                        {props.details.no_of_papers}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Number of courses taught
-                    </td>
-                    <td>
-                        {props.details.courses.length}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        DBLP
-                    </td>
-                    <td>
-                        {props.details.corpus.DBLP}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Google Scholar
-                    </td>
-                    <td>
-                        {props.details.corpus["Google Scholar"]}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Domain
-                    </td>
-                    <td>
-                        {props.details.corpus.domain}
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        Home Page
-                    </td>
-                    <td>
-                        {props.details.corpus.home}
-                    </td>
-                </tr>
-            </table>
-        </div>
-
-    )
 }
