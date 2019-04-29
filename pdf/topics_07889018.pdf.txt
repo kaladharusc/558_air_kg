@@ -1,0 +1,7 @@
+Abstract—Intelligent tutoring systems adapt the curriculum to the needs of the individual student. Therefore, an accurateAbstract—Intelligent tutoring systems adapt the curriculum to the needs of the individual student. Therefore, an accuraterepresentation and prediction of student knowledge is essential. Bayesian Knowledge Tracing (BKT) is a popular approach for studentmodeling. The structure of BKT models, however, makes it impossible to represent the hierarchy and relationships between thedifferent skills of a learning domain. Dynamic Bayesian networks (DBN) on the other hand are able to represent multiple skills jointlywithin one model. In this work, we suggest the use of DBNs for student modeling. We introduce a constrained optimization algorithm forparameter learning of such models. We extensively evaluate and interpret the prediction accuracy of our approach on ﬁve large-scaledata sets of different learning domains such as mathematics, spelling learning, and physics. We furthermore provide comparisons toprevious student modeling approaches and analyze the inﬂuence of the different student modeling techniques on instructional policies.We demonstrate that our approach outperforms previous techniques in prediction accuracy on unseen data across all learning domainsand yields meaningful instructional policies.
+
+Topic 0: student learning
+Topic 1: learning models
+Topic 2: approach instructional
+Topic 3: prediction needs
+Topic 4: prediction modeling

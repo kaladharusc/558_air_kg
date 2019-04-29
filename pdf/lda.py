@@ -10,7 +10,6 @@ from io import StringIO
 from pdfminer.layout import LAParams
 from pdfminer.converter import TextConverter
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.datasets import fetch_20newsgroups
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 class MyParser(object):
@@ -20,6 +19,7 @@ class MyParser(object):
         if not document.is_extractable:
             raise PDFTextExtractionNotAllowed
         rsrcmgr = PDFResourceManager()
+        retstr = StringIO()
         laparams = LAParams()
         codec = 'utf-8'
         device = TextConverter(rsrcmgr, retstr,
@@ -36,17 +36,25 @@ class MyParser(object):
     def handle_line(self, line):
         self.records.append(line)
 
-def display_topics(model, feature_names, no_top_words):
+def display_topics(model, feature_names, no_top_words,ipfile):
     for topic_idx, topic in enumerate(model.components_):
         print("Topic %d:" % (topic_idx))
-        print(" ".join([feature_names[i]
-                        for i in topic.argsort()[:-no_top_words - 1:-1]]))
+        print(" ".join([feature_names[i] for i in topic.argsort()[:-no_top_words - 1:-1]]))
+        with open("topics_"+ipfile+".txt","a") as f:
+            f.write("Topic %d: " % (topic_idx))
+            f.write(" ".join([feature_names[i] for i in topic.argsort()[:-no_top_words - 1:-1]]))
+            f.write("\n")
 
-if __name__ == '__main__':
+def main():
     warnings.filterwarnings("ignore")
-    p = MyParser(sys.argv[1])
+    try:
+        ipfile = sys.argv[1]
+        p = MyParser(ipfile)
+    except:
+        print("No Input file entered.")
+        return
+    list = p.records #[:30]
     #print('\n'.join(p.records))
-    list = p.records[] # [:30]
     #print(list)
     f1 = 0
     abstract = ""
@@ -60,7 +68,11 @@ if __name__ == '__main__':
             else:
                 break
     print(abstract)
-    print("\n LDA:")
+    with open("topics_"+ipfile+".txt","a") as f:
+        f.write(abstract)
+        f.write("\n\n")
+
+    print("\nLDA:")
     # LDA
     no_features = 10
     tf_vectorizer = CountVectorizer(max_df=2, min_df=0.95, max_features=no_features, stop_words='english')
@@ -69,4 +81,7 @@ if __name__ == '__main__':
     no_topics = 5
     lda = LatentDirichletAllocation(n_topics=no_topics, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
     no_top_words = 2
-    display_topics(lda, tf_feature_names, no_top_words)
+    display_topics(lda, tf_feature_names, no_top_words,ipfile)
+
+if __name__ == '__main__':
+    main()
