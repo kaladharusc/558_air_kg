@@ -1,15 +1,20 @@
 import axios from "axios";
 
 export function searchPublications(payload) {
-    return function(dispatch) {
+    return function (dispatch) {
         var headers = {
             'Content-Type': 'application/json; charset=utf-8',
         }
-        var data = {searchQueryParams: payload.searchQueryParams}
+        var data = {
+            searchQueryParams: payload.searchQueryParams,
+            searchName: payload.researcherName
+        }
 
         var server_url = "http://localhost:3000/searchPublications";
 
-        axios.post(server_url, data, {headers:headers})
+        axios.post(server_url, data, {
+                headers: headers
+            })
             .then((response) => {
                 dispatch({
                     type: "PUBLICATION_SEARCH",
@@ -20,5 +25,5 @@ export function searchPublications(payload) {
             }).catch((error) => {
                 console.log("Error in Publication Search");
             })
-    }    
+    }
 }

@@ -6,17 +6,21 @@ var client = new elasticsearch.Client({
 
 var exports = module.exports = {}
 
-exports.ping = function(outResponse) {
+exports.ping = function (outResponse) {
     client.ping({
         requestTimeout: 3000,
-    }, function(error, response, status) {
+    }, function (error, response, status) {
         if (error) {
             console.error("Elasticsearch cluster is down !");
-            outResponse.send({"msg": "Elasticsearch cluster is down !"});
+            outResponse.send({
+                "msg": "Elasticsearch cluster is down !"
+            });
         } else {
             console.log("Response " + response);
             console.log("Status " + status);
-            outResponse.send({"msg": `${response} : ${status}`});
+            outResponse.send({
+                "msg": `${response} : ${status}`
+            });
         }
     });
 }
@@ -27,54 +31,62 @@ exports.insertDocument = function (request, outResponse) {
         id: 1,
         type: 'doc',
         body: request
-    }, function(error, response, status) {
+    }, function (error, response, status) {
         if (error) {
-            outResponse.send({"msg": "Document could not be inserted !"});
+            outResponse.send({
+                "msg": "Document could not be inserted !"
+            });
         } else {
             // console.log("Response " + response);
             // console.log("Status " + status);
-            outResponse.send({"msg": `${response} : ${status}`});
-        }           
+            outResponse.send({
+                "msg": `${response} : ${status}`
+            });
+        }
     });
 }
 
-exports.fuzzySearch = function(searchPattern, res_object, callback) {
+exports.fuzzySearch = function (searchPattern, res_object, callback) {
     client.search({
         index: 'research_doc',
         type: 'research_information',
         body: {
             query: {
-                wildcard: {person: `${searchPattern}*`}
+                wildcard: {
+                    person: `${searchPattern}*`
+                }
             }
         }
-    }).then(function(response){
+    }).then(function (response) {
         var hits = response.hits.hits.map(ele => ele["_source"]["person"]);
         callback(res_object, hits);
-    }, function(error) {
+    }, function (error) {
         callback(res_object, "");
         console.trace(error.message);
     });
 }
 
-exports.searchDocument = function(searchName, res_object, callback) {
+exports.searchDocument = function (searchName, res_object, callback) {
     client.search({
         index: 'research_doc',
         type: 'research_information',
         body: {
             query: {
-                match: {person: searchName}
+                match: {
+                    person: searchName
+                }
             }
         }
-    }).then(function(response) {
+    }).then(function (response) {
         var hits = response.hits.hits;
         callback(res_object, hits);
-    }, function(error) {
+    }, function (error) {
         // callback(error.message);
         console.trace(error.message);
     })
 }
 
-exports.searchPublications = function(searchQueryParams, res_object, callback) {
+exports.searchPublications = function (searchQueryParams, searchName, res_object, callback) {
 
     client.search({
         index: 'research_doc',
@@ -82,20 +94,25 @@ exports.searchPublications = function(searchQueryParams, res_object, callback) {
         body: {
             _source: ["papers"],
             query: {
-                regexp: {"corpus.domain": searchQueryParams}
+                match: {
+                    person: searchName
+                },
+                regexp: {
+                    "corpus.domain": searchQueryParams
+                }
             }
         }
-    }).then(function(response) {
+    }).then(function (response) {
         var hits = response.hits.hits;
         callback(res_object, hits);
-    }, function(error) {
+    }, function (error) {
         // callback(error.message);
         console.trace(error.message);
     })
 
 }
 
-exports.searchCourses = function(searchQueryParams, res_object, callback) {
+exports.searchCourses = function (searchQueryParams, searchName, res_object, callback) {
 
     client.search({
         index: 'research_doc',
@@ -103,13 +120,18 @@ exports.searchCourses = function(searchQueryParams, res_object, callback) {
         body: {
             _source: ["courses"],
             query: {
-                regexp: {"corpus.domain": searchQueryParams}
+                match: {
+                    person: searchName
+                },
+                regexp: {
+                    "corpus.domain": searchQueryParams
+                }
             }
         }
-    }).then(function(response) {
+    }).then(function (response) {
         var hits = response.hits.hits;
         callback(res_object, hits);
-    }, function(error) {
+    }, function (error) {
         // callback(error.message);
         console.trace(error.message);
     })

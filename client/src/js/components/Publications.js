@@ -3,12 +3,16 @@ import { connect } from "react-redux"
 
 import { searchPublications } from "../actions/publicationSearchAction"
 import { fuzzySearchResearcher } from "../actions/fuzzySearchAction";
+import { searchResearcher } from "../actions/searchAction"
 import NavBar from "./NavBar";
 
 import { Redirect } from "react-router-dom"
 @connect((store) => {
     return {
-        publicationDetails: store["publicationReducer"].publicationDetails
+        publicationDetails: store["publicationReducer"].publicationDetails,
+        researcherName: store["searchReducer"].researcherName,
+        fuzzySearchPattern: store["searchReducer"].fuzzySearchPattern,
+        fuzzySearchResults: store["searchReducer"].fuzzySearchResults,
     }
 })
 
@@ -30,8 +34,17 @@ export default class Publications extends React.Component {
     }
 
     handleChange(event) {
-        this.buttons[event.target.value] = this.buttons[event.target.value] ^ 1;
-        console.log(this.buttons);
+
+        if (event.target.name === "fuzzySearchPattern") {
+            this[event.target.name] = event.target.value;
+            var payload = {
+                "fuzzySearchPattern": this.fuzzySearchPattern
+            }
+
+            this.props.dispatch(fuzzySearchResearcher(payload));
+        } else {
+            this.buttons[event.target.value] = this.buttons[event.target.value] ^ 1;
+        }
     }
 
     submitRequest() {
@@ -46,7 +59,8 @@ export default class Publications extends React.Component {
         if (searchQueryParams != "") {
             console.log(searchQueryParams);
             var payload = {
-                "searchQueryParams": searchQueryParams
+                "searchQueryParams": searchQueryParams,
+                "researcherName": this.fuzzySearchPattern
             }
             this.props.dispatch(searchPublications(payload));
         } else {
@@ -55,7 +69,7 @@ export default class Publications extends React.Component {
     }
 
     render() {
-        var { publicationDetails } = this.props;
+        var { fuzzySearchResults, publicationDetails } = this.props;
         var headers = this.headers;
         return (
             <div>
@@ -67,7 +81,15 @@ export default class Publications extends React.Component {
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ml" /> ML AND DATA Mining</span>
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="nlp" /> NLP</span>
                     <span><input type="checkbox" onChange={this.handleChange.bind(this)} value="ir" /> IR</span>
+                    <label className="label">Prof Name:   </label>
+                    <input className="input" list="data" type="text" name="fuzzySearchPattern" onChange={this.handleChange.bind(this)}></input>
+                    <datalist id="data">
+                        {fuzzySearchResults.map((item, key) => {
+                            return <option key={key} value={item} />
+                        })}
+                    </datalist>
                 </div>
+
                 <button class="btn btn-primary search-button" onClick={this.submitRequest.bind(this)}>Search!</button>
 
                 {

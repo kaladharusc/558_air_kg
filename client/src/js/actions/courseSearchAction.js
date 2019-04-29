@@ -1,15 +1,20 @@
 import axios from "axios";
 
 export function searchCourses(payload) {
-    return function(dispatch) {
+    return function (dispatch) {
         var headers = {
             'Content-Type': 'application/json; charset=utf-8',
         }
-        var data = {searchQueryParams: payload.searchQueryParams}
+        var data = {
+            searchQueryParams: payload.searchQueryParams,
+            searchName: payload.researcherName
+        }
 
         var server_url = "http://localhost:3000/searchCourses";
 
-        axios.post(server_url, data, {headers:headers})
+        axios.post(server_url, data, {
+                headers: headers
+            })
             .then((response) => {
                 console.log(response.data);
                 dispatch({
@@ -21,5 +26,5 @@ export function searchCourses(payload) {
             }).catch((error) => {
                 console.log("Error in Course Search");
             })
-    }    
+    }
 }

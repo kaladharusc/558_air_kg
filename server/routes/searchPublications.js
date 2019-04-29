@@ -14,8 +14,9 @@ let send_response = (response, hits) => {
 
 router.post('/', function(req, res, next) {
   let searchQueryParams = req.body.searchQueryParams;
+  let searchName = req.body.searchName;
   //console.log(searchQueryParams);
-  elasticSearch.searchPublications(searchQueryParams, res, send_response);
+  elasticSearch.searchPublications(searchQueryParams, searchName, res, send_response);
 });
 
 module.exports = router;

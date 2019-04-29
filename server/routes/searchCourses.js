@@ -9,13 +9,16 @@ let send_response = (response, hits) => {
     hits.forEach((hit) => {
         aggregatedCourses.push(...hit._source.courses)
     })
-    response.send({"msg": aggregatedCourses});
+    response.send({
+        "msg": aggregatedCourses
+    });
 }
 
-router.post('/', function(req, res, next) {
-  let searchQueryParams = req.body.searchQueryParams;
-  //console.log(searchQueryParams);
-  elasticSearch.searchCourses(searchQueryParams, res, send_response);
+router.post('/', function (req, res, next) {
+    let searchQueryParams = req.body.searchQueryParams;
+    let searchName = req.body.searchName;
+    //console.log(searchQueryParams);
+    elasticSearch.searchCourses(searchQueryParams, searchName, res, send_response);
 });
 
 module.exports = router;
